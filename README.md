@@ -13,9 +13,11 @@ npm run dev
 
 Open the address printed by Vite (usually http://localhost:5173). To create a static build, run `npm run build`.
 
-## GitHub Pages later
+## GitHub Pages
 
-Set Vite's `base` to your repository path (for example `/ppl-quiz/`) in a `vite.config.js` file, run `npm run build`, and publish the `dist` folder. Progress remains specific to each browser/device.
+Vite is configured for `/ppl-quiz/`. In the GitHub repository, select **Settings → Pages → Build and deployment → Source → GitHub Actions**. The deployment workflow builds and publishes `dist` on every push to `main`, or can be started manually from the Actions tab.
+
+The published site is https://dzonioroz.github.io/ppl-quiz/. Progress remains specific to each browser/device.
 
 ## Data and extraction
 
