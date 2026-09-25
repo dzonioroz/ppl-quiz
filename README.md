@@ -19,6 +19,12 @@ Vite is configured for `/ppl-quiz/`. In the GitHub repository, select **Settings
 
 The published site is https://dzonioroz.github.io/ppl-quiz/. Progress remains specific to each browser/device.
 
+## Shared password
+
+Set the shared password in `src/access-config.js`. When changing it, also change `version` (for example, from `'1'` to `'2'`) to require sign-in again after deployment. Commit and push the change to deploy it.
+
+Successful sign-in is remembered in this browser. **Sign out** locks the app without deleting quiz progress. This is a casual gate for friends and family: the password and question data are included in the downloadable site, so it does not protect private information.
+
 ## Data and extraction
 
 Each subject has one JSON file in `src/data/`. The `scripts/extract.py` script reproduces them from the source PDFs when the PDFs are placed in the project `upload/` folder. The report `extraction-report.json` lists question counts and figure references. The original PDF puts the correct response first, so JSON stores `correctAnswer: 0`; the app shuffles choices separately for every quiz. Source page numbers refer to PDF pages. `explanation` is an empty placeholder.
