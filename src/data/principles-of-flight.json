@@ -1,0 +1,2256 @@
+{
+  "subject": "Principles of Flight",
+  "source": "Principles of flight.pdf",
+  "questions": [
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-001",
+      "sourceNumber": 1,
+      "question": "At a constant angle of attack, a decrease in the airspeed of an aircraft will result in:",
+      "answers": [
+        "A decrease in lift and drag.",
+        "An increase in lift and a decrease in drag.",
+        "An increase in drag and a decrease in lift.",
+        "Possible increases or decreases in lift or drag, depending on the actual speed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-002",
+      "sourceNumber": 2,
+      "question": "A wing which is inclined downwards from root to tip is said to have:",
+      "answers": [
+        "Anhedral.",
+        "Washout.",
+        "Taper.",
+        "Sweep."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-003",
+      "sourceNumber": 3,
+      "question": "Full flaps should be selected when:",
+      "answers": [
+        "Committed to land.",
+        "Commencing final approach.",
+        "On go-around.",
+        "Landing into a strong headwind."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-004",
+      "sourceNumber": 4,
+      "question": "An aerofoil section is designed to produce lift resulting from a difference in the:",
+      "answers": [
+        "Higher air pressure below the surface and lower air pressure above the surface.",
+        "Negative air pressure below and a vacuum above the surface.",
+        "Vacuum below the surface and greater air pressure above the surface.",
+        "Higher air pressure at the leading edge than at the trailing edge."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-005",
+      "sourceNumber": 5,
+      "question": "At a given Indicated Air Speed, what effect will an increase in air density have on lift and drag?",
+      "answers": [
+        "Lift and drag will remain the same.",
+        "Lift will increase but drag will decrease.",
+        "Lift and drag will increase.",
+        "Lift and drag will decrease."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-006",
+      "sourceNumber": 6,
+      "question": "The maximum value of the Coefficient of Lift is found:",
+      "answers": [
+        "At the stalling angle of attack.",
+        "At negative angles of attack.",
+        "When lift equals drag.",
+        "During steep turns."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-007",
+      "sourceNumber": 7,
+      "question": "The amount of lift a wing produces is directly proportional to:",
+      "answers": [
+        "The air density.",
+        "The dynamic pressure minus the static pressure.",
+        "The square root of the velocity of the air flowing over it.",
+        "The air temperature."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-008",
+      "sourceNumber": 8,
+      "question": "The maximum gliding distance from 6000 feet, for an aircraft in clean configuration, with a lift/drag ratio of 8:1, is approximately 8 nautical miles. If flaps are deployed:",
+      "answers": [
+        "The maximum gliding distance will be less.",
+        "The maximum gliding distance will increase.",
+        "Lift/Drag ratio will be unaffected but will be achieved at a lower airspeed.",
+        "The maximum gliding distance will be unaffected."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-009",
+      "sourceNumber": 9,
+      "question": "If the Angle of Attack and other factors remain constant, and the airspeed is doubled, lift will be:",
+      "answers": [
+        "Quadrupled.",
+        "Doubled.",
+        "One quarter of what it was.",
+        "The same."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-010",
+      "sourceNumber": 10,
+      "question": "An aeroplane which is inherently stable will:",
+      "answers": [
+        "Have a built-in tendency to return to its original state following the removal of any disturbing force.",
+        "Require less effort to control.",
+        "Be difficult to stall.",
+        "Not spin."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-011",
+      "sourceNumber": 11,
+      "question": "The maximum value of the coefficient of lift is found at an angle of attack of approximately:",
+      "answers": [
+        "16 degrees.",
+        "Minus 4 degrees.",
+        "0 degrees.",
+        "4 to 6 degrees."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-012",
+      "sourceNumber": 12,
+      "question": "The angle of attack is the angle between the:",
+      "answers": [
+        "Chord line and the relative airflow.",
+        "Camber line and free stream flow.",
+        "Chord line and the longitudinal axis of the aeroplane.",
+        "Chord line and the horizontal plane."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-013",
+      "sourceNumber": 13,
+      "question": "If in level flight the airspeed decreases below that for maximum Lift/Drag, the effect will be that:",
+      "answers": [
+        "Drag increases because of increased induced drag.",
+        "Drag decreases because of lower induced drag.",
+        "Drag increases because of increased parasite drag.",
+        "Drag decreases because of lower parasite drag."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-014",
+      "sourceNumber": 14,
+      "question": "As airspeed increases induced drag_____, parasite drag_____and total drag.",
+      "answers": [
+        "Decreases / Increases / Decreases then increases.",
+        "Increases / Increases / Increases.",
+        "Increases / Decreases / Increases then decreases.",
+        "Decreases / Decreases / Decreases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-015",
+      "sourceNumber": 15,
+      "question": "On an aerofoil section, the force of lift acts perpendicular to, and the force of drag acts parallel to, the:",
+      "answers": [
+        "Flightpath.",
+        "Longitudinal axis.",
+        "Chord line.",
+        "Aerofoil section upper surface."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-016",
+      "sourceNumber": 16,
+      "question": "A positively cambered aerofoil starts to produce lift at an angle of attack of approximately:",
+      "answers": [
+        "Minus 4 degrees.",
+        "0 degrees.",
+        "4 to 6 degrees.",
+        "16 degrees."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-017",
+      "sourceNumber": 17,
+      "question": "An imaginary straight line running from the midpoint of the leading edge of an aerofoil to its trailing edge, is called the:",
+      "answers": [
+        "Chord.",
+        "Mean camber.",
+        "Aerofoil thickness.",
+        "Maximum camber."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-018",
+      "sourceNumber": 18,
+      "question": "The definition of lift is:",
+      "answers": [
+        "The aerodynamic force which acts at 90° to the relative airflow.",
+        "The aerodynamic force which acts perpendicular to the chord line of the aerofoil.",
+        "The aerodynamic force that results from the pressure differentials about an aerofoil.",
+        "The aerodynamic force which acts perpendicular to the upper surface of the aerofoil."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-019",
+      "sourceNumber": 19,
+      "question": "Loading an aircraft so that the CG exceeds the aft limits could result in:",
+      "answers": [
+        "Loss of longitudinal stability and the nose pitching up at slow speeds.",
+        "Excessive upward force on the tail, and the nose pitching down.",
+        "Excessive load factor in turns.",
+        "High stick forces."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-020",
+      "sourceNumber": 20,
+      "question": "Density:",
+      "answers": [
+        "Reduces with altitude increase.",
+        "Is unaffected by temperature change.",
+        "Increases with altitude increase.",
+        "Reduces with temperature reduction."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-021",
+      "sourceNumber": 21,
+      "question": "The tendency of an aircraft to develop forces which restore it to its original flight situation, when disturbed from a condition of steady flight, is known as:",
+      "answers": [
+        "Stability.",
+        "Manoeuvrability.",
+        "Controllability.",
+        "Instability."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-022",
+      "sourceNumber": 22,
+      "question": "An aft Centre of Gravity will give:",
+      "answers": [
+        "Increased elevator effectiveness when flaring.",
+        "Increased longitudinal stability.",
+        "Heavy forces for control movements.",
+        "Longer take-off distances."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-023",
+      "sourceNumber": 23,
+      "question": "Longitudinal stability is given.",
+      "answers": [
+        "The horizontal tailplane.",
+        "The fin.",
+        "The wing dihedral.",
+        "The ailerons."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-024",
+      "sourceNumber": 24,
+      "question": "With a forward Centre of Gravity, an aircraft will have:",
+      "answers": [
+        "Decreased elevator effectiveness when flaring.",
+        "Reduced longitudinal stability.",
+        "Lighter forces for control movements.",
+        "Shorter take off distances."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-025",
+      "sourceNumber": 25,
+      "question": "If the Centre of Gravity (CG) of an aircraft is found to be within limits for take-off:",
+      "answers": [
+        "The CG limits for landing must be checked, allowing for planned fuel consumption.",
+        "The CG will always be within limits for landing.",
+        "The CG will not change during the flight.",
+        "The flight crew will always be certain of being able to adjust the CG during flight in order to keep it within acceptable limits for landing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-026",
+      "sourceNumber": 26,
+      "question": "When an aircraft is disturbed from its trimmed attitude by, for example, turbulence, it is said to have neutral stability if it subsequently:",
+      "answers": [
+        "Remains in the new attitude.",
+        "Oscillates about its original attitude before settling back to that original attitude.",
+        "Immediately re-establishes its original attitude.",
+        "Continues to move in the disturbed direction until the displacement is resisted by opposing control forces."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-027",
+      "sourceNumber": 27,
+      "question": "When the CG is close to the forward limit:",
+      "answers": [
+        "Very high stick forces are required to pitch because the aircraft is very stable.",
+        "Very small forces are required on the control column to produce pitch.",
+        "Longitudinal stability is reduced.",
+        "Stick forces are the same as for an aft CG."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-028",
+      "sourceNumber": 28,
+      "question": "Which of the following four options describes the consequence of taking off with the manufacturer's recommended take-off flap setting selected?",
+      "answers": [
+        "A decrease in the length of the take-off run compared to a non-flap take-off.",
+        "An increase in the length of the take-off run compared to a non-flap take-off.",
+        "A greater angle of climb.",
+        "Easier avoidance of obstacles at the end of a runway."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-029",
+      "sourceNumber": 29,
+      "question": "Following a lateral disturbance, an aircraft with Dutch roll instability will:",
+      "answers": [
+        "Develop simultaneous oscillations in roll and yaw.",
+        "Go into a spiral dive.",
+        "Develop oscillations in pitch.",
+        "Develop an unchecked roll."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-030",
+      "sourceNumber": 30,
+      "question": "When an aircraft is disturbed from its established flight path by, for example, turbulence, it is said to have positive stability if it subsequently:",
+      "answers": [
+        "Re-establishes its original flight path without any input from the pilot.",
+        "Remains on the new flight path.",
+        "Becomes further displaced from its original flight path.",
+        "Continues to pitch in the disturbed direction until the displacement is resisted by opposing control forces."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-031",
+      "sourceNumber": 31,
+      "question": "Wing dihedral produces a stabilising rolling moment by causing an increase in lift:",
+      "answers": [
+        "On the lower wing when the aircraft is sideslipping.",
+        "On the up-going wing when the aircraft rolls.",
+        "On the up-going wing when the aircraft is sideslipping.",
+        "On the lower wing whenever the aircraft is in a banked attitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-032",
+      "sourceNumber": 32,
+      "question": "By design, the Centre of Pressure on a particular aircraft remains behind the aircraft's CG. If the aircraft is longitudinally stable and is displaced in pitch, nose down, by turbulence:",
+      "answers": [
+        "The tailplane will generate a downward force.",
+        "The tailplane will generate an upward force.",
+        "Neither an upward nor a downward force will be generated by the tailplane, as the aircraft will already be in equilibrium.",
+        "The aircraft will maintain its nose-down attitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-033",
+      "sourceNumber": 33,
+      "question": "If the wing Aerodynamic Centre is forward of the CG:",
+      "answers": [
+        "Changes in lift produce a wing pitching moment which acts to increase the change of lift.",
+        "Changes in lift produce a wing pitching moment which acts to reduce the change of lift.",
+        "Changes in lift give no change in wing pitching moment.",
+        "When the aircraft sideslips, the CG causes the nose to turn into the sideslip thus applying a restoring moment."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-034",
+      "sourceNumber": 34,
+      "question": "If a disturbing force causes an aircraft to roll:",
+      "answers": [
+        "Wing dihedral will cause a rolling moment which tends to correct the sideslip.",
+        "The fin will cause a yawing moment which reduces the sideslip.",
+        "Wing dihedral will cause a yawing moment which tends to correct the sideslip.",
+        "Wing dihedral will cause a nose up pitching moment."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-035",
+      "sourceNumber": 35,
+      "question": "After a disturbance in pitch, an aircraft oscillates in pitch with increasing amplitude. It is:",
+      "answers": [
+        "Statically stable but dynamically unstable.",
+        "Statically and dynamically unstable.",
+        "Statically unstable but dynamically stable.",
+        "Statically and dynamically stable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-036",
+      "sourceNumber": 36,
+      "question": "By changing the Angle of Attack of a wing, the pilot can control the aeroplane's:",
+      "answers": [
+        "Lift, airspeed, and drag.",
+        "Lift and airspeed, but not drag.",
+        "Lift, gross weight, and drag.",
+        "Lift and drag, but not airspeed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-037",
+      "sourceNumber": 37,
+      "question": "With the flaps lowered, the stalling speed will:",
+      "answers": [
+        "Decrease.",
+        "Increase.",
+        "Increase, but occur at a higher angle of attack.",
+        "Remain the same."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-038",
+      "sourceNumber": 38,
+      "question": "Air pressure:",
+      "answers": [
+        "Acts in all directions.",
+        "Acts only vertically downwards.",
+        "Is measured in Pascals per square inch.",
+        "Increases with altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-039",
+      "sourceNumber": 39,
+      "question": "If the Indicated Air Speed of an aircraft is increased from 50 kts to 100 kts, parasite drag will be:",
+      "answers": [
+        "Four times greater.",
+        "Six times greater.",
+        "Two times greater.",
+        "One quarter as much."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-040",
+      "sourceNumber": 40,
+      "question": "Which of the four answer options most correctly completes the sentence? Increasing speed also increases lift because:",
+      "answers": [
+        "The increased speed of the air passing over an aerofoil's upper surface decreases the static pressure above the wing, thus creating a greater pressure differential across the upper and lower surface.",
+        "Lift is directly proportional to velocity.",
+        "The increased velocity of the relative wind overcomes the increased drag.",
+        "Increasing speed decreases drag."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-041",
+      "sourceNumber": 41,
+      "question": "The air flow over the wing's upper surface in straight and level flight, when compared with the airflow that is unaffected by the wing, will have:",
+      "answers": [
+        "A higher velocity.",
+        "A higher density.",
+        "A reduced velocity.",
+        "The same velocity."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-042",
+      "sourceNumber": 42,
+      "question": "The symbol for dynamic pressure is:",
+      "answers": [
+        "Q.",
+        "P.",
+        "R.",
+        "D."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-043",
+      "sourceNumber": 43,
+      "question": "Relative airflow is ___and_____the movement of the aircraft.",
+      "answers": [
+        "Parallel to / Opposite to.",
+        "Perpendicular to / Opposite to.",
+        "Perpendicular to / in the same direction as.",
+        "Parallel to / in the same direction as."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-044",
+      "sourceNumber": 44,
+      "question": "The dynamic pressure exerted on an aircraft's frontal surface is equal to:",
+      "answers": [
+        "Half the density times the true airspeed squared.",
+        "Density time's speed squared.",
+        "Half the true airspeed times the density squared.",
+        "Half the density times the indicated airspeed squared."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-045",
+      "sourceNumber": 45,
+      "question": "The unit of force is the:",
+      "answers": [
+        "Newton.",
+        "Newton-metre.",
+        "Joule.",
+        "Mass-kilogram."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-046",
+      "sourceNumber": 46,
+      "question": "Considering the forces acting upon an aeroplane, at constant airspeed, which statement is correct?",
+      "answers": [
+        "Weight always acts vertically downwards towards the centre of the Earth.",
+        "Lift acts perpendicular to the chord line and must always be greater than weight.",
+        "Thrust acts parallel to the relative airflow and is greater than drag.",
+        "The lift force generated by the wings always acts in the opposite direction to the aircraft's weight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-047",
+      "sourceNumber": 47,
+      "question": "A piston engine aircraft fiies in that layer of the atmosphere called:",
+      "answers": [
+        "The Troposphere.",
+        "The Stratosphere.",
+        "The Mesosphere.",
+        "The Tropopause."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-048",
+      "sourceNumber": 48,
+      "question": "In straight and level flight, the free stream airflow pressure, compared to that flowing under the wing, is:",
+      "answers": [
+        "Lower.",
+        "Equal.",
+        "Higher.",
+        "Equal pressure but travelling faster."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-049",
+      "sourceNumber": 49,
+      "question": "Assuming that the pressure at sea level is ISA, but the temperature is 10°C higher than ISA, the density will be:",
+      "answers": [
+        "Less than ISA.",
+        "As per ISA.",
+        "Greater than ISA.",
+        "Unaffected."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-050",
+      "sourceNumber": 50,
+      "question": "The properties of the Earth s atmosphere which influence the performance of aircraft are:",
+      "answers": [
+        "Its water vapour content, temperature, pressure and density.",
+        "Its temperature, pressure and humidity.",
+        "Its oxygen content pressure and water vapour content.",
+        "Its nitrogen content, oxygen content, temperature and pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-051",
+      "sourceNumber": 51,
+      "question": "The respective percentages of the four most abundant gases that make up the atmosphere are?",
+      "answers": [
+        "Nitrogen 78% Oxygen 21% Argon 0.95% Carbon Dioxide 0.05%.",
+        "Oxygen 78% Nitrogen 21% Argon 0.95% Carbon Dioxide 0.05%.",
+        "Nitrogen 78% Oxygen 21% Argon 0.95% Carbon Monoxide 0.05%.",
+        "Oxygen 78% Nitrogen 21% Argon 0.95% Carbon Monoxide 0.05%."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-052",
+      "sourceNumber": 52,
+      "question": "When considering the changes in density of the air with altitude, which of the following four options is correct?",
+      "answers": [
+        "The reduction in pressure with increasing altitude causes density to reduce.",
+        "The temperature increase with increasing altitude causes density to increase.",
+        "The temperature reduction with increasing altitude causes density to increase.",
+        "The increase in pressure with increasing altitude causes density to reduce."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-053",
+      "sourceNumber": 53,
+      "question": "The presence of water vapour:",
+      "answers": [
+        "In air will reduce its density.",
+        "In air will increase its density.",
+        "In the atmosphere will increase the power output of a piston engine.",
+        "In the atmosphere will increase the amount of lift generated by an aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-054",
+      "sourceNumber": 54,
+      "question": "If, on a given day, the actual outside air temperature at 4000 ft is 23°C, what is the approximate difference between the actual and ISA temperature?",
+      "answers": [
+        "16°C.",
+        "7°C.",
+        "15°C.",
+        "8°C."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-055",
+      "sourceNumber": 55,
+      "question": "The air pressure that acts on anything immersed in it:",
+      "answers": [
+        "Is also known as Static Pressure.",
+        "Is also known as Dynamic Pressure.",
+        "Is greater at altitude than at sea level.",
+        "Is also known as Total Pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-056",
+      "sourceNumber": 56,
+      "question": "In straight and level powered flight the following principal forces act on an aircraft:",
+      "answers": [
+        "Thrust lift. drag, weight.",
+        "Thrust lift, weight.",
+        "Thrust lift, drag.",
+        "Lift, drag, weight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-057",
+      "sourceNumber": 57,
+      "question": "The boundary layer consists of:",
+      "answers": [
+        "Laminar and Turbulent flow.",
+        "Laminar flow.",
+        "Turbulent flow.",
+        "Turbulent flow at low speeds only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-058",
+      "sourceNumber": 58,
+      "question": "A pilot lowers the flaps while keeping the airspeed constant. In order to maintain level flight, the angle of attack:",
+      "answers": [
+        "Must be reduced.",
+        "Must be increased.",
+        "Must be kept constant but power must be increased.",
+        "Must be kept constant and power required will be constant."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-059",
+      "sourceNumber": 59,
+      "question": "That portion of the aircraft's total drag created by the production of lift is called:",
+      "answers": [
+        "Induced drag, which is greatly affected by changes in airspeed.",
+        "Parasite drag, which is greatly affected by changes in airspeed.",
+        "Induced drag, which is not affected by changes in airspeed.",
+        "Parasite drag, which is inversely proportional to the square of the airspeed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-060",
+      "sourceNumber": 60,
+      "question": "As Indicated Air Speed (IAS) is reduced, in order to maintain altitude, the pilot must:",
+      "answers": [
+        "Increase the angle of attack to maintain the correct lift force.",
+        "Decrease the angle of attack to reduce the drag.",
+        "Deploy the speed brakes to increase drag.",
+        "Reduce the thrust."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-061",
+      "sourceNumber": 61,
+      "question": "As airspeed increases, induced drag:",
+      "answers": [
+        "Decreases.",
+        "Increases.",
+        "Is dependant on the weight of the aircraft?",
+        "Remains unchanged."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-062",
+      "sourceNumber": 62,
+      "question": "Dynamic Pressure may be expressed by the formula:",
+      "answers": [
+        "Q=1/2pV2.",
+        "Q=1/3PV2.",
+        "Q =PV.",
+        "Q = 2PV."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-063",
+      "sourceNumber": 63,
+      "question": "A moving mass of air possesses kinetic energy. An object placed in the path of such a moving mass of air will be subject to:",
+      "answers": [
+        "Static pressure and dynamic pressure.",
+        "Static Pressure.",
+        "Dynamic pressure.",
+        "Dynamic pressure minus static pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-064",
+      "sourceNumber": 64,
+      "question": "In sub-sonic airflow, as air passes through a venturi, the mass flow_____, the velocity _____and the static pressure_____.",
+      "answers": [
+        "Remains constant / increases then decreases / decreases then increases.",
+        "a) Decreases then increases / remains constant / increases then decreases.",
+        "Remains constant / increases then decreases / increases then decreases.",
+        "Decreases then increases / increases then decreases / increases then decreases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-065",
+      "sourceNumber": 65,
+      "question": "An aircraft has a nose down pitching moment due to the lift/weight couple and a nose up pitching moment due to the thrust/drag couple. When power is increased:",
+      "answers": [
+        "It will pitch nose up.",
+        "It will pitch nose down.",
+        "The couples both increase in magnitude but remain balanced.",
+        "The couples both decrease in magnitude but remain balanced."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-066",
+      "sourceNumber": 66,
+      "question": "What must be the relationship between the forces acting on an aircraft in flight, for that aircraft to be in a state of equilibrium?",
+      "answers": [
+        "Lift must equal weight, and thrust must equal drag.",
+        "Lift must equal drag, and thrust must equal weight.",
+        "Lift must equal thrust plus drag.",
+        "Lift must equal thrust, and weight must equal drag."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-067",
+      "sourceNumber": 67,
+      "question": "Resistance, or skin friction, due to the viscosity of the air as it passes along the surface of a wing, is a type of:",
+      "answers": [
+        "Parasite drag.",
+        "Induced drag.",
+        "Form drag.",
+        "Interference drag."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-068",
+      "sourceNumber": 68,
+      "question": "If the velocity of an air mass is increased:",
+      "answers": [
+        "The kinetic energy will increase, the dynamic pressure will increase and the static pressure will decrease.",
+        "The dynamic pressure will decrease and the static pressure will increase.",
+        "The static pressure will remain constant and the kinetic energy will increase.",
+        "The mass flow will stay constant, the dynamic pressure will decrease and the static pressure will increase."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-069",
+      "sourceNumber": 69,
+      "question": "Dynamic pressure equals:",
+      "answers": [
+        "Total pressure minus static pressure.",
+        "Total pressure plus static pressure.",
+        "Static pressure minus total pressure.",
+        "Total pressure divided by static pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-070",
+      "sourceNumber": 70,
+      "question": "An aircraft's mass is a resuit of:",
+      "answers": [
+        "How much matter it contains.",
+        "Its weight.",
+        "How big it is.",
+        "Its volume."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-071",
+      "sourceNumber": 71,
+      "question": "An aircraft rotates about:",
+      "answers": [
+        "Its centre of gravity.",
+        "Its wings.",
+        "Its main undercarriage.",
+        "Its rudder."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-072",
+      "sourceNumber": 72,
+      "question": "When considering air: 1 - Air has mass 2 - Air is not compressible 3 - Air is able to flow or change its shape when subject to even small pressures 4 - The viscosity of air is very high 5 - Moving air has kinetic energy The correct combination of all true statements is:",
+      "answers": [
+        "1, 3, and 5.",
+        "1, 2. 3 and 5.",
+        "2, 3 and 4.",
+        "1 and 4."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-073",
+      "sourceNumber": 73,
+      "question": "Dynamic pressure is:",
+      "answers": [
+        "The amount by which the pressure rises at a point where a moving airflow is brought completely to rest.",
+        "The total pressure at a point where a moving airflow is brought completely to rest.",
+        "The pressure due to the mass of air pressing down on the air beneath.",
+        "The pressure change caused by heating when a moving airflow is brought completely to rest."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-074",
+      "sourceNumber": 74,
+      "question": "If the cross sectional area of an airflow is mechanically reduced:",
+      "answers": [
+        "The mass flow remains constant and the velocity of the airflow increases.",
+        "The velocity of the airflow remains constant and the mass flow increases.",
+        "The mass flow remains constant and the static pressure increases.",
+        "The velocity of the airflow remains constant and the kinetic energy increases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-075",
+      "sourceNumber": 75,
+      "question": "The smooth flow of air, where each molecule follows the path of the preceding molecule, is a definition of:",
+      "answers": [
+        "Laminar flow.",
+        "Turbulent flow.",
+        "Free stream flow.",
+        "Wind."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-076",
+      "sourceNumber": 76,
+      "question": "A typical stalling angle of attack for an aircraft wing is:",
+      "answers": [
+        "16° .",
+        "4°.",
+        "30° .",
+        "45°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-077",
+      "sourceNumber": 77,
+      "question": "VNE is:",
+      "answers": [
+        "The maximum airspeed at which the aircraft may be flown.",
+        "The airspeed which must not be exceeded except in a dive.",
+        "The maximum airspeed at which manoeuvres approaching the stall may be carried out.",
+        "The maximum speed, above which flaps should not be extended."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-078",
+      "sourceNumber": 78,
+      "question": "At the stall, the Centre of Pressure moving backwards will cause the nose to_____, and the decreased lift will cause the aircraft to_____.",
+      "answers": [
+        "Drop / lose height.",
+        "Yaw / reduce speed.",
+        "Rise / sink.",
+        "Drop / reduce speed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-079",
+      "sourceNumber": 79,
+      "question": "The basic staiiing speed of an aeroplane is 80 knots. In a level turn with 45° angle bank, the stalling speed is:",
+      "answers": [
+        "95 knots.",
+        "33 knots.",
+        "86 knots.",
+        "113 knots."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-080",
+      "sourceNumber": 80,
+      "question": "The maximum allowable airspeed with flaps extended (Vfe) is lower than cruising speed because:",
+      "answers": [
+        "At speeds higher than Vfe the aerodynamic forces would overload the flap and wing structures.",
+        "Flaps are used only when preparing to land.",
+        "Too much drag is induced.",
+        "Flaps will stall if they are deployed at too high an airspeed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-081",
+      "sourceNumber": 81,
+      "question": "The reason for washout being designed into an aircraft wing is to:",
+      "answers": [
+        "Cause the inboard section of the wing to stall first.",
+        "Increase the effectiveness of the flaps.",
+        "Cause the outboard section of the wing to stall first.",
+        "Decrease the effectiveness of the ailerons."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-082",
+      "sourceNumber": 82,
+      "question": "When the aircraft is in a spin, the direction of spin is most reliably found by reference to which of the following indications?",
+      "answers": [
+        "Turn needle.",
+        "Artificial horizon.",
+        "Slip indicator.",
+        "Direction indicator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-083",
+      "sourceNumber": 83,
+      "question": "Stability around the normal axis:",
+      "answers": [
+        "Is increased if the keel surface behind the CG is increased.",
+        "Is given by the lateral dihedral.",
+        "Depends on the longitudinal dihedral.",
+        "Is greater if the wing has no sweepback."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-084",
+      "sourceNumber": 84,
+      "question": "The maximum angle of climb of an aeroplane is determined by:",
+      "answers": [
+        "Excess engine thrust.",
+        "The aircraft weight.",
+        "Wind speed.",
+        "Excess airspeed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-085",
+      "sourceNumber": 85,
+      "question": "The stalling speed of an aircraft, assuming weight to be constant, is a function of the:",
+      "answers": [
+        "Square root of the Load Factor.",
+        "Inverse of the Load Factor.",
+        "Indicated airspeed.",
+        "Square of the weight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-086",
+      "sourceNumber": 86,
+      "question": "If an aircraft is flown at its design manoeuvring speed VA:",
+      "answers": [
+        "It is not possible to exceed the limit load.",
+        "It is possible to subject the aircraft to a load greater than its limit load during high 'g' manoeuvres.",
+        "It is only possible to subject the aircraft to a load greater than its limit load during violent increases in incidence, i.e. when using excessive stick force to pull-out of a dive.",
+        "It must be immediately slowed down if turbulence is encountered."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-087",
+      "sourceNumber": 87,
+      "question": "The angle of climb is proportional to:",
+      "answers": [
+        "The amount by which the thrust exceeds the drag.",
+        "The amount by which the lift exceeds the weight.",
+        "The amount by which the thrust exceeds the weight.",
+        "The angle of attack of the wing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-088",
+      "sourceNumber": 88,
+      "question": "When an aircraft is in a steady climb, the aerodynamic lift is_____the weight.",
+      "answers": [
+        "Less than.",
+        "Balanced by.",
+        "Equal to.",
+        "Greater than."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-089",
+      "sourceNumber": 89,
+      "question": "The stalling speed of an aircraft in straight and level flight is 60 kt, IAS. What is its stalling speed in a level 60° banked turn?",
+      "answers": [
+        "85 kt.",
+        "60 kt.",
+        "43 kt.",
+        "120 kt."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-090",
+      "sourceNumber": 90,
+      "question": "An aeroplane wing stalls when:",
+      "answers": [
+        "The critical angle of attack is exceeded.",
+        "The indicated airspeed is too low.",
+        "The laminar airflow becomes turbulent.",
+        "It is subjected to unusually high 'G'forces."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-091",
+      "sourceNumber": 91,
+      "question": "If the Angle of Attack is increased beyond the Critical Angle of Attack, the wing will no longer produce sufficient lift to support the weight of the aircraft:",
+      "answers": [
+        "Regardless of airspeed or pitch attitude.",
+        "Unless the airspeed is greater than the normal stall speed.",
+        "Unless the pitch attitude is on or below the natural horizon.",
+        "In which case, the control column should be pulled-back immediately."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-092",
+      "sourceNumber": 92,
+      "question": "If the angle of attack is increased above the stalling angle:",
+      "answers": [
+        "Lift will decrease and drag will increase.",
+        "Lift and drag will both decrease.",
+        "Lift will increase and drag will decrease.",
+        "Lift and drag will both increase."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-093",
+      "sourceNumber": 93,
+      "question": "'Differential Ailerons'are a design feature that helps to counteract:",
+      "answers": [
+        "Adverse yaw.",
+        "Stability about the longitudinal axis.",
+        "Positive aircraft stability.",
+        "Adverse roll."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-094",
+      "sourceNumber": 94,
+      "question": "If the control column is moved to the right, a balance tab on the left aileron should:",
+      "answers": [
+        "Move up relative to the aileron.",
+        "Move down relative to the aileron.",
+        "Not move unless the aileron trim wheel is turned.",
+        "Move to the neutral position."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-095",
+      "sourceNumber": 95,
+      "question": "The angle of attack at which an aeroplane stalls:",
+      "answers": [
+        "Will remain constant, regardless of gross weight.",
+        "Will be smaller flying downwind than when flying upwind.",
+        "Is dependent upon the speed of the airflow over the wing.",
+        "Is a function of speed and density altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-096",
+      "sourceNumber": 96,
+      "question": "The angle of attack for a minimum drag on the wing polar diagram is marked as: (See Fig. PPL PoF-2).",
+      "answers": [
+        "3.",
+        "4.",
+        "5.",
+        "7."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-097",
+      "sourceNumber": 97,
+      "question": "What is the load factor in a 60° banked level turn? (See Fig. PPL PoF-1).",
+      "answers": [
+        "2.0 G.",
+        "1.5 G.",
+        "0.5 G.",
+        "1 G."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-098",
+      "sourceNumber": 98,
+      "question": "What is the maximum allowed bank angle when flying an aircraft with limiting load factor of +3,8 G? (See Fig. PPL PoF-1).",
+      "answers": [
+        "75°.",
+        "70°.",
+        "67°.",
+        "53°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-099",
+      "sourceNumber": 99,
+      "question": "What is the maximum allowed bank angle when flying an aircraft with limiting load factor of +2,5 G? (See Fig. PPL PoF-1).",
+      "answers": [
+        "66°.",
+        "55°.",
+        "60°.",
+        "50°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-100",
+      "sourceNumber": 100,
+      "question": "If an airplane weights 4,600 pounds, what approximate weight would the airplane structure be required to support during a 50° banked turn while maintaining altitude? (See Fig. PPL PoF-1).",
+      "answers": [
+        "7,160 lbs.",
+        "5,400 lbs.",
+        "9,200 lbs.",
+        "8,180 lbs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-101",
+      "sourceNumber": 101,
+      "question": "If an airplane weights 3,000 pounds, what approximate weight would the airplane structure be required to support during a 20° banked turn while maintaining altitude? (See Fig. PPL PoF-1).",
+      "answers": [
+        "3,180 lbs.",
+        "4,000 lbs.",
+        "3,350 lbs.",
+        "3,000 lbs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-102",
+      "sourceNumber": 102,
+      "question": "What is the approximate percentage increase of a minimum speed if an aircraft mass is increased for 20%?",
+      "answers": [
+        "10%.",
+        "0%.",
+        "120%.",
+        "20%."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-103",
+      "sourceNumber": 103,
+      "question": "Approximately for what percent will the stall speed increase if wing loading increases by 15%?",
+      "answers": [
+        "7%.",
+        "0%.",
+        "15%.",
+        "20%."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-104",
+      "sourceNumber": 104,
+      "question": "In a climb at a steady speed, the thrust is:",
+      "answers": [
+        "Greater than the aerodynamic drag.",
+        "Equal to the aerodynamic drag.",
+        "Less than the aerodynamic drag.",
+        "Equal to the weight component along the flight path."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-105",
+      "sourceNumber": 105,
+      "question": "Which wing shape has the greatest induction drag?",
+      "answers": [
+        "Rectangular.",
+        "Taper.",
+        "Elliptical.",
+        "Double taper."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-106",
+      "sourceNumber": 106,
+      "question": "What is the significance of the speed known as VNO?",
+      "answers": [
+        "It signifies the upper limit of the normal operating speed range.",
+        "It is the maximum speed at which abrupt movements of the controls will result in a stall, before the aircraft's positive load limit is exceeded.",
+        "It is the speed beyond which structural failure of the airframe will occur.",
+        "It signifies the airspeed which must never be exceeded."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-107",
+      "sourceNumber": 107,
+      "question": "The critical angle of attack on the wing polar diagram is marked as: (See Fig. PPL PoF-2).",
+      "answers": [
+        "6.",
+        "1.",
+        "4.",
+        "5."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-108",
+      "sourceNumber": 108,
+      "question": "The best angle of attack on the wing polar diagram is marked as: (See Fig. PPL PoF-2).",
+      "answers": [
+        "4.",
+        "2.",
+        "5.",
+        "6."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-109",
+      "sourceNumber": 109,
+      "question": "At which angle of attack should we normally expect beginning of a stall?",
+      "answers": [
+        "10° - 18°.",
+        "3° - 5°.",
+        "5° - 10°.",
+        "grater than 25°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-110",
+      "sourceNumber": 110,
+      "question": "If the aircraft weight is increased, without change of CG position, the stalling angle attack will:",
+      "answers": [
+        "Remain the same.",
+        "Decrease.",
+        "Increase.",
+        "Remain the same. The position of the CG does not affect the stall speed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-111",
+      "sourceNumber": 111,
+      "question": "The purpose of a trim tab is:",
+      "answers": [
+        "To zero the load on the pilots controls in the flight attitude required.",
+        "To assist the pilot in initiating movement of the controls.",
+        "To provide feel to the controls at high speed.",
+        "To increase the effectiveness of the controls."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-112",
+      "sourceNumber": 112,
+      "question": "If the velocity of an airstream is doubled the drag coefficient will.",
+      "answers": [
+        "increase 4-times.",
+        "double.",
+        "not change.",
+        "increase 6-times."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-113",
+      "sourceNumber": 113,
+      "question": "The primary and secondary effects of the aileron control are:",
+      "answers": [
+        "Roll and yaw.",
+        "Roll and pitch.",
+        "Pitch and yaw.",
+        "Yaw and roll."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-114",
+      "sourceNumber": 114,
+      "question": "The purpose of a spring-bias trim system is:",
+      "answers": [
+        "To reduce to zero the effort required by the pilot to counter stick force, after making a control movement.",
+        "To maintain a constant tension in the trim tab system.",
+        "To increase the feel in the control system.",
+        "To compensate for temperature changes in cable tension."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-115",
+      "sourceNumber": 115,
+      "question": "A control surface may have a mass balance fitted to it, in order to:",
+      "answers": [
+        "Help prevent a rapid and uncontrolled oscillation which is called \"flutter\".",
+        "Keep the control surface level.",
+        "Lighten the forces needed to control the surface.",
+        "Provide the pilot with \"feel\"."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-116",
+      "sourceNumber": 116,
+      "question": "A control surface may be mass balanced by:",
+      "answers": [
+        "Attaching a weight acting forward of the hinge line.",
+        "Fitting a balance tab.",
+        "Fitting an anti-balance tab.",
+        "Attaching weight acting aft of the hinge line."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-117",
+      "sourceNumber": 117,
+      "question": "Fixed trim tabs on ailerons:",
+      "answers": [
+        "Can be adjusted on the ground after a test flight to make wings-level flight easier.",
+        "Can be adjusted during flight.",
+        "Should never be adjusted.",
+        "Can be adjusted on the ground after a test flight to make turning easier."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-118",
+      "sourceNumber": 118,
+      "question": "Which flying control surface(s) give(s) longitudinal control?",
+      "answers": [
+        "The elevator.",
+        "The rudder.",
+        "The ailerons.",
+        "The flaps."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-119",
+      "sourceNumber": 119,
+      "question": "The airspeed at which a pilot will not yet overstress the airframe of an aicraft by momentarily up-deflecting the elevator is.",
+      "answers": [
+        "VA.",
+        "VB.",
+        "VFE.",
+        "VS."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-120",
+      "sourceNumber": 120,
+      "question": "Ailerons give:",
+      "answers": [
+        "Lateral control about the longitudinal axis.",
+        "Lateral control about the lateral axis.",
+        "Longitudinal control about the lateral axis.",
+        "Directional control about the normal axis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-121",
+      "sourceNumber": 121,
+      "question": "The maximum speed at which the aircraft can be flown with flaps extended is called:",
+      "answers": [
+        "VFE.",
+        "VYSE.",
+        "VNE. .",
+        "VNO."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-122",
+      "sourceNumber": 122,
+      "question": "Movement of the aircraft about its normal (vertical) axis is known as:",
+      "answers": [
+        "Yawing.",
+        "Rolling.",
+        "Pitching.",
+        "Side slipping."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-123",
+      "sourceNumber": 123,
+      "question": "The surface that gives an aircraft directional stability is:",
+      "answers": [
+        "The fin.",
+        "The rudder.",
+        "The horizontal tailplane.",
+        "The rudder trim tab."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-124",
+      "sourceNumber": 124,
+      "question": "If the control column is moved forward and to the left:",
+      "answers": [
+        "The left aileron moves up, right aileron moves down, elevator moves down.",
+        "The left aileron moves up, right aileron moves down, elevator moves up.",
+        "The left aileron moves down, right aileron moves up, elevator moves down.",
+        "The left aileron moves down, right aileron moves up, elevator moves up."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-125",
+      "sourceNumber": 125,
+      "question": "The phenomenon of flutter is described as:",
+      "answers": [
+        "Oscillatory motion of part or parts of the aircraft relative to the remainder of the structure.",
+        "Rapid oscillatory motion involving only rotation of the control surfaces, associated with the shock waves produced around the control surfaces.",
+        "Rapid movement of the airframe caused by vibration from the engines.",
+        "Reversal of the ailerons caused by wing torsional flexibility."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-126",
+      "sourceNumber": 126,
+      "question": "The purpose of an anti-balance tab is to:",
+      "answers": [
+        "Ensure that the pilot's physical control load increases with increase of control surface deflection.",
+        "Trim the aircraft.",
+        "Reduce the load required to move the controls at all speeds.",
+        "Reduce the load required to move the controls at high speeds only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-127",
+      "sourceNumber": 127,
+      "question": "During a manoeuvre, the ailerons are deflected and returned to neutral when the aircraft has attained a small angle of bank. If the aircraft then returns to a wings-level attitude without further control movement, it is:",
+      "answers": [
+        "Statically and dynamically stable.",
+        "Neutrally stable.",
+        "Statically stable but dynamically neutral.",
+        "Statically stable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-128",
+      "sourceNumber": 128,
+      "question": "Lowering the fiaps during a landing approach:",
+      "answers": [
+        "Increases the angle of descent without increasing the airspeed.",
+        "Permits approaches at a higher indicated airspeed.",
+        "Decreases the angle of descent without increasing power.",
+        "Eliminates floating."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-129",
+      "sourceNumber": 129,
+      "question": "The lateral axis of an aircraft is a line which:",
+      "answers": [
+        "Passes through the Centre of Gravity, parallel to a line through the wing tips.",
+        "Passes through the wing tips.",
+        "Passes through the Centre of Pressure, at right angles to the direction of the airflow.",
+        "Passes through the quarter-chord point of the wing root at right angles to the longitudinal axis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-130",
+      "sourceNumber": 130,
+      "question": "Yawing is movement around the_____axis.",
+      "answers": [
+        "Normal.",
+        "Longitudinal.",
+        "Lateral.",
+        "Horizontal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-131",
+      "sourceNumber": 131,
+      "question": "When the control column is pushed forward, a balance tab on the elevator:",
+      "answers": [
+        "Will move up relative to the control surface.",
+        "Will move down relative to the control surface.",
+        "Will only move if the trim wheel is operated.",
+        "Moves to the neutral position."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-132",
+      "sourceNumber": 132,
+      "question": "If a landing is to be made without flaps the landing speed must be:",
+      "answers": [
+        "Increased.",
+        "Reduced.",
+        "The same as for a landing with flaps.",
+        "The same as for a landing with flaps but with a steeper approach."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-133",
+      "sourceNumber": 133,
+      "question": "The purpose of a differential ailerons is to:",
+      "answers": [
+        "Reduce the opposite yawing moment when making a turn.",
+        "Increase the yawing moment which opposes a turn.",
+        "Induce a pitching moment to prevent the nose from dropping in the turn.",
+        "Improve the rate of roll."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-134",
+      "sourceNumber": 134,
+      "question": "Wing leading-edge devices such as slots, designed to allow flight at higher angles of attack, do so by:",
+      "answers": [
+        "Re-energising the airflow over the top of the wing, delaying separation.",
+        "Providing an extra lifting surface and hence increase the lift available.",
+        "Changing the shape and hence the lift characteristics of the wing.",
+        "Decreasing lift and hence induced drag."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-135",
+      "sourceNumber": 135,
+      "question": "An aircraft is disturbed from its flight path by a gust of wind. If it tends to return to its original flight path without pilot intervention, the aircraft is said to possess:",
+      "answers": [
+        "Positive Dynamic Stability.",
+        "Instability.",
+        "Negative Dynamic Stability.",
+        "Neutral Dynamic Stability."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-136",
+      "sourceNumber": 136,
+      "question": "A high wing configuration with no dihedral, compared to a low wing configuration with no dihedral, will provide:",
+      "answers": [
+        "Greater lateral stability.",
+        "Greater longitudinal stability.",
+        "The same degree of longitudinal stability as any other configuration because dihedral gives longitudinal stability.",
+        "Less lateral stability."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-137",
+      "sourceNumber": 137,
+      "question": "When flaps are lowered the stalling angle of attack of the wing:",
+      "answers": [
+        "Decreases, but CLMAX increases.",
+        "Remains the same, but CLMAX increases.",
+        "Increases and CLMAX increases.",
+        "Decreases, but CLMAX remains the same."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-138",
+      "sourceNumber": 138,
+      "question": "An aircraft is disturbed from its path by a gust of wind. Neutral stability is when, without pilot intervention, it:",
+      "answers": [
+        "Maintains the new path.",
+        "Returns to its original path without overshooting.",
+        "Returns to its original path after overshooting.",
+        "Continues to move away from the original path."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-139",
+      "sourceNumber": 139,
+      "question": "An aircraft wing is constructed with positive dihedral in order to give:",
+      "answers": [
+        "Lateral stability about the longitudinal axis.",
+        "Longitudinal stability about the lateral axis.",
+        "Lateral stability about the normal axis.",
+        "Directional stability about the normal axis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-140",
+      "sourceNumber": 140,
+      "question": "Yawing is a rotation about:",
+      "answers": [
+        "The normal axis controlled by the rudder.",
+        "The lateral axis controlled by the rudder.",
+        "The longitudinal axis controlled by the ailerons.",
+        "The normal axis controlled by the elevator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-141",
+      "sourceNumber": 141,
+      "question": "Following re-trimming for straight and level flight, in an aircraft with a CG near its forward limit, and an elevator fitted with a conventional trim-tab:",
+      "answers": [
+        "Nose-up pitch authority will be reduced.",
+        "Nose-down pitch authority will be reduced.",
+        "Longitudinal stability will be reduced.",
+        "Tailplane down-load will be reduced."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-142",
+      "sourceNumber": 142,
+      "question": "An aileron could be balanced aerodynamical I y by:",
+      "answers": [
+        "Having the control hinge set back behind the control surface leading edge.",
+        "Making the up aileron move through a larger angle than the down aileron.",
+        "Attaching a weight to the control surface forward of the hinge.",
+        "Having springs in the control circuit to assist movement."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-143",
+      "sourceNumber": 143,
+      "question": "The respective primary and secondary effects of the rudder control are:",
+      "answers": [
+        "Yaw and roll.",
+        "Yaw and pitch.",
+        "Pitch and yaw.",
+        "Roll and yaw."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-144",
+      "sourceNumber": 144,
+      "question": "On an aircraft with a simple trim tab incorporated into a control surface, when the surface is moved, the tab remains in the same position relative to the:",
+      "answers": [
+        "Control surface.",
+        "Relative airflow.",
+        "Boundary layer airflow.",
+        "Aircraft horizontal plane."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-145",
+      "sourceNumber": 145,
+      "question": "Controls are mass balanced in order to:",
+      "answers": [
+        "Eliminate control flutter.",
+        "Aerodynamical I y assist the pilot in moving the controls.",
+        "Provide equal control forces on all three controls.",
+        "Return the control surface to neutral when the controls are released."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-146",
+      "sourceNumber": 146,
+      "question": "The primary and secondary effects of applying the left rudder alone are:",
+      "answers": [
+        "Left yaw and left roll.",
+        "Left yaw and right roll.",
+        "Right yaw and left roll.",
+        "Right yaw and right roll."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-147",
+      "sourceNumber": 147,
+      "question": "When displacing the ailerons from the neutral position:",
+      "answers": [
+        "The down-going aileron causes an increase in induced drag.",
+        "The up-going aileron causes an increase in induced drag.",
+        "Induced drag remains the same; the up-going aileron causes a smaller increase in profile drag than the down-going aileron.",
+        "Both cause an increase in induced drag."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-148",
+      "sourceNumber": 148,
+      "question": "An aircraft's rudder is fitted with a balance tab. Movement of the rudder bar to the right, to yaw the aircraft to the right, will move the balance tab to the:",
+      "answers": [
+        "Left and the rudder to the right.",
+        "Right and the rudder to the left.",
+        "Right and the rudder to the right.",
+        "Left and the rudder to the left."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-149",
+      "sourceNumber": 149,
+      "question": "An aircraft has a tendency to fly right wing low with hands off. It is trimmed with a tab the left aileron. The trim tab will:",
+      "answers": [
+        "Move down causing the left aileron to move up, and right aileron to move down.",
+        "Move up, causing the left aileron to move up and right aileron to move down.",
+        "Move down, causing the left aileron to move up, right aileron remains neutral.",
+        "Move up causing the left wing to move down, ailerons remain neutral."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "PRINCIPLES-OF-FLIGHT-150",
+      "sourceNumber": 150,
+      "question": "Which flying control surface(s) give(s) control about the aircraft's normal axis?",
+      "answers": [
+        "The rudder.",
+        "The ailerons.",
+        "The elevator.",
+        "The flaps."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    }
+  ]
+}

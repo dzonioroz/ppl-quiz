@@ -1,0 +1,2047 @@
+{
+  "subject": "Communication",
+  "source": "Comunication.pdf",
+  "questions": [
+    {
+      "id": "COMMUNICATION-001",
+      "sourceNumber": 1,
+      "question": "What does the phrase \"REPORT\" mean?",
+      "answers": [
+        "Pass me the following information.",
+        "Say again.",
+        "Pass your message.",
+        "Proceed with your message."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-002",
+      "sourceNumber": 2,
+      "question": "If no ATIS is available, the pilot asks for departure information using the phrase.",
+      "answers": [
+        "REQUEST DEPARTURE INFORMATION.",
+        "REQUEST DEPARTURE INSTRUCTIONS.",
+        "I WOULD LIKE DEPARTURE INFORMATION.",
+        "REPORT DEPARTURE INFORMATION."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-003",
+      "sourceNumber": 3,
+      "question": "What is the meaning of the term \"VMC\"?",
+      "answers": [
+        "Visual meteorogical conditions.",
+        "A flight accordingly to instrumental flight rules.",
+        "Visual flight rules.",
+        "Instrumental flight rules."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-004",
+      "sourceNumber": 4,
+      "question": "What is the meaning of the term \"VFR flight\"?",
+      "answers": [
+        "Flight according to visual flight rules.",
+        "Flight according to instrumental flight rules.",
+        "Training flight.",
+        "Flight without passengers on board."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-005",
+      "sourceNumber": 5,
+      "question": "What does the phrase \"WILCO\" mean?",
+      "answers": [
+        "I understand your message and will comply with it.",
+        "I have received all of your last transmission.",
+        "My message is ended and I expect a response from you.",
+        "Permission granted."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-006",
+      "sourceNumber": 6,
+      "question": "What is the meaning of the phrase \"VERIFY\"?",
+      "answers": [
+        "Check and confirm with the originator.",
+        "No, or permission not granted or that is not correct.",
+        "Repeat all or the following part of your last transmission.",
+        "I hereby indicate the separation between two portions of the message."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-007",
+      "sourceNumber": 7,
+      "question": "What is the meaning of the phrase \"ACKNOWLEDGE\"?",
+      "answers": [
+        "Let me know that you have received and understood this message.",
+        "I have received all of your last transmission.",
+        "Repeat all or the following part of your last transmission.",
+        "My transmission is ended and I expect a response from you."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-008",
+      "sourceNumber": 8,
+      "question": "'GO AROUND' means:",
+      "answers": [
+        "Carry out a missed approach.",
+        "Overtake the aircraft ahead.",
+        "Make a 360 degree turn.",
+        "Taxy past the aircraft at the holding point."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-009",
+      "sourceNumber": 9,
+      "question": "The term \"SVFR flight\" stands for.",
+      "answers": [
+        "Special VFR flight.",
+        "Sector VFR flight.",
+        "Schooling VFR flight.",
+        "Search and rescue VFR flight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-010",
+      "sourceNumber": 10,
+      "question": "What does the phrase \"MONITOR\" mean?",
+      "answers": [
+        "Listen out on (frequency).",
+        "Establish radio contact with..",
+        "I repeat for clarity or emphasis.",
+        "Watch the instruments."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-011",
+      "sourceNumber": 11,
+      "question": "What is the meaning of the phrase \"ROGER\"?",
+      "answers": [
+        "I have received all of your last transmission.",
+        "I understand your message and will comply with it.",
+        "My transmission is ended and I expect a response from you.",
+        "Permission for proposed action granted."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-012",
+      "sourceNumber": 12,
+      "question": "What does the abbreviation \"SID\" mean?",
+      "answers": [
+        "Standard instrument departure route.",
+        "Standard instrument arrival route.",
+        "Standard visual departure route.",
+        "Standard visual arrival route."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-013",
+      "sourceNumber": 13,
+      "question": "'ORBIT RIGHT' means:",
+      "answers": [
+        "Continue to make right hand turn until advised.",
+        "Right hand circuits in use.",
+        "Turn right to avoid other traffic.",
+        "Make a 360 degrees turn to the right."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-014",
+      "sourceNumber": 14,
+      "question": "A pilot receives the clearance to hold over an enroute reporting point until a specified time. This time is called.",
+      "answers": [
+        "Expected approach time.",
+        "Estimated over time.",
+        "Estimated time of arrival.",
+        "Holding time."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-015",
+      "sourceNumber": 15,
+      "question": "What does the term \"ALTITUDE\" mean?",
+      "answers": [
+        "Altitude above mean sea level.",
+        "Height above an airfield.",
+        "Flight level.",
+        "Standard altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-016",
+      "sourceNumber": 16,
+      "question": "What is the meaning of the term \"FLIGHT LEVEL\"?",
+      "answers": [
+        "A level in atmosphere for vertical separation which is determined by setting the altimeter to 1013.2 hpa.",
+        "A level in atmosphere for vertical separation which is determined by setting the altimeter to local QNH.",
+        "A level in atmosphere for vertical separation which is determined by setting the altimeter to local QFE.",
+        "A pressure level based on regional QNH."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-017",
+      "sourceNumber": 17,
+      "question": "Phase of flight: climb, take off, descent, start-up, approach, cruise, push back, final approach, taxi, take off roll, touch down i line-up were mixed. Their order is:",
+      "answers": [
+        "Start up, push back, taxi, line-up, take off roll, take off, climb, cruise, descent, approach, final approach, touch down.",
+        "Line-up, take off roll, take off, climb, cruise, descent, approach, start up, push back, taxi, final approach, touch down.",
+        "Push back, taxi, line-up, take off roll, start up, take off, descent, climb, cruise, touch down, approach, final approach."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-018",
+      "sourceNumber": 18,
+      "question": "Aerodrome traffic is:",
+      "answers": [
+        "All traffic on the manoeuvring area of an aerodrome and all aircraft operating in the vicinity of an aerodrome.",
+        "All vehicles on an aerodrome.",
+        "All aircraft on an aerodrome.",
+        "All traffic on the movement area of an aerodrome."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-019",
+      "sourceNumber": 19,
+      "question": "'STANDBY' means:",
+      "answers": [
+        "Wait and I will call you again.",
+        "Select STANDBY on the SSR Transponder.",
+        "Hold your present position.",
+        "Continue on present heading and listen out."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-020",
+      "sourceNumber": 20,
+      "question": "An aircraft will be in the best range for VHF communications if it is:",
+      "answers": [
+        "At high altitude in the vicinity of the airfield.",
+        "At high altitude and long range.",
+        "At low altitude and long range."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-021",
+      "sourceNumber": 21,
+      "question": "The maximum VHF communications range that can be expected by an aircraft at FL 100 is:",
+      "answers": [
+        "120nm.",
+        "1200nm.",
+        "150nm.",
+        "100nm."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-022",
+      "sourceNumber": 22,
+      "question": "VHF frequencies used for communication which is the range.",
+      "answers": [
+        "From 118,0 to 135,975 mhz.",
+        "From 108,0 to 135,975 khz.",
+        "From 118,0 to 121,5 mhz."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-023",
+      "sourceNumber": 23,
+      "question": "\"VACATE RIGHT\" means:",
+      "answers": [
+        "Turn right to leave the runway.",
+        "Clear the runway immediately.",
+        "The next runway exit is on the right.",
+        "Turn right after take off."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-024",
+      "sourceNumber": 24,
+      "question": "What is the meaning of the term \"IMC\"?",
+      "answers": [
+        "Instrumental meteorogical conditions.",
+        "Flight according to instrumental flight rules.",
+        "Flight according to visual flight rules.",
+        "Visual meteorogical conditions."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-025",
+      "sourceNumber": 25,
+      "question": "Using the readability scale, \"readability 5\" means:",
+      "answers": [
+        "Perfectly readable.",
+        "Readable but with difficulty.",
+        "Unreadable.",
+        "Readable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-026",
+      "sourceNumber": 26,
+      "question": "Using the readability scale, \"readability 1\" means:",
+      "answers": [
+        "Unreadable.",
+        "Readable but with difficulty.",
+        "Perfectly readable.",
+        "Readable with background."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-027",
+      "sourceNumber": 27,
+      "question": "Using the readability scale, \"readability 2\" means:",
+      "answers": [
+        "Readable now and then.",
+        "Unreadable.",
+        "Perfectly readable.",
+        "Readable with background."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-028",
+      "sourceNumber": 28,
+      "question": "Using the readability scale, \"readability 3\" means:",
+      "answers": [
+        "Readable but with difficulty.",
+        "Unreadable.",
+        "Perfectly readable.",
+        "Readable with background."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-029",
+      "sourceNumber": 29,
+      "question": "Using the readability scale, \"readability 4\" means:",
+      "answers": [
+        "Readable.",
+        "Readable with difficulty.",
+        "Readable with background.",
+        "Unreadable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-030",
+      "sourceNumber": 30,
+      "question": "In order to make your communications more effective, you should:.",
+      "answers": [
+        "Use a constant speaking volume.",
+        "Use words twice.",
+        "Modulate your voice.",
+        "Call break between sentences."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-031",
+      "sourceNumber": 31,
+      "question": "Radio test transmissions should take the following form:",
+      "answers": [
+        "BEOGRAD TOWER YU-ABC Radio check 118.1.",
+        "BEOGRAD TOWER YU-ABC 118.1 Do you read?",
+        "BEOGRAD TOWER YU-ABC Hoe do you read?",
+        "BEOGRAD TOWER YU-ABC Readability check 118.1."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-032",
+      "sourceNumber": 32,
+      "question": "The term \" CVFR flight\" stands for.",
+      "answers": [
+        "Controlled VFR flight.",
+        "VFR flight of civil aircraf.",
+        "Schooling VFR flight.",
+        "VFR flight visibility to the ground."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-033",
+      "sourceNumber": 33,
+      "question": "The correct callsign of a station providing flight information service is the location followed by:",
+      "answers": [
+        "INFORMATION.",
+        "HOMER.",
+        "CONTROL.",
+        "RADIO."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-034",
+      "sourceNumber": 34,
+      "question": "ATIS is to be found on:",
+      "answers": [
+        "A discrete VHF or a VOR frequency.",
+        "The Approach frequency.",
+        "The Tower frequency."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-035",
+      "sourceNumber": 35,
+      "question": "A radar advisory service will:",
+      "answers": [
+        "Give you standard separation from all traffic.",
+        "Advise you of possible conflict.",
+        "Give you an air traffic control service.",
+        "Give you a radar approach."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-036",
+      "sourceNumber": 36,
+      "question": "What are the three categories of aeronautical communication service?",
+      "answers": [
+        "Air Ground Communication Service, Flight Information Service, Air traffic Control.",
+        "Air, Land and Sea.",
+        "Approach, Tower, Ground.",
+        "IFR, VFR, SVFR."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-037",
+      "sourceNumber": 37,
+      "question": "Which aeronautical communication service provides automated airfield and meteorological information for departing and arriving traffic?",
+      "answers": [
+        "ATIS.",
+        "LARS.",
+        "AFIS.",
+        "FIS."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-038",
+      "sourceNumber": 38,
+      "question": "A Radar Information Service (RIS) is an ATC service:",
+      "answers": [
+        "In which the controller will inform the pilot of the bearing, distance and, if known, the altitude of conflicting traffic.",
+        "In which the controller will provide radar separation from all other traffic.",
+        "In which the controller will direct the aircraft to avoid the other traffic.",
+        "Which may only be used by aircraft flying in accordance with the instrument flight rules."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-039",
+      "sourceNumber": 39,
+      "question": "The abbreviation ATIS stands for:",
+      "answers": [
+        "Automatic Terminal Information Service.",
+        "Aircraft Technical Information Service.",
+        "Air Traffic Information Service.",
+        "Aerodrome Traffic Information Service."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-040",
+      "sourceNumber": 40,
+      "question": "What is the correct way of spelling out FRI-VOR in a radio message?",
+      "answers": [
+        "FOXTROT ROMEO INDIA VOR.",
+        "FOXTROT ROMEO INDIA VICTOR OSCAR ROMEO.",
+        "FRIDAY VOR.",
+        "FOX ROMEO INDIA VOR."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-041",
+      "sourceNumber": 41,
+      "question": "The pilot may abbreviate the call sign of an aircraft.",
+      "answers": [
+        "Only after the ground station has used the abbreviated call sign.",
+        "Not at all.",
+        "After radio contact with the ground station has been established.",
+        "Any time at his discretion."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-042",
+      "sourceNumber": 42,
+      "question": "A time of 1020 hours is transmitted as:",
+      "answers": [
+        "'ONE ZERO TWO ZERO' or 'TWO ZERO'.",
+        "TEN TWENTY HOURS.",
+        "TEN TWO ZERO.",
+        "ONE ZERO TWENTY."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-043",
+      "sourceNumber": 43,
+      "question": "A time of 1020 hours is transmitted at 0910 hours as:",
+      "answers": [
+        "'ONE ZERO TWO ZERO'.",
+        "TEN TWENTY HOURS.",
+        "TEN TWO ZERO.",
+        "'TWO ZERO' ."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-044",
+      "sourceNumber": 44,
+      "question": "Phonetic transcription for the label 70-VEL pronounced as:",
+      "answers": [
+        "SEVEN, ZERO, VICTOR, ECHO, LIMA.",
+        "SEVEN, ZERO, WHISKEY, ECHO, LMA.",
+        "SEVENTY, VICTOR, ECHO, LIMA."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-045",
+      "sourceNumber": 45,
+      "question": "Phonetic transcription for the label EXTRA pronounced as:",
+      "answers": [
+        "ECHO, XRAY,TANGO,ROMEO,ALFA.",
+        "EXTRA.",
+        "ECHO,XRAY,TORONTO,ROMEO,ALFA.",
+        "ECHO,IKS,TORONTO,ROMEO,ALFA."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-046",
+      "sourceNumber": 46,
+      "question": "Phonetic transcription for the label C-MNXY pronounced as:",
+      "answers": [
+        "CHARLIE, MIKE, NOVEMBER, XRAY, YANKEE.",
+        "COCA, MIKE, NECTAR, XRAY, YANKEE.",
+        "CHARLIE, METRO, NOVEMBER, EXTRA, YANKEE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-047",
+      "sourceNumber": 47,
+      "question": "A pilot shall ask for a QFE as follows:",
+      "answers": [
+        "Request QUEBEC FOXTROT ECHO.",
+        "Request QUEBEC FOX ECHO.",
+        "Request QUEEN FOX EASY.",
+        "Request QUEBEC FOX EASY."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-048",
+      "sourceNumber": 48,
+      "question": "The abbreviation for a control zone is:",
+      "answers": [
+        "CTR.",
+        "MATZ.",
+        "CTA.",
+        "CTZ."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-049",
+      "sourceNumber": 49,
+      "question": "Which of the following abbreviations must be broadcast to individual letters?",
+      "answers": [
+        "Y-BC.",
+        "ILS.",
+        "RVR.",
+        "CAVOK."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-050",
+      "sourceNumber": 50,
+      "question": "An altitude of 4,500 ft QNH should be pronounced as.",
+      "answers": [
+        "FOUR THOUSAND FIVE HUNDRED FEET.",
+        "FORTY FIVE THOUSAND.",
+        "FOUR POINT FIVE.",
+        "FORTY FIVE HUNDRED FEET ABOVE SEA LEVEL."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-051",
+      "sourceNumber": 51,
+      "question": "Frequency 121.725 mhz should be transmitted as:",
+      "answers": [
+        "WUN TOO WUN DECIMAL SEVEN TOO FIFE, using 6/4 Digit Phraseology, and WUN TOO WUN DECIMAL SEVEN TOO, using 5/4 Digit Phraseology.",
+        "WUN TWO WUN POINT SEVEN TWO.",
+        "WUN TOO WUN POINT SEVEN TOO.",
+        "WUN TWENTY WUN DECIMAL SEVEN TWENTY FIVE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-052",
+      "sourceNumber": 52,
+      "question": "Phonetic transcription for the label B9-DFF pronounced as:",
+      "answers": [
+        "BRAVO, NINER, DELTA, FOXTROT, FOXTROT.",
+        "BRAVO, NINE, DELTA, FOXTROT, FOXTROT.",
+        "BRAVO, NINE, DELTA, TWO FOXTROT."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-053",
+      "sourceNumber": 53,
+      "question": "COMM frequency 118.125 mhz should be transmitted by pronouncing.",
+      "answers": [
+        "WUN WUN EIGHT DECIMEL WUN –TOO using 5/4 Digit Phraseology or WUN WUN EIGHT DECIMEL WUN TOO FIVE using 6/4 Digit Phraseology.",
+        "WUN WUN EIGHT WUN TOO FIVE.",
+        "WUN WUN EIGHT DECIMAL WUN TOO."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-054",
+      "sourceNumber": 54,
+      "question": "In aviation broadcasting, how do we pronounce COMM frequency 118.150 mhz?",
+      "answers": [
+        "WUN WUN EIGHT DECIMAL WUN FIVE.",
+        "WUN WUN EIGHT DECIMAL WUN FIVE ZERO.",
+        "WUN WUN EIGHT POINT WUN FIVE ZERO.",
+        "WUN WUN EIGHT DASH WUN FIVE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-055",
+      "sourceNumber": 55,
+      "question": "When a pilot reports \"FIVE THOUSAND FEET\", the controller concludes.",
+      "answers": [
+        "The altitude of the aircraft is 5,000 ft above mean sea level.",
+        "The altimeter of the aircraft is set to the local QFE.",
+        "The altitude of the aircraft is 5,000 ft above the airfield.",
+        "The altimeter of the aircraft is set to the standard pressure 1013.2hpa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-056",
+      "sourceNumber": 56,
+      "question": "An altitude of 5,000 ft should be broadcasted as.",
+      "answers": [
+        "FIVE THOUSAND FEET.",
+        "FIVE NULL NULL NULL.",
+        "FIVE ZERO ZERO ZERO FEET.",
+        "FIFTY HUNDRED."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-057",
+      "sourceNumber": 57,
+      "question": "An altitude of 11,000 ft should be broadcasted as.",
+      "answers": [
+        "WUN WUN THOUSAND FEET.",
+        "ELEVEN THOUSAND FEET.",
+        "WUN WUN ZERO ZERO ZERO FEET.",
+        "ELEVEN THOUSAND ZERO FEET."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-058",
+      "sourceNumber": 58,
+      "question": "Altitude 10,500 ft should be broadcasted as.",
+      "answers": [
+        "TEN THOUSAND FIVE HUNDRED FEET.",
+        "TEN POINT FIVE.",
+        "WUN ZERO THOUSAND FIVE HUNDRED FEET.",
+        "WUN ZERO FIVE HUNDRED FEET ABOVE SEA LEVEL."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-059",
+      "sourceNumber": 59,
+      "question": "When broadcasting numbers in radiotelephony communication, the number 583 is transmitted as.",
+      "answers": [
+        "FIVE EIGHT THREE.",
+        "FIVE HUNDRED EIGHTY THREE.",
+        "FIFTY EIGHT THREE.",
+        "FIVE HUNDRED EIGHT THREE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-060",
+      "sourceNumber": 60,
+      "question": "When broadcasting numbers in radiotelephony communication, the number 496 is transmitted as.",
+      "answers": [
+        "FOUR NINER SIX.",
+        "FOUR HUNDRED AND NINETY SIX.",
+        "FOUR HUNDRED AND NINER SIX.",
+        "FOUR NINETY SIX."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-061",
+      "sourceNumber": 61,
+      "question": "When broadcasting numbers in radiotelephony communication, the number 4501 is transmitted as.",
+      "answers": [
+        "FOUR FIVE ZERO WUN.",
+        "FOUR THOUSAND FIVE HUNDRED WUN.",
+        "FOUR FIVE ZERO POINT WUN.",
+        "FORTY FIVE HUNDRED WUN."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-062",
+      "sourceNumber": 62,
+      "question": "The number 600 should be broadcasted as.",
+      "answers": [
+        "SIX HUNDRED.",
+        "SIX ZERO ZERO.",
+        "SIX NULL NULL.",
+        "SIXTY ZERO."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-063",
+      "sourceNumber": 63,
+      "question": "COMM frequency 118.0 mhz should be broadcasted by pronouncing.",
+      "answers": [
+        "WUN WUN EIGHT DECIMAL ZERO.",
+        "WUN HUNDRED EIGHTEEN POINT NULL.",
+        "WUN WUN EIGHT.",
+        "WUN WUN EIGHT POINT ZERO."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-064",
+      "sourceNumber": 64,
+      "question": "In aviation broadcasting, how do we pronounce COMM frequency 118.1 mhz?",
+      "answers": [
+        "WUN WUN EIGHT DECIMAL WUN.",
+        "WUN WUN EIGHT POINT WUN.",
+        "WUN HUNDRED ELEVEN POINT WUN.",
+        "WUN WUN EIGHT WUN."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-065",
+      "sourceNumber": 65,
+      "question": "Which altitude has been reported by a pilot using the phrase \"FIVE THOUSAND FEET QFE\"?",
+      "answers": [
+        "Height above the airfield.",
+        "Flight level.",
+        "Altitude above mean sea level.",
+        "Adequate altitude in International Standard Atmosphere (ICAO)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-066",
+      "sourceNumber": 66,
+      "question": "What is the Q code for the measurement of flight level ? .",
+      "answers": [
+        "QNE.",
+        "QFF.",
+        "QNH.",
+        "QFE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-067",
+      "sourceNumber": 67,
+      "question": "What does \"QNH\" mean?",
+      "answers": [
+        "Altimeter sub-scale setting to obtain elevation when on ground.",
+        "Atmospheric pressure at aerodrome elevation.",
+        "True bearing from a station.",
+        "Magnetic bearing from a station."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-068",
+      "sourceNumber": 68,
+      "question": "What does the phrase \"QDM\" mean?",
+      "answers": [
+        "Magnetic direction from an aircraft to the goniometric station.",
+        "Atmospheric pressure at airfield elevation.",
+        "Atmospheric pressure at airfield elevation, reduced to sea level.",
+        "Actual weather at an airfield."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-069",
+      "sourceNumber": 69,
+      "question": "What is the Q code for a true bearing from a station?",
+      "answers": [
+        "QTE.",
+        "QDR.",
+        "QNH.",
+        "QFE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-070",
+      "sourceNumber": 70,
+      "question": "What is the Q code for a magnetic bearing to a station?",
+      "answers": [
+        "QDM.",
+        "QDR.",
+        "QGH.",
+        "QNH."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-071",
+      "sourceNumber": 71,
+      "question": "What is the Q code for the measurement of altitude ? .",
+      "answers": [
+        "QNH.",
+        "QFF.",
+        "QNE.",
+        "QFE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-072",
+      "sourceNumber": 72,
+      "question": "What is the Q code for the measurement of relative heights above an airfields?",
+      "answers": [
+        "QFE.",
+        "ELT.",
+        "QNH.",
+        "QBA."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-073",
+      "sourceNumber": 73,
+      "question": "What is the Q code for a magnetic bearing from a station?",
+      "answers": [
+        "QDR.",
+        "QGH.",
+        "QDM.",
+        "QNH."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-074",
+      "sourceNumber": 74,
+      "question": "If you want to request a service from a ground station:",
+      "answers": [
+        "You must do so in your initial call.",
+        "You must do so after you have established two way communications with the station.",
+        "You must monitor the ground station frequency until you hear the ground station giving the service you require to another aircraft.",
+        "As a private pilot you are not entitled to request a service."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-075",
+      "sourceNumber": 75,
+      "question": "Which of the following lists are all ATC messages that must read back in full:.",
+      "answers": [
+        "Clearance to enter, land on, take-off on, backtrack, cross or hold short of an active runway; SSR instructions.",
+        "Level instructions, altimeter settings, surface wind, runway information.",
+        "ATC route clearances, runway clearances, actual weather reports.",
+        "VOR information, frequency changes, type of radar service."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-076",
+      "sourceNumber": 76,
+      "question": "You are flying at FL50 in YU-ABC. When asked by the controller to report your level, what is the correct response?",
+      "answers": [
+        "MAINTAINING FL50, Y-BC.",
+        "FL50, Y-BC.",
+        "AT FL50, Y-BC.",
+        "Y-BC, FL50."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-077",
+      "sourceNumber": 77,
+      "question": "A pilot is required to read back:",
+      "answers": [
+        "SSR operating instructions, take-off clearances, altimeter settings, VDF information, frequency changes.",
+        "ATC route clearances, runway clearances, conditional clearances, actual weather reports.",
+        "Altimeter settings, taxi information, terminal weather, runway clearances, approach aid serviceability.",
+        "Route clearances, speed instructions, weather reports, taxi clearances, runway state information."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-078",
+      "sourceNumber": 78,
+      "question": "Which phrase is used by an ATC when advising the pilot that the position report over the compulsory reporting point is not required?",
+      "answers": [
+        "OMIT POSITION REPORT OVER.. (fix).",
+        "CANCEL POSITION REPORT OVER.. (fix).",
+        "NO POSITION REPORT OVER.. (fix).",
+        "DO NOT REPORT OVER.. (fix)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-079",
+      "sourceNumber": 79,
+      "question": "Which of the following statements is correct? \"In ground to air communications the controller will always\":",
+      "answers": [
+        "Say your callsign first.",
+        "Say your callsign last.",
+        "Say your callsign first only on initial contact."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-080",
+      "sourceNumber": 80,
+      "question": "Callsign of ATC for control of aircraft and vehicles on manoeuvring area?",
+      "answers": [
+        "GROUND.",
+        "TOWER.",
+        "DISPATCH.",
+        "APRON."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-081",
+      "sourceNumber": 81,
+      "question": "The prescribed phrase for obtaining a permission to taxi to the runway for departure is.",
+      "answers": [
+        "REQUEST TAXI.",
+        "WHAT IS MY TAXI CLEARANCE.",
+        "REQUEST PERMISSION TO TAXI.",
+        "REQUEST TAXI CLEARANCE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-082",
+      "sourceNumber": 82,
+      "question": "When a control tower transmits the phrase \"REPORT DOWNWIND\", the pilot is instructed to report.",
+      "answers": [
+        "Aircraft position in traffic pattern between the second turn and the third turn, abeam of the halfway point of the runway.",
+        "Estimated wind direction and velocity at the altitude of flying.",
+        "Maximum allowed tail wind for landing.",
+        "Aircraft position \"final\" in traffic pattern."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-083",
+      "sourceNumber": 83,
+      "question": "The controller wants to obtain the information about the level at which an aircraft is flying,using the phrase.",
+      "answers": [
+        "REPORT LEVEL.",
+        "WHAT IS YOUR LEVEL.",
+        "REQUEST LEVEL.",
+        "TRANSMIT YOUR LEVEL."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-084",
+      "sourceNumber": 84,
+      "question": "An aircraft had initially been cleared to climb to FL100. For separation purposes the aircraft has to be leveled of at FL 80 for a few minutes. ATC will give this instruction by using the phrase:",
+      "answers": [
+        "STOP CLIMB AT FL80.",
+        "LEVEL OFF AT FL80.",
+        "MAINTAIN FL80.",
+        "CLEARED FL80."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-085",
+      "sourceNumber": 85,
+      "question": "You are at the holding point of the runway in use, have completed all your pre-flight vital checks and are ready to enter the runway and take off. What RT phraseology would you use to inform ATC of your readiness?",
+      "answers": [
+        "(CALLSIGN) READY FOR DEPARTURE.",
+        "(CALLSIGN) READY FOR TAKE OFF.",
+        "(CALLSIGN) READY FOR LINE UP.",
+        "(CALLSIGN) READY TO PROCEED."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-086",
+      "sourceNumber": 86,
+      "question": "Correct phrase for final report is:",
+      "answers": [
+        "Y-BC ON FINAL.",
+        "WE ARE APPROACHING FINAL.",
+        "VRŠAC TOWER, FINAL."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-087",
+      "sourceNumber": 87,
+      "question": "Report position base leg is done.",
+      "answers": [
+        "Only when required to control.",
+        "Always.",
+        "Only the pilot will."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-088",
+      "sourceNumber": 88,
+      "question": "Which letter identifies that portion of the airport traffic circuit, called \"FINAL LEG\"? (See Fig. PPL Kom-1).",
+      "answers": [
+        "G.",
+        "E.",
+        "F.",
+        "C."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-089",
+      "sourceNumber": 89,
+      "question": "Which designator denotes part of the aerodrome traffic circuit named \"Base Leg\"? (See Fig. PPL Kom-1).",
+      "answers": [
+        "F.",
+        "G.",
+        "E.",
+        "D."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-090",
+      "sourceNumber": 90,
+      "question": "That portion of the airport traffic circuit identified by the letter E is called? (See Fig. PPL Kom-1).",
+      "answers": [
+        "DOWNWIND POSITION.",
+        "LINE-UP.",
+        "CROSSWIND LEG.",
+        "BASE LEG."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-091",
+      "sourceNumber": 91,
+      "question": "How would you correctly reply to the ATC instruction \"Y-CD, Change to Belgrade Tower, 118.1\"?",
+      "answers": [
+        "WUN WUN EIGHT DAYSEEMAL WUN , YANKEE CHARLIE DELTA.",
+        "Y-CD, 118.1.",
+        "CHANGE TO BELGRADE TOWER 118.1, Y-CD.",
+        "WILCO, Y-CD."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-092",
+      "sourceNumber": 92,
+      "question": "You are flying on a NE heading at 2500 ft. You would report your heading and level as:",
+      "answers": [
+        "HEADING 045 AT TOO TOUSAND FIFE HUNDRED FEET.",
+        "HEADING 045 AT TOO FIFE ZERO ZERO FEET.",
+        "HEADING 045 AT 25 HUNDRED FEET.",
+        "FLYING AT TOO TOUSAND FIFE HUNDRED FEET ON HEADING 045."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-093",
+      "sourceNumber": 93,
+      "question": "On the final approach, the FINAL call should be made at a range of about:",
+      "answers": [
+        "4 nm.",
+        "2 nm.",
+        "8nm.",
+        "25 nm."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-094",
+      "sourceNumber": 94,
+      "question": "On a long straight-in approach to land, the call 'Long Final' would be made at a range of about:",
+      "answers": [
+        "8nm.",
+        "2 nm.",
+        "4 nm.",
+        "25 nm."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-095",
+      "sourceNumber": 95,
+      "question": "If the pilot cannot follow the instructions and orders, he should advise the air traffic control by transmitting the phrase.",
+      "answers": [
+        "UNABLE TO COMPLY.",
+        "UNABLE TO ACCEPT.",
+        "REQUEST RECLEARANCE.",
+        "I CANNOT COMPLY."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-096",
+      "sourceNumber": 96,
+      "question": "When transmitting a message preceded by the phrase \"Transmitting blind due to receiver failure\" the aircraft station shall also:",
+      "answers": [
+        "Advise the time of its next intended transmission.",
+        "Proceed to the alternate airport.",
+        "Hold for 5 minutes at its present position."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-097",
+      "sourceNumber": 97,
+      "question": "If the pilot is unable to make contact with a station on a designated frequency, then he should:",
+      "answers": [
+        "Try transmitting on another related frequency.",
+        "Make a blind transmission.",
+        "Transmit on 121.5 mhz.",
+        "Transmit using words twice."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-098",
+      "sourceNumber": 98,
+      "question": "Which of the options below gives a correct order and content for a Position Report?",
+      "answers": [
+        "Call Sign, Position, Time, Level or Altitude, Next Position with ETA.",
+        "Call Sign, Route, Position, Level, ETA next Position, Heading , Request.",
+        "Position, Level or Altitude, Time, ETA at Next Position, Call Sign.",
+        "Route, Position, Time, Level or Altitude, ETA at Next Position, Call Sign."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-099",
+      "sourceNumber": 99,
+      "question": "Which of the following messages has the highest priority?",
+      "answers": [
+        "REQUEST QDM.",
+        "TAXI TO THE REFUELLING PUMPS.",
+        "CAUTION, WORK IN PROGRESS ON THE T AXIWAY.",
+        "REPORT FINAL NUMBER 1."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-100",
+      "sourceNumber": 100,
+      "question": "When requesting a special VFR clearance in flight, ATC must be given details of:",
+      "answers": [
+        "Callsign, type, intentions and ETA at entry point.",
+        "Callsign, type, T AS, ETA at entry point and destination.",
+        "Callsign, type, position, heading, intentions and ETA at entry point.",
+        "Callsign, altitude, heading and ETA at entry point."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-101",
+      "sourceNumber": 101,
+      "question": "How do you ask for a message to be repeated?",
+      "answers": [
+        "SAY AGAIN.",
+        "PLEASE SAY THE MESSAGE AGAIN.",
+        "REPEAT MESSAGE.",
+        "SAY ALL AGAIN."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-102",
+      "sourceNumber": 102,
+      "question": "If a controller passes an instruction and you understand it and will comply, the standard reply is:",
+      "answers": [
+        "WILCO.",
+        "VERIFY.",
+        "ROGER.",
+        "CONFIRM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-103",
+      "sourceNumber": 103,
+      "question": "ATC will give a descent instruction by using the phrase:",
+      "answers": [
+        "DESCEND TO FL..",
+        "MAINTAIN FL..",
+        "LEAVE FL.. FOR FL..",
+        "CLEARED FL.."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-104",
+      "sourceNumber": 104,
+      "question": "ATC will give a climb instruction by using the phrase.",
+      "answers": [
+        "CLIMB TO FL..",
+        "MAINTAIN FL..",
+        "LEAVE FL.. FOR FL..",
+        "CLEARED FL.."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-105",
+      "sourceNumber": 105,
+      "question": "When asked by ATC \"Are you able to maintain FL 40\" the correct reply contains the phrase:",
+      "answers": [
+        "AFFIRM or NEGATIVE.",
+        "ROGER.",
+        "WILCO.",
+        "NO SIR."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-106",
+      "sourceNumber": 106,
+      "question": "When the aircraft pilot is not able to execute a command, control informs the flight phrase:",
+      "answers": [
+        "UNABLE TO COMPLY.",
+        "UNABLE TO ACCEPT.",
+        "REQUEST RECLEARANCE.",
+        "I CANNOT COMPLY."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-107",
+      "sourceNumber": 107,
+      "question": "You have just landed at a towered airport and the tower tells you to contact ground when clear of the runway. You are considered clear of the runway when.",
+      "answers": [
+        "All parts of the aircraft have crossed the hold line.",
+        "The aircraft cockpit is clear of the hold line.",
+        "The tail of the aircraft is of the runway edge."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-108",
+      "sourceNumber": 108,
+      "question": "If requested by the control tower to report having crossed the runway, the pilot has to use the phrase.",
+      "answers": [
+        "RUNWAY VACATED.",
+        "I HAVE LEFT THE RUNWAY.",
+        "I AM CLEAR OF RUNWAY.",
+        "I AM BEYOND THE RUNWAY."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-109",
+      "sourceNumber": 109,
+      "question": "A \"downwind\" call is made:",
+      "answers": [
+        "Any position on downwind leg.",
+        "Abeam the upwind end of the runway.",
+        "As soon as the aircraft is on the downwind leg.",
+        "Just before turning on to base leg."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-110",
+      "sourceNumber": 110,
+      "question": "That portion of the airport identified by the letter A is called? (See Fig. PPL Kom-1).",
+      "answers": [
+        "APRON.",
+        "RUNWAY.",
+        "TAXIWAY.",
+        "BASE LEG."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-111",
+      "sourceNumber": 111,
+      "question": "Which frequency is intended for a conversation between the intercepting aircraft and the intercepted aircraft?",
+      "answers": [
+        "International emergency frequency 121.5 mhz.",
+        "Local air force frequency.",
+        "Local emergency frequency.",
+        "Frequency air-air."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-112",
+      "sourceNumber": 112,
+      "question": "What is the meaning of the phrase \"YOU LAND\", passed by a radio from the pilot of an intercepting aircraft to the pilot of an intercepted aircraft?",
+      "answers": [
+        "Land at this aerodrome.",
+        "Report the name of your aerodrome of origin.",
+        "Follow me.",
+        "You may proceed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-113",
+      "sourceNumber": 113,
+      "question": "By which international phrase will the intercepting aircraft allows the intercepted aircraft to continue the flight?",
+      "answers": [
+        "PROCEED.",
+        "CALL SIGN.",
+        "DESCEND.",
+        "FOLLOW."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-114",
+      "sourceNumber": 114,
+      "question": "The phrase \"CALL SIGN\", passed by a radio from a pilot of an intercepting aircraft to the pilot of an intercepted aircraft, means:",
+      "answers": [
+        "What is your call sign?",
+        "Call the air traffic control!",
+        "Transmit an emergency call!",
+        "Return to your airport of origin!"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-115",
+      "sourceNumber": 115,
+      "question": "The pilot of an intercepted aircraft report to the pilot of an intercepting aircraft that he is lost and his position is uncertain to him by transmitting the following international radio phrase.",
+      "answers": [
+        "AM LOST.",
+        "WILCO.",
+        "CAN NOT.",
+        "MAYDAY."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-116",
+      "sourceNumber": 116,
+      "question": "By which international phrase will the intercepting aircraft direct the intercepted aircraft tofollow him?",
+      "answers": [
+        "FOLLOW.",
+        "PROCEED.",
+        "YOU LAND.",
+        "CALL SIGN."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-117",
+      "sourceNumber": 117,
+      "question": "Which is the correct phrase used by the pilot of an intercepted aircraft to convey to an intercepting aircraft his inability to comply with the received instructions?",
+      "answers": [
+        "CAN NOT.",
+        "AM LOST.",
+        "MAYDAY.",
+        "WILCO."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-118",
+      "sourceNumber": 118,
+      "question": "In the event of a radio failure the SSR transponder should be set to:",
+      "answers": [
+        "7600.",
+        "7700.",
+        "7500.",
+        "7000."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-119",
+      "sourceNumber": 119,
+      "question": "The phrase, which instructs the pilot to set transponder code A6620 again, is.",
+      "answers": [
+        "RECYCLE ALPHA 6620.",
+        "SQUAWK AGAIN ALPHA 6620.",
+        "SWITCH ON ALPHA 6620.",
+        "CONFIRM SQUAWKING ALPHA 6620."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-120",
+      "sourceNumber": 120,
+      "question": "If a transponder does not transmit on mode C although it is expected, an ATC will instruct the pilot to switch on mode C by using the phrase.",
+      "answers": [
+        "SQUAWK CHARLIE.",
+        "SQUAWK ALTIMETER.",
+        "SQUAWK PRESSURE ALTITUDE.",
+        "TRANSMIT ON MODE CHARLIE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-121",
+      "sourceNumber": 121,
+      "question": "You receive the message \" YU-ABC Squawk Ident\". You should:",
+      "answers": [
+        "Operate the special position identification on the SSR transponder.",
+        "Select STANDBY on the SSR transponder.",
+        "Select ALT - altitude reporting facility (Mode C) on the SSR transponder.",
+        "Reply giving your callsign."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-122",
+      "sourceNumber": 122,
+      "question": "The phrase \"Squawk Charlie\" means:",
+      "answers": [
+        "Select 'ALT' on the transponder.",
+        "Transponder.",
+        "Confirm the transponder is selected ON.",
+        "Select 7700 on the transponder."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-123",
+      "sourceNumber": 123,
+      "question": "In a radar environment heading information given by the pilot and heading instructions given by controllers are in:",
+      "answers": [
+        "Degrees magnetic.",
+        "Degrees true.",
+        "Degrees Celsius.",
+        "Degrees Absolute."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-124",
+      "sourceNumber": 124,
+      "question": "A pilot squawking A 7700 indicates to the ground station that.",
+      "answers": [
+        "His aircraft is in an emergency situation.",
+        "His radio is unserviceable.",
+        "He has a sick person on board.",
+        "His flight is being hijacked."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-125",
+      "sourceNumber": 125,
+      "question": "Which transponder mode gives an altitude readout:",
+      "answers": [
+        "Mod C.",
+        "Mod A.",
+        "Mod B.",
+        "Mod D."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-126",
+      "sourceNumber": 126,
+      "question": "If you are flying an aircraft without a transponder, what would you say if you were asked to SQUAWK?",
+      "answers": [
+        "NEGATIVE TRANSPONDER.",
+        "NEGATIVE SQUAWK.",
+        "I DO NOT HAVE A TRANSPONDER.",
+        "NO TRANSPONDER."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-127",
+      "sourceNumber": 127,
+      "question": "If the pilot of an aircraft, equipped with the transponder, has been instructed \"SQUAWK 1200\" by an ATC, he should set the code 1200 on the transponder and.",
+      "answers": [
+        "Move the switch to \"ON\" or \"ALT\", if not yet selected.",
+        "Push the button \"IDENT\".",
+        "Move the switch to \"STANDBY\".",
+        "Move the switch to \"STANDBY\" and depress on button \"IDENT\"."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-128",
+      "sourceNumber": 128,
+      "question": "With the SSR transponder selected ON, the ATC message 'YU-ABC verify your level' would be made to:",
+      "answers": [
+        "Check and confirm the accuracy of the Mode C level information displayed to the controller.",
+        "Identify aircraft position.",
+        "Check your altimeter setting.",
+        "Check with the pilot that Mode C is selected ON."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-129",
+      "sourceNumber": 129,
+      "question": "Which phrase is used to annul the previously transmitted clearance?",
+      "answers": [
+        "DISREGARD.",
+        "RECLEARED.",
+        "NEGATIVE.",
+        "CANCEL."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-130",
+      "sourceNumber": 130,
+      "question": "Which of the following is a conditional clearance?",
+      "answers": [
+        "YU-ABC, AFTER THE JAT 737, TAXY TO HOLDING POINT D RUNWAY 26.",
+        "JAT 345, LINE UP AND HOLD.",
+        "REDWING 42, TAKE OFF AT YOUR DISCRETION.",
+        "Y-CC, REPORT FINAL, TWO AHEAD."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-131",
+      "sourceNumber": 131,
+      "question": "Taxy instructions issued by the controller will include a clearance limit which will normally be:",
+      "answers": [
+        "The holding point of the runway in use.",
+        "The threshold of the runway in use.",
+        "The entrance to the parking area."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-132",
+      "sourceNumber": 132,
+      "question": "The phrase \"CLEARANCE EXPIRES AT 02 35\" means that the pilot.",
+      "answers": [
+        "Will be granted permission for takeoff by 02 35.",
+        "May takeoff after 02 35.",
+        "Shall wait until 02 35 asking for departure clearance.",
+        "Shall start up engines at 02 35."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-133",
+      "sourceNumber": 133,
+      "question": "A pilot receives the following message from ATC. \"YU-ABC, After departure cleared to zone boundary via Route Bravo, Climb to Altitude 2 500 feet, QNH 1005, Squawk 6521.\" What type of clearance is this?",
+      "answers": [
+        "A Route Clearance.",
+        "A Take-off Clearance.",
+        "A Conditional Clearance.",
+        "A Departure Clearance."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-134",
+      "sourceNumber": 134,
+      "question": "The permission to taxi to the takeoff position will be phrased.",
+      "answers": [
+        "LINE UP.",
+        "TAXI TO THE TAKEOFF POSITION.",
+        "CLEARED INTO POSITION AND HOLD.",
+        "CONTINUE TO TAKEOFF POSITION AND HOLD."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-135",
+      "sourceNumber": 135,
+      "question": "That portion of the runway identified by the letter C is called? (See Fig. PPL Kom-1).",
+      "answers": [
+        "LINE-UP POSITION.",
+        "START-UP POSITION.",
+        "APRON.",
+        "BASE LEG."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-136",
+      "sourceNumber": 136,
+      "question": "During overflying a remote forest area you notice a hang glider on tree canopies and it seems to you that the pilot hangs on his harnesses. You decide to call the nearest airport and report the accident. The phrase with which you should begin your radiotelephony message is:",
+      "answers": [
+        "PANPAN, PANPAN, PANPAN.",
+        "EMERGENCY, EMERGENCY, EMERGENCY.",
+        "MAYDAY, MAYDAY, MAYDAY.",
+        "MEDICAL, MEDICAL, MEDICAL."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "COMMUNICATION-137",
+      "sourceNumber": 137,
+      "question": "That portion of the airport taxyway identified by the letter B is called? (See Fig. PPL Kom-1).",
+      "answers": [
+        "HOLDING POINT.",
+        "APRON.",
+        "LINE-UP POSITION.",
+        "CROSSWIND LEG."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    }
+  ]
+}

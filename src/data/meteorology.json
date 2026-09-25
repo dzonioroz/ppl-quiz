@@ -1,0 +1,2245 @@
+{
+  "subject": "Meteorology",
+  "source": "Metheorology.pdf",
+  "questions": [
+    {
+      "id": "METEOROLOGY-001",
+      "sourceNumber": 1,
+      "question": "The use of the suffix \"nimbus\" or the prefix \"nimbo\" means?",
+      "answers": [
+        "Rain bearing.",
+        "Wispy, detached or fiberous.",
+        "Medium cloud.",
+        "Dark and threatening."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-002",
+      "sourceNumber": 2,
+      "question": "A light aircraft flying at low level near a mountain range across which a strong wind is blowing may expect: 1. Severe turbulence below or within any rotor zone. 2. Down-draughts which may exceed the climb rate of the aircraft. 3. A greater than normal risk of icing in the cloud over the crest mountain. 4. Lenticular cloud.",
+      "answers": [
+        "1,2, 3 and 4 are correct.",
+        "Only 1 and 3 are correct.",
+        "Only 1 and 2 are correct.",
+        "Only 1, 2 and 4 are correct."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-003",
+      "sourceNumber": 3,
+      "question": "Given an atmospheric situation where the relative humidity is 60% and the ELR is less than the DALR, if air is forced to rise it will be:",
+      "answers": [
+        "Stable and will tend to regain its former position.",
+        "Unstable and will carry on rising.",
+        "Stable and will carry on rising.",
+        "Unstable and will tend to regain its former position."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-004",
+      "sourceNumber": 4,
+      "question": "When receiving circuit joining information prior to an approach at a destination airfield, the pilot of a light aircraft is warned of the presence of low level windshear. The pilot should?",
+      "answers": [
+        "Delay the approach or even consider diverting.",
+        "Use a higher than normal approach speed to counteract any loss of headwind component.",
+        "Consider the possibility of a missed approach.",
+        "Land using the normal landing technique but monitor speed carefully."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-005",
+      "sourceNumber": 5,
+      "question": "Which of the processes listed below can cause air to become saturated?",
+      "answers": [
+        "Evaporation.",
+        "Melting.",
+        "Condensation.",
+        "Heating."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-006",
+      "sourceNumber": 6,
+      "question": "During a night with a clear sky, surface temperature will_____Relative Humidity will_____and Dewpoint will_____.",
+      "answers": [
+        "Fall / Rise / Remain the same.",
+        "Fall / Rise / Rise.",
+        "Rise / Rise / Fall.",
+        "Fall / Fall / Remain the same."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-007",
+      "sourceNumber": 7,
+      "question": "A change of state directly from a solid to a vapour or vice versa is:",
+      "answers": [
+        "Sublimation.",
+        "Insolation.",
+        "Condensation.",
+        "Evaporation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-008",
+      "sourceNumber": 8,
+      "question": "The process of change of state from a gas to a liquid is known as:",
+      "answers": [
+        "Condensation in which latent heat is released.",
+        "Evaporation in which latent heat is absorbed.",
+        "Evaporation in which latent heat is released.",
+        "Condensation in which latent heat is absorbed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-009",
+      "sourceNumber": 9,
+      "question": "An aircraft is flying in the vicinity of a range of hills, lying north-south, across which a wind is blowing from the west to east. Which of the following situations might cause the aircraft to encounter dangerous downdraughts?",
+      "answers": [
+        "When flying west towards the hills from the east.",
+        "When flying east towards the hills from the west.",
+        "When flying north towards the hill from the south.",
+        "When flying south towards the hill from the north."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-010",
+      "sourceNumber": 10,
+      "question": "What stage of a thunderstorm is characterised predominantly by downdraughts?",
+      "answers": [
+        "Dissipating stage.",
+        "Initial stage.",
+        "Mature stage.",
+        "Cumulus stage."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-011",
+      "sourceNumber": 11,
+      "question": "Below the tropopause, the ICAO Standard Atmosphere (ISA) assumes?",
+      "answers": [
+        "A mean sea level pressure of 1013.25mb together with a mean sea level temperature of 15°C, decreasing by 1.98°C per 1000ft up to 36,090ft.",
+        "A mean sea level pressure of 1013.25mb together with a mean sea level temperature of 15°C, decreasing at a rate of 2°C per 1000 ft until it reaches -65.6°C at 36,090ft.",
+        "A surface pressure of 1013.25mb together with a sea level temperature of 15°C, decreasing at the rate of 1.98°C per 1000ft until it reaches absolute zero.",
+        "A mean sea level pressure of 1225g/m-3 together with a mean sea level temperature of 15°C, decreasing at a rate of 2°C per 1000ft up to 36,090ft,."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-012",
+      "sourceNumber": 12,
+      "question": "Winds that blow around an anticyclone (high pressure system) at lower levels in the Northern Hemisphere are represented on a low level chart as blowing in:",
+      "answers": [
+        "A clockwise direction.",
+        "A clockwise direction if it is warm air and anticlockwise if it is cold air.",
+        "An anticlockwise direction.",
+        "A cyclonic direction."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-013",
+      "sourceNumber": 13,
+      "question": "Corilolis force in the Northern Hemisphere will cause moving air to be apparently deflected to:",
+      "answers": [
+        "The right and cause the geostrophic wind to blow parallel to the isobars at about 2000ft agl.",
+        "The left and cause the wind to blow parallel to the isobars at about 2000ft agl.",
+        "The left and cause the wind to blow slightly across the isobars at about 2000ft agl.",
+        "The right and cause the wind to blow slightly across the isobars at about 2000ft agl."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-014",
+      "sourceNumber": 14,
+      "question": "Which of the following characterises unstable air?",
+      "answers": [
+        "Cumulus cloud with showers and generally good visibility outside of the showers.",
+        "Layered cloud with showers and generally poor visibility.",
+        "Layered cloud with poor visibility and intermittent drizzle.",
+        "Cumulus cloud with continuous precipitation and moderate visibility."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-015",
+      "sourceNumber": 15,
+      "question": "In a mountain wave situation, the worst of the turbulence is most likely to be found when flying:",
+      "answers": [
+        "In or just below the roll cloud.",
+        "At about mid-height between the lenticular and roll cloud.",
+        "In the cap cloud.",
+        "In the lenticular cloud."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-016",
+      "sourceNumber": 16,
+      "question": "Which of the following is true about the lowest level windshear?",
+      "answers": [
+        "It may be experienced 15 to 20 miles ahead of a fast moving thunderstorm.",
+        "It is rare where there is a strong inversion level close to the surface.",
+        "It is only found under the core of the anvil of a thunderstorm.",
+        "It is only ever found on the fringes of a microburst."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-017",
+      "sourceNumber": 17,
+      "question": "The formation of advection fog is often caused by?",
+      "answers": [
+        "A warm moist air mass under the influence of a moderate wind being cooled to below its dew point by flowing over a much colder surface.",
+        "A cold moist air mass under the influence of a moderate wind being warmed to below its dew point by flowing over a much warmer surface.",
+        "A warm moist air mass under the influence of a very light wind being cooled to below its dew point by flowing over a much colder surface.",
+        "A warm moist air mass under the influence of a strong wind on a clear cloudless night."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-018",
+      "sourceNumber": 18,
+      "question": "Which of the following is true about the lowest level windshear?",
+      "answers": [
+        "It may be experienced 15 to 20 miles ahead of a fast moving thunderstorm.",
+        "It is rare where there is a strong inversion level close to the surface.",
+        "It is only found under the core of the anvil of a thunderstorm.",
+        "It is only ever found on the fringes of a microburst."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-019",
+      "sourceNumber": 19,
+      "question": "The wind at 2000ft over an aerodrome was reported at 330/15kt. Using the rule of thumb, what might you expect the surface wind to be?",
+      "answers": [
+        "305/07kt.",
+        "305/30kt.",
+        "355/30kt.",
+        "315/30kt."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-020",
+      "sourceNumber": 20,
+      "question": "Hazards of the mature stage of a thunderstorm cell include lightning, turbulence and:",
+      "answers": [
+        "Icing, microburst and windshear.",
+        "Microburst, windshear and anvil.",
+        "Icing, drizzle and microburst.",
+        "Windshear, hail and fog.."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-021",
+      "sourceNumber": 21,
+      "question": "Hazards to aircraft caused by the presence of cumulonimbus or thunderstorm cloud may be experienced:",
+      "answers": [
+        "When the aircraft is within 10 nm of the cloud.",
+        "Only when the aircraft is within the cloud.",
+        "Only when the aircraft is within or underneath the cloud.",
+        "When the aircraft is within 5 nm of the cloud."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-022",
+      "sourceNumber": 22,
+      "question": "Which of the following conditions are most likely to produce thunderstorms?",
+      "answers": [
+        "A high moisture content with a steep lapse rate.",
+        "A high moisture content with a shallow lapse rate.",
+        "A low moisture content with a steep lapse rate.",
+        "A low moisture content with a shallow lapse rate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-023",
+      "sourceNumber": 23,
+      "question": "Hail is most likely to fall from which type of cloud?",
+      "answers": [
+        "CB.",
+        "NS.",
+        "AC.",
+        "AS."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-024",
+      "sourceNumber": 24,
+      "question": "For cumulonimbus clouds to develop, there needs to exist?",
+      "answers": [
+        "A deep layer of very unstable moist air.",
+        "A shallow layer of very unstable moist air.",
+        "A deep layer of very unstable moist air with a shallow lapse rate.",
+        "A shallow layer of very unstable air with a steep lapse rate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-025",
+      "sourceNumber": 25,
+      "question": "From the list below, select the Low, Medium and High clouds in ascending order.",
+      "answers": [
+        "Stratus, Altocumulus, Cirrus.",
+        "Nimbostratus, Cumulonimbus, Cirrus.",
+        "Altostratus, Altocumulus, Cirrus.",
+        "Cirrus, Cumulonimbus, Stratus."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-026",
+      "sourceNumber": 26,
+      "question": "During the_____stage of a thunderstorm ceil, the cloud contains_____.",
+      "answers": [
+        "Mature / up currents and down currents.",
+        "Initial /up currents and down currents.",
+        "Dissipating / up currents and down currents.",
+        "Initial / down currents only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-027",
+      "sourceNumber": 27,
+      "question": "Turbulence, windshear, icing, lightning and heavy precipitation are associated with cumulonimbus clouds. Which of the following statements is true?",
+      "answers": [
+        "All of the hazards can be avoided by not flying in or in the vicinity of the cloud.",
+        "The most hazardous condition is lightning.",
+        "Heavy precipitation may be experienced outside the cloud, but turbulence and icing are confined to inside the cloud.",
+        "All of the hazards may be encountered within or in the viciniity of the cloud."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-028",
+      "sourceNumber": 28,
+      "question": "Which of the following combinations of weather-producing variables would be most likely to result in cumuliform clouds, good visibility, showery rain, and possible clear type icing in clouds?",
+      "answers": [
+        "Unstable moist air and orographic lifting.",
+        "Stable, moist air and orographic lifting.",
+        "Unstable moist air and no lifting mechanism.",
+        "Stable, dry air and orographic lifting."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-029",
+      "sourceNumber": 29,
+      "question": "The actual change of temperature with height is known as..",
+      "answers": [
+        "The environmental lapse rate.",
+        "The adiabatic lapse rate.",
+        "The temperature curve.",
+        "The tephigram."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-030",
+      "sourceNumber": 30,
+      "question": "Given a surface temperature of+21°C and a dew point of +7°C, at approximately what height will the cloud base of a cumulus cloud be?",
+      "answers": [
+        "5600ft.",
+        "560ft.",
+        "56,000ft.",
+        "4000ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-031",
+      "sourceNumber": 31,
+      "question": "One or more coloured rings around the sun or moon may indicate the presence of which type of cloud?",
+      "answers": [
+        "Altostratus.",
+        "High.",
+        "Stratus.",
+        "Cirrocumulus."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-032",
+      "sourceNumber": 32,
+      "question": "The pilot of an aircraft which is approaching a mountain from the downwind or leeward side, a few hundred feet above ridge level, observes venticular clouds. Which of the following conditions would the pilot expect to encounter as the flight continues?",
+      "answers": [
+        "Strong down-draughts immediately before the ridge of the mountain is reached, with strong up-draughts after passing the ridge to the windward side.",
+        "Strong katabatic currents at the top of the ridge.",
+        "Strong katabatic down-draughts and turbulence after passing over the ridge.",
+        "Strong up-draughts before the ridge is passed and strong down-draughts after the ridge is passed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-033",
+      "sourceNumber": 33,
+      "question": "Low level winds in the northern hemisphere that blow around a depression are drawn on surface weather charts in?",
+      "answers": [
+        "An anticlockwise direction.",
+        "A clockwise direction.",
+        "An anticyclonic direction.",
+        "Either clockwise or anticlockwise depending on whether the depression is cyclonic or anticyclonic."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-034",
+      "sourceNumber": 34,
+      "question": "Every physical process of weather is accompanied by, or is the result of, a.",
+      "answers": [
+        "Heat exchange.",
+        "Pressure differential.",
+        "Movement of air.",
+        "."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-035",
+      "sourceNumber": 35,
+      "question": "What approximate base of cumulus clouds should be expected if the surface air dewpoint is 5°C and the forcasted daily maximum temperature is 25°C?",
+      "answers": [
+        "2,500 m.",
+        "2,800 m.",
+        "2,000 m.",
+        "1,500 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-036",
+      "sourceNumber": 36,
+      "question": "The conditions which must exist to allow thunderstorms to develop are:",
+      "answers": [
+        "A plentiful supply of moisture and a steep lapse rate through a large vertical extent, together with a trigger action.",
+        "A trigger action, a plentiful supply of moisture and a very stable atmosphere.",
+        "A steep lapse rate, a stable atmosphere through a large vertical extent, and a plentiful supply of moisture.",
+        "A steep lapse rate through a large vertical extent, a low relative humidity and a trigger action."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-037",
+      "sourceNumber": 37,
+      "question": "Unstable air is forced to rise up the side of a mountain. What weather might you expect to see on the windward slopes?",
+      "answers": [
+        "Cloud of extensive vertical development.",
+        "Thick stratiform cloud, probably nimbostratus.",
+        "None, as the air will subside and warm adiabatically after passing over the summit.",
+        "Cap clouds with possible altocumulus lenticularis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-038",
+      "sourceNumber": 38,
+      "question": "Precipitation produced by stratus is normally?",
+      "answers": [
+        "Drizzle.",
+        "Heavy showers.",
+        "Heavy rain.",
+        "Light showers."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-039",
+      "sourceNumber": 39,
+      "question": "The instrument used for measuring the humidity of air is a:",
+      "answers": [
+        "Hygrometer.",
+        "Hydrometer.",
+        "Wet bulb thermometer.",
+        "Hygroscope."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-040",
+      "sourceNumber": 40,
+      "question": "What stage of a thunderstorm is characterised by updraughts only?",
+      "answers": [
+        "Initial stage.",
+        "Mature stage.",
+        "Dissipating stage.",
+        "End stage."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-041",
+      "sourceNumber": 41,
+      "question": "A line drawn on a chart joining places having the same barometric pressure at the same level and at the same time is?",
+      "answers": [
+        "An isobar.",
+        "An isotherm.",
+        "An isallobar.",
+        "A contour."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-042",
+      "sourceNumber": 42,
+      "question": "Wet bulb temperature would normally be lower than dry bulb temperature because:",
+      "answers": [
+        "Evaporation causes cooling on the wet bulb thermometer.",
+        "Condensation causes a release of latent heat.",
+        "Latent heat is absorbed by the bulb thermometer.",
+        "Of condensation on the muslin wick of the bulb."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-043",
+      "sourceNumber": 43,
+      "question": "The diurnal variation of temperature is:",
+      "answers": [
+        "Reduced anywhere by the presence of cloud.",
+        "Greater over the sea than overland.",
+        "Less over desert areas than over temperate grassland.",
+        "Increased anywhere as wind speed increases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-044",
+      "sourceNumber": 44,
+      "question": "Consider the following statements about air density and select the one which is correct?",
+      "answers": [
+        "At any given surface temperature the air density will be greater in anticyclonic conditions than it will be when the mean sea level pressure is lower.",
+        "Because air density increases with a decrease of temperature, air density must increase with increase of height in the International Standard Atmosphere (ISA).",
+        "Air density increases with an increase of relative humidity.",
+        "The effect of change of temperature on the air density is much greater than the effect of change of atmospheric pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-045",
+      "sourceNumber": 45,
+      "question": "Under what conditions would density be the least at any given place?",
+      "answers": [
+        "High altitude, high temperature and high humidity.",
+        "Low altitude, high temperature and high humidity.",
+        "High altitude, high temperature and low humidity.",
+        "Low altitude, low temperature and low humidity."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-046",
+      "sourceNumber": 46,
+      "question": "What is density defined as?",
+      "answers": [
+        "Mass per unit volume.",
+        "Mass per unit area.",
+        "Weight of air per unit area.",
+        "Volume divided by mass."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-047",
+      "sourceNumber": 47,
+      "question": "Generally as altitude increases:",
+      "answers": [
+        "Temperature, pressure and density decreases.",
+        "Temperature decreases and density increases.",
+        "Temperature and pressure increase and density decreases.",
+        "Temperature decreases and pressure density increases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-048",
+      "sourceNumber": 48,
+      "question": "Density at the surface will be low when:",
+      "answers": [
+        "Pressure is low and temperature is high.",
+        "Pressure is high and temperature is high.",
+        "Pressure is high and temperature is low.",
+        "Pressure is low and temperature is low."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-049",
+      "sourceNumber": 49,
+      "question": "A trough of low pressure at the surface is generally associated with:",
+      "answers": [
+        "Convergence causing increased cloud and precipitation.",
+        "Divergence causing increased cloud and precipitation.",
+        "Subsidence causing increased cloud and precipitation.",
+        "Subsidence causing decreased cloud and precipitation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-050",
+      "sourceNumber": 50,
+      "question": "Compared to ISA, what does warm air do to the distance represented by a 1 hpa change in pressure?",
+      "answers": [
+        "Increases it.",
+        "Decreases it.",
+        "Nothing.",
+        "Impossible to determine."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-051",
+      "sourceNumber": 51,
+      "question": "During the winter months, which of the following weather conditions would most likely be produced by an anticyclone?",
+      "answers": [
+        "General subsidence with adiabatic warming, clear skies, and an inversion.",
+        "Subsidence due to surface cooling creating extensive cloud.",
+        "During the day, the surface warming would create an unstable atmosphere with extensive convective cloud.",
+        "During the night, as the land cools, there would be an increase in the vertical cloud development."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-052",
+      "sourceNumber": 52,
+      "question": "What is the significance of tightly spaced isobars?",
+      "answers": [
+        "A large pressure gradient and strong winds.",
+        "A weak pressure gradient and light winds.",
+        "A weak pressure gradient and strong winds.",
+        "A large pressure gradient and light winds."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-053",
+      "sourceNumber": 53,
+      "question": "The pressure of the atmosphere:",
+      "answers": [
+        "Decreases at a decreasing rate as height increases.",
+        "Decreases at an increasing rate as height increases.",
+        "Decreases at a constant rate as height increases.",
+        "Decreases at a constant rate up to the Tropopause and then remains constant."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-054",
+      "sourceNumber": 54,
+      "question": "What is the name of the instrument which gives a continuous printed reading and record of the atmospheric pressure?",
+      "answers": [
+        "Barograph.",
+        "Barometer.",
+        "Hygrometer.",
+        "Anemograph."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-055",
+      "sourceNumber": 55,
+      "question": "The temperature at 2000ft above mean sea level is forecast to be 5°C; compared to the ICAO Standard Atmosphere (ISA) this is:",
+      "answers": [
+        "ISA -6.",
+        "IAS +6.",
+        "ISA +5.",
+        "IAS -6."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-056",
+      "sourceNumber": 56,
+      "question": "The layer closest to the earth's surface where the majority of weather is found is called?",
+      "answers": [
+        "Troposphere.",
+        "Tropopause.",
+        "Stratosphere.",
+        "Mesosphere."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-057",
+      "sourceNumber": 57,
+      "question": "What are the proportions of gases in the atmosphere?",
+      "answers": [
+        "Oxygen 21%, Nitrogen 78%, other gasses 1%.",
+        "Oxygen 21%, Hydrogen 78%, other gasses 1%.",
+        "Nitrogen 78%, Argon 21%, Oxygen 1%.",
+        "Nitrogen 78%, Oxygen 21%, Hydrogen 1%."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-058",
+      "sourceNumber": 58,
+      "question": "Where is most of the water vapour in the atmosphere contained?",
+      "answers": [
+        "Troposphere.",
+        "Tropopause.",
+        "Stratosphere.",
+        "Stratopause."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-059",
+      "sourceNumber": 59,
+      "question": "What is the density at sea level in the International Standard Atmosphere?",
+      "answers": [
+        "1225gm3.",
+        "12.25gm3.",
+        "1.225gm3.",
+        "122.5gm3."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-060",
+      "sourceNumber": 60,
+      "question": "A ridge of high pressure is generally associated with:",
+      "answers": [
+        "Subsidence of air, then divergence at the surface causing clear skies and poor visibility.",
+        "Convergence at the surface causing increased cloud and precipitation.",
+        "Divergence at the surface causing an improvement in the surface visibility.",
+        "Subsidence then divergence at the surface causing cloud to break up and more precipitation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-061",
+      "sourceNumber": 61,
+      "question": "A low level mist layer significantly reduces forward visibility when flying at about 2000ft. To improve your forward visiility you should?",
+      "answers": [
+        "Fly higher.",
+        "Fly lower.",
+        "Fly just on top of the mist layer.",
+        "Turn on your landing lights and strobe lights."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-062",
+      "sourceNumber": 62,
+      "question": "You are flying at a constant indicated altitude with the QNH of 1015 set within the subscale and you notice the outside air temperature has been falling constantly. What can you expect to have happened to your true altitude?",
+      "answers": [
+        "Decreased.",
+        "Increased.",
+        "Remained the same.",
+        "Increased then decreased."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-063",
+      "sourceNumber": 63,
+      "question": "You experience a constant drift to the right when flying over Europe at a constant indicated altitude. If the altimeter subscale is not updated, this will result in?",
+      "answers": [
+        "Flying at a progressively lower true altitude.",
+        "Flying at a progressively higher true altitude.",
+        "Flying at a progressively lower indicated altitude.",
+        "Flying at a progressively higher indicated altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-064",
+      "sourceNumber": 64,
+      "question": "An aircraft flies from aerodrome \"A\", where QNH is given as 1020mb, to aerodrome \"B\", where the QNH is given as 999mb. Aerodrome \"A\" is 800ft above mean sea level and aerodrome \"B\" is 500ft above mean sea level. If the altimeter sub scale is not changed from 1020, what is the altimeter indication on landing? (ASSUME 1mb = 30ft).",
+      "answers": [
+        "1,130ft.",
+        "1,430ft.",
+        "130ft.",
+        "-130ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-065",
+      "sourceNumber": 65,
+      "question": "The name given to the lowest forecast mean sea level pressure in an area is:",
+      "answers": [
+        "Regional QNH.",
+        "QFE.",
+        "QFF.",
+        "QNE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-066",
+      "sourceNumber": 66,
+      "question": "An aircraft flies at a constant indicated altitude from airfield A (QNH 1009mb) to airfield B (QNH 1019mb). If the subscale is not reset from 1009, what would be expected when over airfield B:",
+      "answers": [
+        "Indicated altitude to be less than actual altitude.",
+        "Indicated altitude to be the same as actual altitude.",
+        "Indicated altitude to be more than actual altitude.",
+        "Indicated altitude may be greater or less depending on the airfield elevation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-067",
+      "sourceNumber": 67,
+      "question": "The altimeter will always read:",
+      "answers": [
+        "The vertical distance above the pressure level set in the sub scale.",
+        "With 1013 set, the altitude above MSL.",
+        "With airfield QNH set, the height above the airfield datum.",
+        "The correct flight level with regional QFE set."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-068",
+      "sourceNumber": 68,
+      "question": "If temperature remains constant with an increase in altitude there is:",
+      "answers": [
+        "An isothermal layer.",
+        "An isohypse.",
+        "An inversion.",
+        "Decreased lapse rate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-069",
+      "sourceNumber": 69,
+      "question": "When flying towards a depression at a constant indicated altitude, the true altitude will be:",
+      "answers": [
+        "Lower than indicated.",
+        "Higher than indicated.",
+        "The same as indicated.",
+        "Lower than indicated at first then the same as indicated later."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-070",
+      "sourceNumber": 70,
+      "question": "When condensation takes place, the higher the temperature the_____the amount of latent heat_____:",
+      "answers": [
+        "Greater / released.",
+        "Lesser / released.",
+        "Greater / absorbed.",
+        "Lesser / absorbed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-071",
+      "sourceNumber": 71,
+      "question": "Which of the statements below best describes a COL?",
+      "answers": [
+        "An area of widely spaced isobars between two highs and two lows.",
+        "An area between two highs where the isobars are very close together.",
+        "An extension of high pressure.",
+        "An extension of low pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-072",
+      "sourceNumber": 72,
+      "question": "An inversion is when:",
+      "answers": [
+        "There is an increase of temperature as height increases.",
+        "There is no horizontal gradient of temperature.",
+        "There is no change of temperature with height.",
+        "There is a decrease of temperature as height Increases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-073",
+      "sourceNumber": 73,
+      "question": "The sun gives out_____amounts of energy with_____wavelengths.The earth gives out relatively_____amounts of energy with relatively_____wavelengths:",
+      "answers": [
+        "Large / small / small / large.",
+        "Large / large / small / small.",
+        "Small / small / large / large.",
+        "Large / large / small / large."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-074",
+      "sourceNumber": 74,
+      "question": "The method by which energy is transferred from one body to another with which it is in contact is called:",
+      "answers": [
+        "Conduction.",
+        "Radiation.",
+        "Convection.",
+        "Latent heat."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-075",
+      "sourceNumber": 75,
+      "question": "An area of indeterminate pressure between two lows and two highs is called:",
+      "answers": [
+        "A col.",
+        "A trough.",
+        "A ridge.",
+        "A saddle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-076",
+      "sourceNumber": 76,
+      "question": "Cloud cover will reduce surface diurnal variation of temperature because:",
+      "answers": [
+        "Incoming solar radiation is reflected back to space and terrestrial radiation is re-radiated from the cloud back to the surface layer.",
+        "Incoming solar radiation is reflected back to space and outgoing terrestrial radiation is reflected back to earth.",
+        "Incoming solar radiation is re-radiated back to space and atmospheric heating by convection will stop at the level of the cloud layer.",
+        "The cloud stops the sun's rays getting through to the earth and also reduces outgoing conduction."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-077",
+      "sourceNumber": 77,
+      "question": "Diurnal variation of the surface temperature will:",
+      "answers": [
+        "Decrease as wind speed increases.",
+        "Be unaffected by a change of wind speed.",
+        "Increase as wind speed increases.",
+        "Be at a minimum in calm conditions."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-078",
+      "sourceNumber": 78,
+      "question": "When an altimeter sub scale is set to the aerodrome OFE, the altimeter reads:",
+      "answers": [
+        "Zero at the aerodrome reference point.",
+        "The elevation of the aerodrome at the aerodrome reference point.",
+        "The pressure altitude at the aerodrome reference point.",
+        "The appropriate altitude of the aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-079",
+      "sourceNumber": 79,
+      "question": "What wind represents depicted symbol from meteorological charts? (See Fig. PPL Meteo-15).",
+      "answers": [
+        "West wind at 60 knots.",
+        "North wind at 60 knots.",
+        "South wind at 15 knots.",
+        "East wind at 15 knots."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-080",
+      "sourceNumber": 80,
+      "question": "Which weather conditions should be expected beneath a low-level temperature inversion layer when the relative humidity is high?",
+      "answers": [
+        "Light windshear, poor visibility, haze, and light rain.",
+        "Smooth air, poor visibility, fog, haze, or low clouds.",
+        "Turbulent air, poor visibility, fog, low stratus type clouds, and showery precipitation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-081",
+      "sourceNumber": 81,
+      "question": "What types clouds usually accompany the passage of a warm front?",
+      "answers": [
+        "CI, CS, AS, NS.",
+        "CC, AC, CU, CB.",
+        "CI, CC, NS, CB.",
+        "CC, SC, ST, NS."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-082",
+      "sourceNumber": 82,
+      "question": "What are the characteristics of an unstable air mass?",
+      "answers": [
+        "Turbulence and good surface visibility.",
+        "Turbulence and poor surface visibility.",
+        "Nimbostratus clouds and good surface visibility."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-083",
+      "sourceNumber": 83,
+      "question": "What is the approximate airfield dewpoint if the surface air temperature is 20 °C and the reported base of the cumulus clouds is 1,100m above the airfield level?",
+      "answers": [
+        "11°C.",
+        "5°C.",
+        "7°C.",
+        "-3°C."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-084",
+      "sourceNumber": 84,
+      "question": "The amount of water vapor which air can hold depends on the.",
+      "answers": [
+        "Air temperature.",
+        "Stability of the air.",
+        "Dewpoint."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-085",
+      "sourceNumber": 85,
+      "question": "The most frequent type of ground or surface-based temperature inversion is that which is produced by.",
+      "answers": [
+        "Terrestrial radiation on a clear, relatively still night.",
+        "The movement of colder air under warm air, or the movement of warm air over cold air.",
+        "Warm air being lifted rapidly aloft in the vicinity of mountainous terrain."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-086",
+      "sourceNumber": 86,
+      "question": "Why is frost considered hazardous to flight?",
+      "answers": [
+        "Frost spoils the smooth flow of air over the wings, thereby decreasing lifting capability.",
+        "Frost slows the airflow over the airfoils, thereby increasing control effectiveness. .",
+        "Frost changes the basic aerodynamic shape of the airfoils, thereby increasing lift."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-087",
+      "sourceNumber": 87,
+      "question": "Accordingly to the following METAR report, when may we expect vanishing of the fog an weather improvement for VFR flight? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+      "answers": [
+        "After 18:00 UTC.",
+        "Till 17:00 UTC.",
+        "Till 18:00 UTC (the latest).",
+        "Between 17:00 and 18:00 UTC."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-088",
+      "sourceNumber": 88,
+      "question": "Accordingly to the code which of the following METAR reports cold be partially abbreviated by CAVOK (minimum sector altitude 4.000 ft)? A) 34004KT 7000 MIFG SCT260 09/08 Q1019 NOSIG= B)27019G37KT 9999 BKN050 18/14 Q1016 NOSIG= C)00000KT 0100 FG VV001 11/11 Q1025 BECMG 0500= D)26012KT 8000 -SHRA BKN025TCU 16/12 Q1018 NOSIG=.",
+      "answers": [
+        "B.",
+        "A.",
+        "C.",
+        "D."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-089",
+      "sourceNumber": 89,
+      "question": "What was the ceiling of the lowest cloud layer accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+      "answers": [
+        "300 m.",
+        "10 ft.",
+        "100 ft.",
+        "1,000 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-090",
+      "sourceNumber": 90,
+      "question": "What type of precipitations was observed accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+      "answers": [
+        "Light drizzle.",
+        "Steady and light rain.",
+        "Hail.",
+        "Rain showers."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-091",
+      "sourceNumber": 91,
+      "question": "At what time was following METAR report issued? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+      "answers": [
+        "By 16:30 UTC, 13th day of the running month.",
+        "By 16:00 UTC, 30th day of the running month.",
+        "By 16:30 local time. .",
+        "By 24:00 local time, 8th day of the running month."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-092",
+      "sourceNumber": 92,
+      "question": "What was the observed air pressure accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+      "answers": [
+        "1018 hpa (QNH).",
+        "1000 hpa (QNH).",
+        "999 hpa (QFE).",
+        "1018 hpa (QFE). ."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-093",
+      "sourceNumber": 93,
+      "question": "What was the observed temperature accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+      "answers": [
+        "17°C.",
+        "Between 10°C and 18°C. .",
+        "16°C.",
+        "Between 16°C and 17°C."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-094",
+      "sourceNumber": 94,
+      "question": "What value is being calculated by following formula? Temperature minus dewpoint times 123 =. ?",
+      "answers": [
+        "Ceiling of cumulus clouds in meters.",
+        "Temperature aloft.",
+        "Tops of stratus clouds in meters.",
+        "Relative humidity."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-095",
+      "sourceNumber": 95,
+      "question": "In which environment is aircraft structural ice most likely to have the highest accumulation rate?",
+      "answers": [
+        "Freezing rain.",
+        "Freezing drizzle. .",
+        "Cumulus clouds with below freezing temperatures."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-096",
+      "sourceNumber": 96,
+      "question": "What is the approximate base of cumulus clouds if the surface air temperature is 27°C and the dewpoint is 15°C?",
+      "answers": [
+        "1.500 m.",
+        "1.000m.",
+        "2.000 m.",
+        "2.700 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-097",
+      "sourceNumber": 97,
+      "question": "Where does windshear occur?",
+      "answers": [
+        "At all altitudes, in all directions.",
+        "Only at lower altitudes.",
+        "Only at higher altitudes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-098",
+      "sourceNumber": 98,
+      "question": "There is thunderstorm activity in the vicinity of an airport at which you plan to land, which hazardous atmospheric phenomenon might be expected on the landing approach?",
+      "answers": [
+        "Windshear turbulence.",
+        "Steady rain.",
+        "Precipitation static."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-099",
+      "sourceNumber": 99,
+      "question": "A pilot can expect a windshear zone in a temperature inversion whenever the windspeed at 2,000 to 4,000 feet above the surface is at least.",
+      "answers": [
+        "25 knots.",
+        "15 knots.",
+        "10 knots."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-100",
+      "sourceNumber": 100,
+      "question": "When may hazardous windshear be expected?",
+      "answers": [
+        "In areas of low-level temperature inversion, frontal zones, and clear air turbulence.",
+        "Following frontal passage when stratocumulus clouds form indicating mechanical mixing.",
+        "When stable air crosses a mountain barrier where it tends to flow in layers forming lenticular clouds. ."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-101",
+      "sourceNumber": 101,
+      "question": "Thunderstorms reach their greatest intensity during the.",
+      "answers": [
+        "Mature stage.",
+        "Downdraft stage.",
+        "Cumulus stage."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-102",
+      "sourceNumber": 102,
+      "question": "With what type of clouds are shower precipitations associated?",
+      "answers": [
+        "CB.",
+        "ST.",
+        "CI.",
+        "CU."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-103",
+      "sourceNumber": 103,
+      "question": "What air temperature may we expect at 7,000 ft if the air temperature at 1,500 ft is 15°C?",
+      "answers": [
+        "+3°C.",
+        "+4°C.",
+        "0°C.",
+        "-2°C."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-104",
+      "sourceNumber": 104,
+      "question": "On what frequency range is the ATIS usually broadcast?",
+      "answers": [
+        "VHF.",
+        "LF.",
+        "HF.",
+        "ADR."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-105",
+      "sourceNumber": 105,
+      "question": "In theatis broadcast, what is used to identify the current report?",
+      "answers": [
+        "An alphabetical code.",
+        "A number.",
+        "A validity time.",
+        "An issue time."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-106",
+      "sourceNumber": 106,
+      "question": "What is theatis?",
+      "answers": [
+        "A continuous broadcast of current aerodrome and weather information.",
+        "A chart of current aerodrome and weather information.",
+        "A continuous broadcast of weather information.",
+        "A printed text report of current aerodrome and weather information."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-107",
+      "sourceNumber": 107,
+      "question": "To minimise VHF frequency use, theatis can be broadcast on the voice frequency of what navigational aid?",
+      "answers": [
+        "VOR.",
+        "ILS.",
+        "NDB.",
+        "GPS."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-108",
+      "sourceNumber": 108,
+      "question": "When areatis broadcasts updated?",
+      "answers": [
+        "Any time the aerodrome or weather information changes.",
+        "Only when the aerodrome information changes.",
+        "Every 30 minutes.",
+        "Every hour."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-109",
+      "sourceNumber": 109,
+      "question": "VOLMETS are?",
+      "answers": [
+        "Ground to air radio transmissions on HF and VHF.",
+        "Air to ground radio transmissions on HF and VHF.",
+        "Air to ground radio transmissions on HF and SVHF.",
+        "Ground to air radio transmissions on LF and VHF."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-110",
+      "sourceNumber": 110,
+      "question": "What weather phenomena is associated with a temperature inversion?",
+      "answers": [
+        "A stable layer of air.",
+        "An unstable layer of air.",
+        "Ascending winds on mountain slopes.",
+        "Thunderstorms inside air masses."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-111",
+      "sourceNumber": 111,
+      "question": "A regional AIRMET is issued______ and is valid for______ with an outlook period o_________.;.",
+      "answers": [
+        "4 times a day / 8 hours / 6 hours.",
+        "6 times a day / 8 hours / 4 hours.",
+        "4 times a day / 6 hours / 4 hours.",
+        "6 times a day / 4 hours / 4 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-112",
+      "sourceNumber": 112,
+      "question": "What kind of weather is forecast for the period after 12:00 UTC? TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CB BKN020 FM12 15006KT 9999 BKN020 BKN100=.",
+      "answers": [
+        "Moderate southeasterly wind with visibility improvement to more than 10 km, precipitations will stop, cloudiness will become greater with ceiling at 600 m.",
+        "Rainy weather with showers and gusty wind and visibility below 10 km. .",
+        "Visibility will improve to 5 km to 10 km and cloud covering will decrease to 1/8 at 600 m and 1/8 at 3000 m.",
+        "Southeasterly wind 6 kts, visibility will be convenient for visual flying and the sky will be completely covered with clouds with base at 600 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-113",
+      "sourceNumber": 113,
+      "question": "Ice accretion in a piston engine induction system is produced by:",
+      "answers": [
+        "Low power settings, high humidity and warm air.",
+        "High power settings, moderate humidity and cold air.",
+        "Low power settings, low humidity and warm air.",
+        "High power settings, high humidity and warm air."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-114",
+      "sourceNumber": 114,
+      "question": "A volmetis defined as:",
+      "answers": [
+        "A continuous radio broadcast of selected aerodrome actual weather observations and forecasts.",
+        "A radio broadcast of selected aerodrome forecasts.",
+        "A continuous telephone message of selected aerodrome METARS.",
+        "A teleprinter message of selected aerodrome tafs and metars."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-115",
+      "sourceNumber": 115,
+      "question": "What percent coverage of the lowest cloud layer was observed accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+      "answers": [
+        "1 /8 to 2/8.",
+        "5/8 to 7/8.",
+        "8/8. .",
+        "Less than 1/8."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-116",
+      "sourceNumber": 116,
+      "question": "What does this symbol represent on a forecast chart? (See Fig. PPL Meteo-6).",
+      "answers": [
+        "Severe icing.",
+        "Severe turbulence.",
+        "Severe mountain waves.",
+        "Thunderstorms."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-117",
+      "sourceNumber": 117,
+      "question": "Clear ice forms as a result of:",
+      "answers": [
+        "Large supercooled water droplets spreading as they freeze.",
+        "Ice pellets splattering on the aircraft.",
+        "Small supercooled water droplets splashing over the aircraft.",
+        "Water vapour freezing to the aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-118",
+      "sourceNumber": 118,
+      "question": "Which of the following conditions is most favourable to the formation of radiation fog?",
+      "answers": [
+        "High relative humidity, light winds and a clear sky.",
+        "High relative humidity, moderate wind and a cloudy sky.",
+        "Low relative humidity, light winds and a clear sky.",
+        "High relative humidity, light winds and a cloudy sky."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-119",
+      "sourceNumber": 119,
+      "question": "Over an inland airfield radiation fog is reported in the morning. As the wind speed increases to 10 kt what would you expect:",
+      "answers": [
+        "The fog to lift and form low stratus.",
+        "The fog to thicken.",
+        "The fog to dissipate.",
+        "An increase in mixing, allowing more fog to develop."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-120",
+      "sourceNumber": 120,
+      "question": "What are the characteristics of the passage of a cold front?",
+      "answers": [
+        "A dew point fall, a temperature fall, and the wind veering.",
+        "A dew point rise, a temperature fall and wind backing.",
+        "Dew point rise, a temperature fall and the wind veering.",
+        "Steady dew point and temperature but a sharp backing in the wind."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-121",
+      "sourceNumber": 121,
+      "question": "What is the general speed of the warm front?",
+      "answers": [
+        "Approximately 2/3 of the speed of the cold front.",
+        "Approximately 1/3 of the speed of the cold front.",
+        "Approximately 1/2 the speed of the cold front.",
+        "The same speed as the cold front."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-122",
+      "sourceNumber": 122,
+      "question": "If a cloudy, granular type of ice is seen to collect and protrude forward from the leading edge of the aerofoil, what type of ice would it most likely be?",
+      "answers": [
+        "Rime ice.",
+        "Clear ice.",
+        "Rain ice.",
+        "Hoar frost."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-123",
+      "sourceNumber": 123,
+      "question": "What will normally happen to the surface wind direction following the passage of a warm front?",
+      "answers": [
+        "Veer.",
+        "Stay constant.",
+        "Back.",
+        "Veer then back."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-124",
+      "sourceNumber": 124,
+      "question": "The extent of rainfall ahead of a typical warm front may be up to a distance of:",
+      "answers": [
+        "200 miles ahead of the surface position of the warm front.",
+        "50 miles ahead of the surface position of the warm front.",
+        "500 miles ahead of the surface position of the warm front.",
+        "2 miles ahead of the surface position of the warm front."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-125",
+      "sourceNumber": 125,
+      "question": "In the METAR shown below, the cloud base has been omitted. At what height might you expect the cloud base to be if cumulus cloud was present? 28005KT9999 SCT??? 12/05 Q1020 NOSIG.",
+      "answers": [
+        "SCT028.",
+        "SCT042.",
+        "SCT020.",
+        "SCT280."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-126",
+      "sourceNumber": 126,
+      "question": "In an AIRMET when are strong wind warnings forecast?",
+      "answers": [
+        "When the wind is expected to exceed 20kt.",
+        "When the wind is expected to exceed 10kt.",
+        "When the wind is expected to exceed 15kt.",
+        "When the maximum wind is expected to exceed 25kt."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-127",
+      "sourceNumber": 127,
+      "question": "LFFF SIGMET SST 1 VALID 310600/311100 LFPW- UIR FRANCE MOD TURB FCST BLW FL420 W of 04W MOV E 30KT NC = In the SIGMET message shown above, what hazard is being forecast?",
+      "answers": [
+        "Moderate turbulence below 42,000 ft west of 4 degrees west and moving eastwards.",
+        "Moderate turbulence at 42,000 ft west of 4 degrees west and moving eastwards.",
+        "Moderate turbulence below 42,000 ft west of 4 degrees west and moving from the east.",
+        "Turbulence at 42,000 ft west of 4 degrees west and moving at 30 knots."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-128",
+      "sourceNumber": 128,
+      "question": "A regional is a forecast of the weather up to?",
+      "answers": [
+        "FL100.",
+        "FL180.",
+        "FL010.",
+        "FL240."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-129",
+      "sourceNumber": 129,
+      "question": "EGTT SIGMET SST 01 VALID 310730/311130 EGRR LONDON FIR ISOL CB FCST TOPS FL370 SST ROUTES W OF W00400 STNR NC = In the SIGMET message shown above what does the code \"SST\" stand for?",
+      "answers": [
+        "Transonic and supersonic flight levels.",
+        "Supersonic flight levels only.",
+        "Subsonic and transonic flight levels.",
+        "Subsonic flight levels only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-130",
+      "sourceNumber": 130,
+      "question": "On WAFC significant weather charts what do the letters \"CB\" imply?",
+      "answers": [
+        "Moderate to severe icing and turbulence.",
+        "Moderate Icing and turbulence.",
+        "Moderate to severe icing and turbulence and hail.",
+        "Severe icing and turbulence and hail."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-131",
+      "sourceNumber": 131,
+      "question": "What is the validity time for a WAFC significant weather chart?",
+      "answers": [
+        "For a single fixed time only.",
+        "6 hours.",
+        "3 hours.",
+        "30 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-132",
+      "sourceNumber": 132,
+      "question": "The visibility group R20/0050 in a METAR means:",
+      "answers": [
+        "As measured by runway measuring equipment for runway 20, a current runway visibility of 50 metres.",
+        "For runway 20, a current visibility of 500 metres measured by runway visual range equipment.",
+        "The runway visibility reported is 50 metres as measured by the runway visual range equipment within the last 20 minutes.",
+        "On runway 20, the current visibility is less than 5000 metres."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-133",
+      "sourceNumber": 133,
+      "question": "When a TREND is included at the end of an aviation METAR, the trend is a forecast valid for:",
+      "answers": [
+        "2 hours after the time of observation.",
+        "1 hour after the time of observation.",
+        "2 hours after it was issued.",
+        "1 hour after it was issued."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-134",
+      "sourceNumber": 134,
+      "question": "Which of the following correctly decodes the METAR shown below? METAR EGKL 130350Z 32005KT 0400N DZ BCFG VV002.",
+      "answers": [
+        "Observed on the 13th day of the month at 0350Z, surface wind 320°True, 05kt, minimum visibility 400 metres to the north, moderate drizzle, with fog patches and a vertical visibility of 200ft.",
+        "Reported on the 13th day of the month at 0350Z, surface wind 320°Magnetic, 05kt, minimum visibility 400 metres to the north, moderate drizzle, with fog patches and a vertical visibility of 200ft.",
+        "Valid on the 13th day of the month between 0300 and 1500Z, surface wind 320°T/05kt, minimum visibility 400 metres, drizzle, with fog patches and a vertical visibility of 200 metres.",
+        "Valid between 1300Z and 1350Z, surface wind 320°T/05kt, minimum visibility 400 metres to the north, moderate drizzle, and a vertical visibility of 200ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-135",
+      "sourceNumber": 135,
+      "question": "You are flying above the freezing level in the cold air just ahead of a warm front. If rain were to fall in this area, what kind of icing might you expect?",
+      "answers": [
+        "Rain or clear ice.",
+        "Carburettor ice.",
+        "Rime ice.",
+        "Hoar frost."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-136",
+      "sourceNumber": 136,
+      "question": "What is the main reason water can exist in a liquid state even though the temperature is sub zero?",
+      "answers": [
+        "No freezing nuclei.",
+        "No condensation nuclei.",
+        "Water takes a long time to cool to below zero degrees.",
+        "Water is hygroscopic."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-137",
+      "sourceNumber": 137,
+      "question": "What would be the change in weather following the passage of a typical warm front:",
+      "answers": [
+        "Pressure falls, 8 oktas of cloud with a lowering base and poor visibility.",
+        "Pressure increases steadily, no more than 4 oktas of cloud, and good visibility.",
+        "Pressure stops falling, 4 oktas of cloud with a very low base and rapidly improving visibility.",
+        "Pressure falls, 8 oktas of cloud with a lowering base and improving visibility."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-138",
+      "sourceNumber": 138,
+      "question": "A temperature group of 28/24 in a METAR means that:",
+      "answers": [
+        "The temperature is 28°C and the dew point is 24°C.",
+        "The temperature is 28°C at the time of the reporting, but is expected to become 24°C by the end of the TREND report.",
+        "The dry bulb temperautre is 28°C and the wet bulb temperature is 24°C.",
+        "The dew point is 28°C and the temperature is 24°C."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-139",
+      "sourceNumber": 139,
+      "question": "Which of the following frontal systems is more likely to produce thunderstorm activity?",
+      "answers": [
+        "A cold front.",
+        "A warm front.",
+        "A ridge of high pressure.",
+        "A quasi-stationary front."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-140",
+      "sourceNumber": 140,
+      "question": "Referring to the diagram, what is the feature identified by the letter J at position 60°N 12°W? (See Fig. PPL Meteo-10).",
+      "answers": [
+        "An occluded front.",
+        "A warm front.",
+        "A quasi stationary front.",
+        "A tropical front."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-141",
+      "sourceNumber": 141,
+      "question": "The code: \"BECMG FM 1100 -RASH\" in a METAR means:",
+      "answers": [
+        "Becoming, from 1100 UTC, slight rain showers.",
+        "From 1100 UTC, cessation of the rain showers.",
+        "Becoming, from 1100 UTC, rain showers.",
+        "Becoming, from 1100 UTC to 0000 UTC, slight rain showers."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-142",
+      "sourceNumber": 142,
+      "question": "BECMG 1621/1701 BKN030 in a TAF means:",
+      "answers": [
+        "Becoming between 2100 UTC on the 16 of the month and 0100 UTC on the 17 of the month 5-7 oktas of cloud at 3000 ft agl.",
+        "Becoming between 1621 UTC and 1701 UTC 3-4 oktas of cloud at 300 ? agl.",
+        "Becoming from 1621 UTC 5-7 oktas of cloud at 3000 ft agl.",
+        "Becoming from 1621 UTC 3-4 oktas of cloud at 300 ft agl."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-143",
+      "sourceNumber": 143,
+      "question": "Referring to the diagram, determine the 2000ft wind velocity and temperature at position 50°N 0° E/W. (See Fig. PPL Meteo-1).",
+      "answers": [
+        "215/13kt+11°C.",
+        "200/12kt+11°C.",
+        "220/13kt+12°C.",
+        "180/20kt+10°C."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-144",
+      "sourceNumber": 144,
+      "question": "Referring to the diagram, what is the forecast wind velocity at 5000ft at position 50°N 0°EM: (See Fig. PPL Meteo-2).",
+      "answers": [
+        "250/15kt.",
+        "180/20kt.",
+        "070/15kt.",
+        "230/1Okt."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-145",
+      "sourceNumber": 145,
+      "question": "Which of the following correctly decodes a TAF that reads: LYBE 161100Z 1612/1712 VRB08KT9999 SCT025?",
+      "answers": [
+        "Valid from 1200 Hr on the 16 of the month to 1200 Hr on the 17 of the month; surface wind will be variable in direction at 8kt with a visibility of 10km or more; 3to4 oktas of cloud with a base of 2500ft above the aerodrome.",
+        "Valid from 1612 to 1712 UTC; surface wind variable at 8kt; visibility 10nm or more; with a cloud base of 2500ft above mean sea level.",
+        "Observed at 1611UTC; the surface wind was variable in direction and speed; averaging 8kt: with a visibility of 10km or more, and a cloud base of 2500ft above aerodrome level.",
+        "Observed at 1612 UTC; the surface wind was variable in direction and speed; with a visibility of 10km, and a cloud base of 2500ft above ground level."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-146",
+      "sourceNumber": 146,
+      "question": "Referring to the diagram, which zone would the following TAF best fit? (See Fig. PPL Meteo-5) 1322 35020KT9999 SCT030 SCT090 TEMPO 1322 8000 SHRA BKN015 PROB30TEMPO 1522 5000 +RASH SCT008 BKN009CB=.",
+      "answers": [
+        "Zone 3.",
+        "Zone 1.",
+        "Zones 1 and 2.",
+        "Zones 2 and 4."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-147",
+      "sourceNumber": 147,
+      "question": "VOLMETS are updated?",
+      "answers": [
+        "Every half an hour.",
+        "Every hour.",
+        "4 times a day.",
+        "2 times a day."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-148",
+      "sourceNumber": 148,
+      "question": "Referring to the low-level significant weather chart in the diagram, we see a pressure system at 50 degrees North, 1 degree East, indicated by an \"L\", accompanied by an arrow and the figures \"20\" and \"\"988\". What does this denote? (See Fig. PPL Meteo-14).",
+      "answers": [
+        "A low pressure centre of 988mb, moving East at 20kts.",
+        "A low pressure centre of 988mb moving West at 20 knots.",
+        "A QFE in that region of 988mb.",
+        "A regional QNH of 988mb."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 18,
+      "requiresFigure": true
+    },
+    {
+      "id": "METEOROLOGY-149",
+      "sourceNumber": 149,
+      "question": "Providing the minimum sector altitude is not a determining factor, CAVOK in a TAF or METAR:",
+      "answers": [
+        "Means visibility 10km or more, and no cloud below 5000ft.",
+        "Means visibility 10km or more, and few cloud below 5000ft.",
+        "Means visibility 10nm or more, and no cloud below 5000ft.",
+        "Means visibility 10nm or more, and no scattered cloud below 5000ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 18,
+      "requiresFigure": false
+    },
+    {
+      "id": "METEOROLOGY-150",
+      "sourceNumber": 150,
+      "question": "What does this symbol represent on a forecast chart? (See Fig. PPL Meteo-4).",
+      "answers": [
+        "Thunderstorms.",
+        "Severe turbulence.",
+        "Severe icing.",
+        "Severe mountain waves."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 18,
+      "requiresFigure": false
+    }
+  ]
+}

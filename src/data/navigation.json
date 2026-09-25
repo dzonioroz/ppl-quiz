@@ -1,0 +1,2036 @@
+{
+  "subject": "Navigation",
+  "source": "Navigation.pdf",
+  "questions": [
+    {
+      "id": "NAVIGATION-001",
+      "sourceNumber": 1,
+      "question": "Where on the chart can the distance between the two points be determined, which has been callipered by a pair of compasses or marked on the edge of a piece of paper?",
+      "answers": [
+        "On each Meridian or on the scale ribbon on the edge of the chart.",
+        "On each Meridian.",
+        "Only on the Meridian at the midpoint between points.",
+        "Only on the scale ribbon on the edge of the chart."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-002",
+      "sourceNumber": 2,
+      "question": "On a chart we read the obstacle altitude 275 meters. Regarding the rule of height clearance 1,000 feet over obstacles, what is the lowest altitude for overflying the obstacle?",
+      "answers": [
+        "1,900 ft.",
+        "2,230 ft.",
+        "2,130 ft.",
+        "1,230 ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-003",
+      "sourceNumber": 3,
+      "question": "The distance between the points ALFA and BRAVO is 107 NM. If an aircraft covers first 16 NM in 10 minutes, what time does it take to travel the entire route ALFA-BRAVO with the same groundspeed?",
+      "answers": [
+        "1 hour and 6 minutes.",
+        "1 hour and 3 minutes.",
+        "1 hour and 1 minute.",
+        "59 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-004",
+      "sourceNumber": 4,
+      "question": "The attached map distance between points A and B is 9 cm. how many kilometers is it? (see Figure PPL Nav-2).",
+      "answers": [
+        "18.",
+        "9.",
+        "4.5.",
+        "1.8."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-005",
+      "sourceNumber": 5,
+      "question": "The scale of the chart is 1:300 000. How many centimetres represents the distance 210km?",
+      "answers": [
+        "70 cm.",
+        "63 cm.",
+        "6.3 cm.",
+        "7 cm."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-006",
+      "sourceNumber": 6,
+      "question": "The scale of the chart is? (see Figure PPL Nav-3).",
+      "answers": [
+        "1:250 000.",
+        "1:300 000.",
+        "1:200 000.",
+        "1:500 000."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-007",
+      "sourceNumber": 7,
+      "question": "How far will an aircraft travel in 2-1/2 minutes with a groundspeed of 98 knots?",
+      "answers": [
+        "4.08 NM.",
+        "2.45 NM.",
+        "3.35 NM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-008",
+      "sourceNumber": 8,
+      "question": "On a chart, 6 cm represents the distance 15 km. What is the scale of the chart?",
+      "answers": [
+        "1:250 000.",
+        "1:300 000.",
+        "1:400 000.",
+        "1:500 000."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-009",
+      "sourceNumber": 9,
+      "question": "A distance in meters could be converted to feet using the formula:",
+      "answers": [
+        "(m x 3) + 10%.",
+        "m x 0.3.",
+        "(m : 10) x 3.",
+        "(m x 3) : 10."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-010",
+      "sourceNumber": 10,
+      "question": "How many kilometres are in 50 SM (statute miles)?",
+      "answers": [
+        "Approximately 80 km.",
+        "Approximately 92 km.",
+        "Exactly 100 km.",
+        "Little less than 75 km."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-011",
+      "sourceNumber": 11,
+      "question": "The distance of 1 statute mile is equal to.",
+      "answers": [
+        "1,609 m.",
+        "1,852 m.",
+        "1,432 m.",
+        "1,111 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-012",
+      "sourceNumber": 12,
+      "question": "Approximately how many kilometres are in 70 nautical miles?",
+      "answers": [
+        "130 km.",
+        "135 km.",
+        "140 km.",
+        "145 km."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-013",
+      "sourceNumber": 13,
+      "question": "The formula for a quick calculation from kilometres to nautical miles is:",
+      "answers": [
+        "(km : 2) + 10%.",
+        "(km x 2) - 22%.",
+        "(km : 2) - 10%.",
+        "(km x 2) - 10%."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-014",
+      "sourceNumber": 14,
+      "question": "The distance of 1 NM equals to.",
+      "answers": [
+        "1,852 m.",
+        "1,111 m.",
+        "1,432 m.",
+        "1,609 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-015",
+      "sourceNumber": 15,
+      "question": "The distance of 1 NM is equivalent to.",
+      "answers": [
+        "The distance of one arc minute on a Meridian.",
+        "Exactly the 40-thousandth part of the Earth's perimeter.",
+        "The distance between a Meridian and the pole.",
+        "The perimeter of a Polar Circle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-016",
+      "sourceNumber": 16,
+      "question": "The scale of the chart is 1:500 000. How many centimetres represents the distance 105km?",
+      "answers": [
+        "21.0 cm.",
+        "10.5 cm.",
+        "42.0 cm.",
+        "84.0 cm."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-017",
+      "sourceNumber": 17,
+      "question": "If a pilot changes the altimeter setting from 1010 hPa to 1000 hPa, what is the approximate change in indication?",
+      "answers": [
+        "Altimeter will indicate 300 ft lower.",
+        "Altimeter will indicate 300 ft higher.",
+        "No change in indication.",
+        "Variously, dependent on QNH."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-018",
+      "sourceNumber": 18,
+      "question": "What is the angle of inclination of the Earth's axis to its orbital plane?",
+      "answers": [
+        "66 1/2°.",
+        "23 1/2°.",
+        "90°.",
+        "33 1/2°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-019",
+      "sourceNumber": 19,
+      "question": "An aircraft would cover a 120 km-distance in no wind condition in 2 hours and 40 minutes, however in actual meteo conditions the flight lasted 3 hours and 5 minutes. What was the longitudinal wind component on route?",
+      "answers": [
+        "6 km/h headwind.",
+        "16 kts tailwind.",
+        "16 km/h headwind.",
+        "6 kts tailwind."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-020",
+      "sourceNumber": 20,
+      "question": "What is the ground speed (GS) of an aircraft, covering in 40 minutes the distance, that represents 10.8 cm on an 1:500 000 chart?",
+      "answers": [
+        "81 km/h.",
+        "81 kts.",
+        "100 mph.",
+        "100 km/h."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-021",
+      "sourceNumber": 21,
+      "question": "If a vertical speed indicator of a towing airplane shows 500 ft/min, the approximately aerotow's rate-of-climb in meters-per-second is.",
+      "answers": [
+        "2,5 m/sec.",
+        "1,5 m/sec.",
+        "3,5 m/sec.",
+        "5 m/sec."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-022",
+      "sourceNumber": 22,
+      "question": "A velocity 120 km/h, expressed in knots, is.",
+      "answers": [
+        "65 kts.",
+        "50 kts.",
+        "58 kts.",
+        "60 kts."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-023",
+      "sourceNumber": 23,
+      "question": "Wind velocity 5 kts is approximately.",
+      "answers": [
+        "10 km/hour.",
+        "5 statute miles/hour.",
+        "20 m/sec.",
+        "All of the above is correct."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-024",
+      "sourceNumber": 24,
+      "question": "How far will an aircraft travel with 27 gal of usable fuel with fuel consumption 6,8 gal/h at the groundspeed 93 kts? (Allow 6-gallons final reserve fuel).",
+      "answers": [
+        "287 NM.",
+        "292 NM.",
+        "301 NM.",
+        "308 NM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-025",
+      "sourceNumber": 25,
+      "question": "What does a measuring unit knot used in aviation mean?",
+      "answers": [
+        "NM/h.",
+        "SM/h.",
+        "Km/h.",
+        "m/h."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-026",
+      "sourceNumber": 26,
+      "question": "How many gallons of usable fuel should be on board of an aircraft for a distance flight of 300 NM at the groundspeed 120 kts and average fuel consumption 7,3 gal/h? (Allow 1-hour fuel reserve).",
+      "answers": [
+        "25.6 gal.",
+        "15.0 gal.",
+        "18.3 gal.",
+        "21.4 gal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-027",
+      "sourceNumber": 27,
+      "question": "When set to 1008 hPa, an aircraft's altimeter indicates 1,600 ft. What would be the indication if setting is changed to 1009 hPa?",
+      "answers": [
+        "1,630 ft.",
+        "1,610 ft.",
+        "1,570 ft.",
+        "1,590 ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-028",
+      "sourceNumber": 28,
+      "question": "If a pilot changes the altimeter setting from 996 hPa to 1033 hPa, the altitude indication will.",
+      "answers": [
+        "Increase.",
+        "Not change.",
+        "Decrease at low temperatures and increase at high temperatures.",
+        "Decrease for 1,000 ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-029",
+      "sourceNumber": 29,
+      "question": "Approximately what QNH pressure corresponds to the QFE pressure 1000 hPa on an airfield with the elevation 200 meters?",
+      "answers": [
+        "1025 hPa.",
+        "985 hPa.",
+        "990 hPa.",
+        "1035 hPa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-030",
+      "sourceNumber": 30,
+      "question": "Altitude 6,000 ft is approximately.",
+      "answers": [
+        "1,800 m.",
+        "1,200 m.",
+        "3,000 m.",
+        "12,000 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-031",
+      "sourceNumber": 31,
+      "question": "How far will an aircraft travel with 32 gal of usable fuel with fuel consumption 7,1 gal/h at the groundspeed 108 kts? (Allow 1-hour final reserve fuel).",
+      "answers": [
+        "379 NM.",
+        "384 NM.",
+        "420 NM.",
+        "487 NM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-032",
+      "sourceNumber": 32,
+      "question": "The shortest distance between two points on the Earth's globe is called:",
+      "answers": [
+        "Great circle.",
+        "Lambodrome.",
+        "Rhumb line.",
+        "Small circle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-033",
+      "sourceNumber": 33,
+      "question": "What is the cause of the seasons?",
+      "answers": [
+        "The tilt of the Earth's axis.",
+        "Irregular movement of the Earth around the Sun.",
+        "Uneven temperatures in space.",
+        "A shape of the Earth's orbit."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-034",
+      "sourceNumber": 34,
+      "question": "Which of the following circles on the Earth's globe does not have the center at the Earth's center?",
+      "answers": [
+        "Small Circle.",
+        "Orthodrom.",
+        "Great Circle.",
+        "Equator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-035",
+      "sourceNumber": 35,
+      "question": "The Earth's globe rotates :",
+      "answers": [
+        "Around its axis in the direction from the west to the east.",
+        "Around so called Sun's tropic.",
+        "Together with the Sun in the direction from the east to the west.",
+        "Around its axis in the direction from the east to the west."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-036",
+      "sourceNumber": 36,
+      "question": "What is the characteristic of the Rhumb Line?",
+      "answers": [
+        "It cuts meridians under constant angle.",
+        "It is the Great Circle.",
+        "It is the shortest distance between two points on the Earth's globe.",
+        "It cuts meridians under various angles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-037",
+      "sourceNumber": 37,
+      "question": "The Earth's diameter, when compared to the Earth' axis, is.",
+      "answers": [
+        "Longer by 43 km.",
+        "Twice as much greater.",
+        "The same.",
+        "Shorter by 42 km."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-038",
+      "sourceNumber": 38,
+      "question": "The circumference of the Earth along the Equator is approximately.",
+      "answers": [
+        "40,075 km.",
+        "21,600 NM.",
+        "30,000 NM.",
+        "24,000 km."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-039",
+      "sourceNumber": 39,
+      "question": "Which points on the Earth's surface determine the Earth's axis?",
+      "answers": [
+        "North and south geographic pole.",
+        "North geographic pole and north magnetic pole.",
+        "North and south magnetic pole.",
+        "Equator-hemisphere."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-040",
+      "sourceNumber": 40,
+      "question": "An Isogonal is a line joining points of:",
+      "answers": [
+        "Equal magnetic variation.",
+        "Equal magnetic deviation.",
+        "Zero magnetic variation.",
+        "Zero magnetic deviation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-041",
+      "sourceNumber": 41,
+      "question": "Variation is the angle between:",
+      "answers": [
+        "True north and Magnetic north.",
+        "True north and the nearest line of Longitude.",
+        "Magnetic north and the aircraft's Magnetic heading.",
+        "Magnetic north and the aircraft's True heading."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-042",
+      "sourceNumber": 42,
+      "question": "A Rhumb Line is?",
+      "answers": [
+        "A regularly curved line on the Earth's surface which cuts all meridians at the same angle.",
+        "A regularly curved line on the Earth's surface which cuts all parallels of Latitude at the same angle.",
+        "A line showing True north.",
+        "A line on the surface of the Earth whose centre and radius are those of the Earth."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-043",
+      "sourceNumber": 43,
+      "question": "The meridian passing through Greenwich is known as?",
+      "answers": [
+        "Prime Meridian.",
+        "Main Meridian.",
+        "Equator.",
+        "Great Meridian."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-044",
+      "sourceNumber": 44,
+      "question": "The orbit of the Earth is:",
+      "answers": [
+        "An ellipse with the Sun at one of the foci.",
+        "A circle with the Sun at the center.",
+        "An ellipse with the Sun at different point inside it.",
+        "A circle around which the Sun rotates."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-045",
+      "sourceNumber": 45,
+      "question": "What is the latitude of a point on the Equator?",
+      "answers": [
+        "0°.",
+        "90°N.",
+        "180°S.",
+        "90°S."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-046",
+      "sourceNumber": 46,
+      "question": "100 kg is how many pounds?",
+      "answers": [
+        "220 lbs.",
+        "180 lbs.",
+        "200 lbs.",
+        "250 lbs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-047",
+      "sourceNumber": 47,
+      "question": "The geographic coordinates of the point C are(see Figure PPL Nav-1).",
+      "answers": [
+        "N 45° 00, 9' and E 19° 45,0'.",
+        "N 45° 00, 9' and S 19° 45,0'.",
+        "N 45° 00, 9' and W 19° 45,0'.",
+        "N 45° 00, 9' and N 19° 45,0'."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-048",
+      "sourceNumber": 48,
+      "question": "The geographic coordinates of the point B are(see Figure PPL Nav-1).",
+      "answers": [
+        "N 45° 05, 9' and E 19° 46, 1'.",
+        "N 45° 05, 9' and S 19° 46, 1'.",
+        "N 45° 05, 9' and W 19° 46, 1'.",
+        "N 45° 05, 5' and N 19° 46, 1'."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-049",
+      "sourceNumber": 49,
+      "question": "The geographic coordinates of the point A are(see Figure PPL Nav-1).",
+      "answers": [
+        "N 44° 59, 6' and E 19° 33,5'.",
+        "N 44° 59, 6' and W 19° 33,5'.",
+        "E 44° 59, 6' and N 19° 33,5'.",
+        "W 44° 59, 6' and N 19° 33,5'."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-050",
+      "sourceNumber": 50,
+      "question": "An altitude 1,500 meters is approximately.",
+      "answers": [
+        "4,900 ft.",
+        "3,600 ft.",
+        "4,000 ft.",
+        "4,500 ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-051",
+      "sourceNumber": 51,
+      "question": "Which point has the geographical coordinates N 44° 33, 2' and E 20° 59, 0'? (see Figure PPL Nav-4).",
+      "answers": [
+        "MIHAL.",
+        "DUBRA.",
+        "YEZAV."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-052",
+      "sourceNumber": 52,
+      "question": "The wind velocity of 10 m/sec approximately equals to.",
+      "answers": [
+        "20 kts.",
+        "40 kts.",
+        "5 kts.",
+        "2,5 kts."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-053",
+      "sourceNumber": 53,
+      "question": "Which of the following statements, regarding rotation of the Earth around the Sun, is correct? The Earth :",
+      "answers": [
+        "Encircles the Sun in one year.",
+        "Encircles the Sun one time during summer and one time during winter.",
+        "Does not circle around the Sun because it is stationary with the Sun circling around it.",
+        "Encircles the Sun in one day."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-054",
+      "sourceNumber": 54,
+      "question": "11 km north of the geographic coordinates N 44 ° 41.3 'E and 21 ° 04.1' is the place? (see Figure PPL Nav-4).",
+      "answers": [
+        "Gaj.",
+        "Skorenovac.",
+        "Radinac.",
+        "Kovin."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-055",
+      "sourceNumber": 55,
+      "question": "How many Great Circles (orthodroms) can be determined on the Earth's surface?",
+      "answers": [
+        "An infinite number.",
+        "90.",
+        "180.",
+        "360."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-056",
+      "sourceNumber": 56,
+      "question": "The equator is the Great Circle which plane:",
+      "answers": [
+        "Divides the Earth's globe into the north and south hemisphere.",
+        "Divides the Earth's globe into the east and west hemisphere.",
+        "Is parallel to the Earth's axis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-057",
+      "sourceNumber": 57,
+      "question": "Great Circle(s) on the Earth's surface is(are):",
+      "answers": [
+        "The equator, meridians and orthodroms.",
+        "The equator only.",
+        "The equator and meridians.",
+        "The equator, meridians and parallels of latitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-058",
+      "sourceNumber": 58,
+      "question": "The distance between the parallel of latitude 10°N and the parallel of latitude 11°N, measured along the meridian, is.",
+      "answers": [
+        "111 km.",
+        "60 SM.",
+        "60 km.",
+        "111 NM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-059",
+      "sourceNumber": 59,
+      "question": "Determine the latitude of the point B, located 240 NM north of the point A with the latitude 62° 33' 00\" N.",
+      "answers": [
+        "66° 33' 00\" N.",
+        "58° 33' 00\" N.",
+        "86° 33' 00\" N.",
+        "64° 33' 00\" N."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-060",
+      "sourceNumber": 60,
+      "question": "The Great Circle on the Earth's globe is the cross-section of the Earth's surface and the plane passing through.",
+      "answers": [
+        "The center of the Earth and is tilt to the Earth's axis at any angle.",
+        "The center of the Earth and is always rectangular to the Earth's axis.",
+        "The center of the Earth and is always oblique to the Earth's axis.",
+        "Any two points on the Earth's surface; the cross-section with the Earth's surface is the shortest distance between these points."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-061",
+      "sourceNumber": 61,
+      "question": "Longitude change between point A (04° 14' 28\" E) an B (02° 30' 30\" E) on the Earth's globe is.",
+      "answers": [
+        "01° 43' 58\".",
+        "06° 44' 58\".",
+        "02° 44' 58\".",
+        "02° 16' 02\"."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-062",
+      "sourceNumber": 62,
+      "question": "The geographic coordinates point DUBRA are (see Figure PPL Nav-4).",
+      "answers": [
+        "N 44° 41,3' and E 21° 04,1'.",
+        "N 44° 41,3' and W 21° 04,1'.",
+        "S 44° 41,3' and E 21° 04,1'.",
+        "S 44° 41,3' and W 21° 04,1'."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-063",
+      "sourceNumber": 63,
+      "question": "The geographic latitude is the distance of a point on the Earth's surface from the.",
+      "answers": [
+        "Equator, measured in arc degrees.",
+        "Equator, measured in statute miles.",
+        "Prime Meridian, measured in arc degrees.",
+        "Prime Meridian, measured in geographic miles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-064",
+      "sourceNumber": 64,
+      "question": "An aircraft over Belgrade is headed exactly to the south. It is 1200 UTC. What is theRelative bearing of the Sun?",
+      "answers": [
+        "Right of the aircraft's nose.",
+        "Exactly straight-in.",
+        "Left of the aircraft's nose.",
+        "May be left or right of the aircraft's nose, with regard to the season."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-065",
+      "sourceNumber": 65,
+      "question": "13:00 accordingly to the MidEuropean Summer Time is.",
+      "answers": [
+        "1100 UTC.",
+        "1200 UTC.",
+        "1400 UTC.",
+        "0100 UTC."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-066",
+      "sourceNumber": 66,
+      "question": "The Co-ordinated Universal Time (UTC) is.",
+      "answers": [
+        "The time on the longitude 0 degrees.",
+        "The Local Time.",
+        "The Zone Time.",
+        "The MidEuropean Time."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-067",
+      "sourceNumber": 67,
+      "question": "What time is needed for the Sun's azimuth to change by 27 arc degrees?",
+      "answers": [
+        "108 minutes.",
+        "30 minutes.",
+        "90 minutes.",
+        "135 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-068",
+      "sourceNumber": 68,
+      "question": "The Sun travels across the sky an arc of 5° in.",
+      "answers": [
+        "20 minutes.",
+        "60 minutes.",
+        "30 minutes.",
+        "4 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-069",
+      "sourceNumber": 69,
+      "question": "Which circles, forming the graticule, are at the same time Great Circles and Rhumb Lines?",
+      "answers": [
+        "Meridians and equator.",
+        "Parallel of latitude only.",
+        "Meridians only.",
+        "Equator only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-070",
+      "sourceNumber": 70,
+      "question": "What is the difference between the latitude of the point A and the point B, which are located on following parallels of latitude: A: 15° 54' 30\" N. B: 10° 33' 30\" S.",
+      "answers": [
+        "26° 28' 00\".",
+        "05° 21' 00\".",
+        "25° 27' 00\".",
+        "05° 28' 00\"."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-071",
+      "sourceNumber": 71,
+      "question": "On a magnetic heading of 320° and with an ADF indication as figure H, the magnetic bearing TO the station is (see Figure PPL Nav-11).",
+      "answers": [
+        "005°.",
+        "185°.",
+        "225°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-072",
+      "sourceNumber": 72,
+      "question": "An aircraft has a DME reading 120 miles from a VOR station and a CDI indication is one-fifth of a full deflection to one side. Approximately how many miles off the course centerline is the aircraft?",
+      "answers": [
+        "6,7 NM.",
+        "1,5 NM.",
+        "3,0 NM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-073",
+      "sourceNumber": 73,
+      "question": "VOR radials are.",
+      "answers": [
+        "Magnetic directions.",
+        "Compass directions.",
+        "True directions.",
+        "Relative bearings."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-074",
+      "sourceNumber": 74,
+      "question": "Choose the correct sequence of procedures in the cockpit for flying inbound to the VOR station. a) Rotate the OBS selector knob to center the CDI needle with TO indication. b) Check the identification signal. c) Check for proper frequency selected. d) Turn the aircraft into the heading, equal to the radial selected on the OBS.",
+      "answers": [
+        "c, b, a, d.",
+        "b, c, a, d.",
+        "d, a, b, c.",
+        "a, b, c, d."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-075",
+      "sourceNumber": 75,
+      "question": "If the magnetic bearing of an aircraft TO the station is 135°, what is the magnetic heading if the ADF indicator corresponds to the figure L? (see Figure PPL Nav-11).",
+      "answers": [
+        "360°.",
+        "135°.",
+        "270°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-076",
+      "sourceNumber": 76,
+      "question": "If the magnetic bearing of an aircraft TO the station is 030°, what is the magnetic heading if the ADF indicator corresponds to the figure K? (see Figure PPL Nav-11).",
+      "answers": [
+        "120°.",
+        "060°.",
+        "270°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-077",
+      "sourceNumber": 77,
+      "question": "If the magnetic bearing of an aircraft TO the station is 240°, what is the magnetic heading if the ADF indicator corresponds to the figure J? (see Figure PPL Nav-11).",
+      "answers": [
+        "195°.",
+        "045°.",
+        "105°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-078",
+      "sourceNumber": 78,
+      "question": "The distance of the route from the point X to the point Y via the control point Z is 84 km. If an aircraft covers the first segment X-Z (35 km) in 50 minutes, what will be the total time of flight between the points X and Y?",
+      "answers": [
+        "2 hours.",
+        "45 minutes.",
+        "50 minutes.",
+        "1 hour and 10 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-079",
+      "sourceNumber": 79,
+      "question": "On a magnetic heading of 035° and with an ADF indication as figure I, the magnetic bearing TO the station is (see Figure PPL Nav-11).",
+      "answers": [
+        "035°.",
+        "180°.",
+        "215°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-080",
+      "sourceNumber": 80,
+      "question": "To track outbound on the 180 radial of a VOR station, the recommended procedure is to set the OBS to.",
+      "answers": [
+        "180° and make heading corrections toward the CDI needle.",
+        "360° and make heading corrections toward the CDI needle.",
+        "180° and make heading corrections away from the CDI needle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-081",
+      "sourceNumber": 81,
+      "question": "What is the magnetic bearing FROM the station of an aircraft with an ADF indication, depicted in figure A? (see Figure PPL Nav-10).",
+      "answers": [
+        "030°.",
+        "150°.",
+        "180°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-082",
+      "sourceNumber": 82,
+      "question": "Which of the figures corresponds to an ADF indicator of an aircraft, flying TO the station with a right crosswind? (see Figure PPL Nav- 10).",
+      "answers": [
+        "D.",
+        "A.",
+        "B."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-083",
+      "sourceNumber": 83,
+      "question": "If an ADF indicator in the cockpit corresponds to the figure C, the magnetic bearing FROM the station is (see Figure PPL Nav-10).",
+      "answers": [
+        "115°.",
+        "025°.",
+        "295°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-084",
+      "sourceNumber": 84,
+      "question": "If receiving ADF indication B, what approximate magnetic heading should the aircraft be turned to intercept the 180° bearing TO the station? (see Figure PPL Nav-10).",
+      "answers": [
+        "220°.",
+        "040°.",
+        "160°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-085",
+      "sourceNumber": 85,
+      "question": "If receiving ADF indication B, what magnetic heading should the aircraft be turned to fly directly to the NDB station? (see Figure PPL Nav-10).",
+      "answers": [
+        "190°.",
+        "010°.",
+        "145°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-086",
+      "sourceNumber": 86,
+      "question": "A Wind Correction Angle is the angle difference between.",
+      "answers": [
+        "True heading and desired true course.",
+        "Desired true and desired magnetic course.",
+        "True and magnetic heading.",
+        "Magnetic and compass heading in no wind condition."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-087",
+      "sourceNumber": 87,
+      "question": "On a magnetic heading of 120° and with an ADF indication as figure J, the magnetic bearing TO the station is (see Figure PPL Nav-11).",
+      "answers": [
+        "165°.",
+        "045°.",
+        "270°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-088",
+      "sourceNumber": 88,
+      "question": "Which presentation of a VOR indicator corresponds to airplanes 8? (see Figure PPL Nav-12).",
+      "answers": [
+        "W.",
+        "T.",
+        "V."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-089",
+      "sourceNumber": 89,
+      "question": "A CDI deviation needle on the GPS electronic screen in the cockpit shows a deviation from the desired track in.",
+      "answers": [
+        "Distance units.",
+        "Arc degrees.",
+        "Arc degrees or distance units, depends on pilot's discretion."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-090",
+      "sourceNumber": 90,
+      "question": "Waypoints data in a GPS database (with the exception of users waypoints) could be updated by.",
+      "answers": [
+        "A respective software house only.",
+        "A pilot, however when in-flight only.",
+        "A pilot on ground only, when the device is stationary."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-091",
+      "sourceNumber": 91,
+      "question": "Directions of airways on the Jeppesen radio navigational chart in Appendix are (see Figure PPL Nav-3).",
+      "answers": [
+        "Magnetic directions.",
+        "True directions.",
+        "Loksodromic directions.",
+        "Compass directions."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-092",
+      "sourceNumber": 92,
+      "question": "The slant-range error of a DME is greatest at.",
+      "answers": [
+        "Low altitudes directly over the facility.",
+        "High altitudes directly over the facility.",
+        "High altitudes and high range from the facility."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-093",
+      "sourceNumber": 93,
+      "question": "What is the DME reading if an aircraft is directly over a VOR/DME station at the altitude of 6,000 ft AGL?",
+      "answers": [
+        "1.",
+        "0.",
+        "1,3."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-094",
+      "sourceNumber": 94,
+      "question": "Which distance is displayed by a DME indicator?",
+      "answers": [
+        "Slant-range distance in nautical miles.",
+        "Slant-range distance in statute miles.",
+        "The distance from the aircraft to a point at the same altitude directly above the DME ground facility."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-095",
+      "sourceNumber": 95,
+      "question": "When using a VOR for navigation, station passage is indicated.",
+      "answers": [
+        "By the first complete reversal of the TO-FROM indicator.",
+        "When the OFF flag appears.",
+        "When the TO-FROM flag begins to flicker.",
+        "When the first full-scale deflection of the CDI."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-096",
+      "sourceNumber": 96,
+      "question": "Which presentation of a VOR indicator corresponds to airplanes 5 and 7? (see Figure PPL Nav-12).",
+      "answers": [
+        "W and Z.",
+        "T and X.",
+        "V and X."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-097",
+      "sourceNumber": 97,
+      "question": "Which situation would result in reverse sensing of a VOR receiver?",
+      "answers": [
+        "Flying a heading that is reciprocal to the bearing selected on the OBS.",
+        "Setting the OBS to a bearing that is 90° from the bearing on which the aircraft is located.",
+        "Failing to change the OBS from the selected inbound course to the outbound course after passing the station."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-098",
+      "sourceNumber": 98,
+      "question": "Which airplane(s) correspond(s) to the VOR indicator U? (see Figure PPL Nav-12).",
+      "answers": [
+        "Airplane 6 only.",
+        "Airplanes 1 and 2.",
+        "Airplane 2 only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-099",
+      "sourceNumber": 99,
+      "question": "Which airplane(s) correspond(s) to the VOR indicator X? (see Figure PPL Nav-12).",
+      "answers": [
+        "Airplanes 1 and 3.",
+        "Airplanes 3 and 7.",
+        "Airplane 7 only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-100",
+      "sourceNumber": 100,
+      "question": "Which airplane(s) correspond(s) to the VOR indicator V? (see Figure PPL Nav-12).",
+      "answers": [
+        "Airplane 2 only.",
+        "Airplane 6 only.",
+        "Airplanes 5 and 8."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-101",
+      "sourceNumber": 101,
+      "question": "An aircraft 60 miles from a VOR station has a CDI indication one-fifth deflection, this represents a course centerline deviation of approximately.",
+      "answers": [
+        "2 miles.",
+        "6 miles.",
+        "1 mile."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-102",
+      "sourceNumber": 102,
+      "question": "With a VOR/ILS receiver set to a VOR frequency, how many degrees does full deflection of a CDI to one side represent?",
+      "answers": [
+        "10°.",
+        "5°.",
+        "20°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-103",
+      "sourceNumber": 103,
+      "question": "To track inbound on the 215 radial of a VOR station, the recommended procedure is to set the OBS to.",
+      "answers": [
+        "035° and make heading corrections toward the CDI needle.",
+        "215° and make heading corrections toward the CDI needle.",
+        "215° and make heading corrections away from the CDI needle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-104",
+      "sourceNumber": 104,
+      "question": "As shown by ADF E, the relative bearing TO the station is (see Figure PPL Nav-11).",
+      "answers": [
+        "315°.",
+        "045°.",
+        "180°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-105",
+      "sourceNumber": 105,
+      "question": "Which of the following statements, regarding a DME operation, is correct?",
+      "answers": [
+        "The frequency of a DME receiver in the aircraft is being adjusted automatically when we set a VOR or ILS frequency.",
+        "When flying directly above the DME facility, the pilot reads on the DME indicator in the cockpit a zero distance.",
+        "If we move the DME switch in the cockpit to HOLD, all readings are reset to zero."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-106",
+      "sourceNumber": 106,
+      "question": "Which mark on the wind triangle represents a magnetic variation? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 9.",
+        "Mark 3.",
+        "Mark 5.",
+        "Mark 10."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-107",
+      "sourceNumber": 107,
+      "question": "As shown by ADF G, the relative bearing TO the station is (see Figure PPL Nav-11).",
+      "answers": [
+        "180°.",
+        "090°.",
+        "270°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-108",
+      "sourceNumber": 108,
+      "question": "Which azimuth corresponds to the general direction WNW?",
+      "answers": [
+        "292.5°.",
+        "247.5°.",
+        "337.5°.",
+        "202.5°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-109",
+      "sourceNumber": 109,
+      "question": "As shown by ADF A, the magnetic bearing TO the station is (see Figure PPL Nav-10).",
+      "answers": [
+        "210°.",
+        "030°.",
+        "180°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-110",
+      "sourceNumber": 110,
+      "question": "What is the meaning of the term \"drift angle\" in navigation?",
+      "answers": [
+        "The difference between a direction of the true air speed of an aircraft and a desired track.",
+        "The angle between an aircraft's longitudinal axis and an actual path.",
+        "The difference between a magnetic course and a wind direction.",
+        "The difference between an angle under wind blows to the vector of an actual true air speed and a direction of an aircraft's longitudinal axis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-111",
+      "sourceNumber": 111,
+      "question": "Which mark on the wind triangle represents a wind vector? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 7.",
+        "Mark 5.",
+        "Mark 6.",
+        "Mark 8."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-112",
+      "sourceNumber": 112,
+      "question": "What is the magnetic variation of the area? (see Figure PPL Nav-3).",
+      "answers": [
+        "3° E.",
+        "21° E.",
+        "50° W.",
+        "15° E."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-113",
+      "sourceNumber": 113,
+      "question": "When calculating magnetic direction from a given true direction, westerly variation should be.",
+      "answers": [
+        "Added.",
+        "Subtracted.",
+        "Multiplicated.",
+        "Divided."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-114",
+      "sourceNumber": 114,
+      "question": "Which mark on the wind triangle represents an aircraft's ground speed (GS)? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 6.",
+        "Mark 5.",
+        "Mark 7.",
+        "Mark 8."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-115",
+      "sourceNumber": 115,
+      "question": "The angle between a direction toward geographic north and a direction toward magnetic north is called.",
+      "answers": [
+        "Variation.",
+        "Compass deviation.",
+        "Inclination.",
+        "Convergency of meridians."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-116",
+      "sourceNumber": 116,
+      "question": "Which mark on the wind triangle represents a compass deviation? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 10.",
+        "Mark 5.",
+        "Mark 8.",
+        "Mark 9."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-117",
+      "sourceNumber": 117,
+      "question": "The magnetic variation value of a given point on the Earth's surface can be obtained by.",
+      "answers": [
+        "Referring to the isogonic lines on aeronautical charts.",
+        "Referring to the table of magnetic variation in the cockpit.",
+        "Calculating the angular difference between the meridian of a given point and the Greenwich meridian.",
+        "Calculating the difference between magnetic and compass heading."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-118",
+      "sourceNumber": 118,
+      "question": "Which mark on the wind triangle represents a wind correction angle? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 5.",
+        "Mark 2.",
+        "Mark 3.",
+        "Mark 4."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-119",
+      "sourceNumber": 119,
+      "question": "Which mark on the wind triangle sketch denotes a compass heading? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 1.",
+        "Mark 2.",
+        "Mark 3.",
+        "Mark 4."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-120",
+      "sourceNumber": 120,
+      "question": "Which mark on the wind triangle represents a magnetic heading? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 2.",
+        "Mark 1.",
+        "Mark 3.",
+        "Mark 4."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-121",
+      "sourceNumber": 121,
+      "question": "Which mark on the wind triangle represents a true course? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 4.",
+        "Mark 3.",
+        "Mark 2.",
+        "Mark 1."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-122",
+      "sourceNumber": 122,
+      "question": "25 US gallons is how many liters?",
+      "answers": [
+        "95 l.",
+        "98 l.",
+        "100 l.",
+        "105 l."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-123",
+      "sourceNumber": 123,
+      "question": "90 pounds is how many kilograms?",
+      "answers": [
+        "41 kg.",
+        "37 kg.",
+        "45 kg.",
+        "52 kg."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-124",
+      "sourceNumber": 124,
+      "question": "Which mark on the wind triangle represents an aircraft's true airspeed (TAS)? (see Figure PPL Nav-13).",
+      "answers": [
+        "Mark 8.",
+        "Mark 5.",
+        "Mark 6.",
+        "Mark 7."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-125",
+      "sourceNumber": 125,
+      "question": "Which element of the wind triangle has a null value if a magnetic heading equals compass heading?",
+      "answers": [
+        "Compass deviation.",
+        "Inclination.",
+        "Drift.",
+        "Magnetic variation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-126",
+      "sourceNumber": 126,
+      "question": "As shown by ADF B, the relative bearing TO the station is (see Figure PPL Nav-10).",
+      "answers": [
+        "235°.",
+        "190°.",
+        "315°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-127",
+      "sourceNumber": 127,
+      "question": "As shown by ADF A, the relative bearing TO the station is (see Figure PPL Nav-10).",
+      "answers": [
+        "240°.",
+        "030°.",
+        "210°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-128",
+      "sourceNumber": 128,
+      "question": "An NDB normally transmits on which frequency band?",
+      "answers": [
+        "190 to 535 KHz.",
+        "400 to 1020 Hz.",
+        "962 to 1213 MHz."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-129",
+      "sourceNumber": 129,
+      "question": "To use an VHF/DF facilities for assistance in location an aircraft's position, the aircraft must have a.",
+      "answers": [
+        "VHF transmitter and receiver.",
+        "4096-code transponder.",
+        "VOR receiver and DME."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-130",
+      "sourceNumber": 130,
+      "question": "Which parameter is included in the reckoning of a magnetic course?",
+      "answers": [
+        "Magnetic variation.",
+        "Compass deviation.",
+        "Magnetic inclination.",
+        "Wind correction angle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-131",
+      "sourceNumber": 131,
+      "question": "The true heading for a flight between two points of a route is 270° and the wind correction angle is -10°. What will be the true heading for a return flight between the same points?",
+      "answers": [
+        "100°.",
+        "090°.",
+        "180°.",
+        "110°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-132",
+      "sourceNumber": 132,
+      "question": "As shown by ADF F, the relative bearing TO the station is (see Figure PPL Nav-11).",
+      "answers": [
+        "090°.",
+        "180°.",
+        "270°."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": true
+    },
+    {
+      "id": "NAVIGATION-133",
+      "sourceNumber": 133,
+      "question": "Is it possible for a desired true track, true heading and actual true track to have the same value?",
+      "answers": [
+        "Yes.",
+        "No, in no case.",
+        "Yes, because these values are always equal.",
+        "This is possible only when flying in north or south direction."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-134",
+      "sourceNumber": 134,
+      "question": "Magnetic heading is.",
+      "answers": [
+        "True heading plus/minus variation.",
+        "True course plus/minus variation.",
+        "True course plus/minus deviation.",
+        "Magnetic course plus/minus deviation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-135",
+      "sourceNumber": 135,
+      "question": "Magnetic course is calculated using the equation.",
+      "answers": [
+        "True course plus/minus magnetic variation.",
+        "True heading plus/minus magnetic variation.",
+        "True course plus/minus compass deviation.",
+        "Magnetic heading plus/minus compass deviation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-136",
+      "sourceNumber": 136,
+      "question": "Lines on geographical charts joining points of equal magnetic variation, are called.",
+      "answers": [
+        "Izogonic lines.",
+        "Agonic lines.",
+        "Izoclinic lines.",
+        "Izobars."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-137",
+      "sourceNumber": 137,
+      "question": "Lines on geographical charts joining points of a zero magnetic variation, are called.",
+      "answers": [
+        "Agonic lines.",
+        "Izogonic lines.",
+        "Izoclinic lines.",
+        "Aclinic lines."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "NAVIGATION-138",
+      "sourceNumber": 138,
+      "question": "Which statement is true about homing when using ADF?",
+      "answers": [
+        "Homing allows flying along curved path only, which leads to the NDB station.",
+        "Homing is a practical navigational method, usable for flying to and away from the NDB station.",
+        "Homing requires an ADF with the automatic or at least manually adjusting compass rose."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "subject": "Air Law",
+    "source": "Air law.pdf",
+    "detected": 79,
+    "included": 79,
+    "figureReferences": 0,
+    "excluded": [],
+    "answerCounts": {
+      "3": 78,
+      "4": 1
+    }
+  },
+  {
+    "subject": "Aircraft General Knowledge",
+    "source": "Aircraft  general knowledge.pdf",
+    "detected": 150,
+    "included": 150,
+    "figureReferences": 1,
+    "excluded": [],
+    "answerCounts": {
+      "4": 136,
+      "3": 14
+    }
+  },
+  {
+    "subject": "Communication",
+    "source": "Comunication.pdf",
+    "detected": 137,
+    "included": 137,
+    "figureReferences": 0,
+    "excluded": [],
+    "answerCounts": {
+      "4": 123,
+      "3": 14
+    }
+  },
+  {
+    "subject": "Flight Performance and Planning",
+    "source": "Flight performance and planning.pdf",
+    "detected": 148,
+    "included": 148,
+    "figureReferences": 0,
+    "excluded": [],
+    "answerCounts": {
+      "3": 23,
+      "4": 125
+    }
+  },
+  {
+    "subject": "Human Performance",
+    "source": "Human performance.pdf",
+    "detected": 150,
+    "included": 150,
+    "figureReferences": 0,
+    "excluded": [],
+    "answerCounts": {
+      "4": 108,
+      "3": 42
+    }
+  },
+  {
+    "subject": "Meteorology",
+    "source": "Metheorology.pdf",
+    "detected": 150,
+    "included": 150,
+    "figureReferences": 1,
+    "excluded": [],
+    "answerCounts": {
+      "4": 139,
+      "3": 11
+    }
+  },
+  {
+    "subject": "Navigation",
+    "source": "Navigation.pdf",
+    "detected": 138,
+    "included": 138,
+    "figureReferences": 41,
+    "excluded": [],
+    "answerCounts": {
+      "4": 98,
+      "3": 40
+    }
+  },
+  {
+    "subject": "Operational Procedures",
+    "source": "Operational procedures.pdf",
+    "detected": 150,
+    "included": 150,
+    "figureReferences": 18,
+    "excluded": [],
+    "answerCounts": {
+      "4": 85,
+      "3": 65
+    }
+  },
+  {
+    "subject": "Principles of Flight",
+    "source": "Principles of flight.pdf",
+    "detected": 150,
+    "included": 150,
+    "figureReferences": 0,
+    "excluded": [],
+    "answerCounts": {
+      "4": 150
+    }
+  }
+]

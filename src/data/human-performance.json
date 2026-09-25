@@ -1,0 +1,2214 @@
+{
+  "subject": "Human Performance",
+  "source": "Human performance.pdf",
+  "questions": [
+    {
+      "id": "HUMAN-PERFORMANCE-001",
+      "sourceNumber": 1,
+      "question": "On what does the causes of noise induced hearing loss depend?",
+      "answers": [
+        "Both the intensity and duration of the noise above 90 dbs.",
+        "Both the intensity and duration of the noise above 100 dbs.",
+        "The duration of the noise above 100 dbs.",
+        "The duration of the noise above 110 dbs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-002",
+      "sourceNumber": 2,
+      "question": "You are suffering from a cold with slightly blocked nose and sinuses and you have an aircraft booked to fly. Should you:",
+      "answers": [
+        "Not fly?",
+        "Take a decongestant 1/2 an hour before flight?",
+        "Fly as normal?",
+        "Fly, but be sure to select only low rates of climb and descent?"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-003",
+      "sourceNumber": 3,
+      "question": "The Vestibular Apparatus detects_____________.acceleration:",
+      "answers": [
+        "Angular and linear.",
+        "Linear.",
+        "Angular.",
+        "Positive \"g\"."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-004",
+      "sourceNumber": 4,
+      "question": "Which of the following should a pilot primarily rely on if he becomes disorientated in Instrument Meteorological Conditions?",
+      "answers": [
+        "The aircraft's instruments.",
+        "His sense of sight.",
+        "Turning the head to recover from disorientation.",
+        "His sense of balance."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-005",
+      "sourceNumber": 5,
+      "question": "Loudness is measured in:",
+      "answers": [
+        "Decibels.",
+        "Hertz.",
+        "Pascal's.",
+        "Cycles per second."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-006",
+      "sourceNumber": 6,
+      "question": "During straight and level flight any pronounced linear acceleration may produce sensation of the nose pitching up. In such a situation, the pilot should:",
+      "answers": [
+        "Ignore vestibular information and believe what the instruments are indicating.",
+        "Correct the pitching movement by moving the control column slightly forward.",
+        "Rely on information from the vestibular apparatus to maintain orientation.",
+        "Rely on his \"seat of the pants\" feeling to make any necessary correction."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-007",
+      "sourceNumber": 7,
+      "question": "One of the main contributory factors to the onset of motion sickness is:",
+      "answers": [
+        "The mismatch between visual and vestibular sensory inputs.",
+        "Rolling quickly into turns.",
+        "Performing high g maneuvers.",
+        "Stalling."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-008",
+      "sourceNumber": 8,
+      "question": "When making a decision, will a pilot be influenced by previous experience?",
+      "answers": [
+        "Yes, past experience can play a part in decision-making.",
+        "Yes, but only if the experience is good.",
+        "Yes, but only if the experience was bad.",
+        "No, each decision is unrelated."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-009",
+      "sourceNumber": 9,
+      "question": "The frequency band that a healthy young person can hear is :",
+      "answers": [
+        "20 - 20,000 cycles per second.",
+        "70 - 15.000 cycles per second.",
+        "80- 20.000 cycles per second.",
+        "500 - 15.000 cycles per second."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-010",
+      "sourceNumber": 10,
+      "question": "The best preventative actions to take if someone is showing symptoms of Stroboscopic Effect is to:",
+      "answers": [
+        "Place the person in the shade and get them to close their eyes.",
+        "Sit the person in a sunny area.",
+        "Give him a task to distract him.",
+        "Take no action, as the symptoms last for a short time only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-011",
+      "sourceNumber": 11,
+      "question": "Which of the following should a pilot primarily rely on if he becomes disorientated in Visual Meteorological Conditions?",
+      "answers": [
+        "His sense of sight.",
+        "Turning the head to recover from disorientation.",
+        "His sense of balance.",
+        "The aircraft's instruments."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-012",
+      "sourceNumber": 12,
+      "question": "What is the most important sense for spatial orientation?",
+      "answers": [
+        "Sight.",
+        "Hearing and balance.",
+        "\"Seat of the pants\".",
+        "All senses play their part in situation awareness."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-013",
+      "sourceNumber": 13,
+      "question": "When can a pilot experience the \"leans\"?",
+      "answers": [
+        "In all flight conditions.",
+        "In the climb.",
+        "In the descent.",
+        "In the climb or the descent."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-014",
+      "sourceNumber": 14,
+      "question": "What is noise induced hearing loss?",
+      "answers": [
+        "Loss of hearing due to damage to the cochlea.",
+        "Loss of hearing due to damage to the ossicles.",
+        "Loss of hearing due to damage to the vestibular apparatus.",
+        "Loss of hearing due to damage to the middle ear."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-015",
+      "sourceNumber": 15,
+      "question": "When flying solo, a pilot who suspects he is suffering from spatial disorientation should:",
+      "answers": [
+        "Believe the indications of his instruments.",
+        "Blink rapidly several times.",
+        "Swallow hard, pinch the nostrils and blow down the nose to clear the Eustachian tube.",
+        "Believe his somatosensory senses."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-016",
+      "sourceNumber": 16,
+      "question": "The power of accommodation in an eye:",
+      "answers": [
+        "Is decreased as the elasticity of the lens decreases.",
+        "Is increased as the elasticity of the lens decreases.",
+        "Is not affected by the degree of elasticity of the lens.",
+        "Has nothing to do with the lens."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-017",
+      "sourceNumber": 17,
+      "question": "Dark adaptation takes about ____________ for the Rods, and ______________for the Cones.",
+      "answers": [
+        "30 minutes / 7 minutes.",
+        "15 minutes / 20 minutes.",
+        "7 minutes / 30 minutes.",
+        "25 minutes / 45 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-018",
+      "sourceNumber": 18,
+      "question": "What is the purpose of the Eustachian tube?",
+      "answers": [
+        "To allow ambient pressure to equalise on both sides of the ear drum.",
+        "To pass sound waves across the middle ear to the auditory nerve.",
+        "To allow ambient pressure to equalise on the middle ear side of the ear drum.",
+        "To allow ambient pressure to equalise on both sides of the vestibular apparatus."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-019",
+      "sourceNumber": 19,
+      "question": "When compared to visual stimuli, auditory stimuli (noises) are:",
+      "answers": [
+        "More likely to attract attention and more likely to be responded to in error.",
+        "Less likely to attract attention and less likely to be responded to in error.",
+        "Less likely to attract attention and more likely to be responded to in error.",
+        "More likely to attract attention and less likely to be responded to in error."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-020",
+      "sourceNumber": 20,
+      "question": "In the International Standard Atmosphere (ISA), as altitude increases in the troposphere, air density:",
+      "answers": [
+        "Decreases.",
+        "Also increases.",
+        "Stays the same.",
+        "Will not be affected as air density is independent of altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-021",
+      "sourceNumber": 21,
+      "question": "As captain of an aircraft you will need to show good leadership skills. Which of the following is not one such skill?",
+      "answers": [
+        "Aggressive assertiveness.",
+        "Forward planning.",
+        "Maintaining good situational awareness.",
+        "The art of delegation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-022",
+      "sourceNumber": 22,
+      "question": "Which of the following will give the illusion that the aircraft is too low during an approach?",
+      "answers": [
+        "A down-sloping runway.",
+        "An up-sloping runway.",
+        "A brightly lit aerodrome in an otherwise dark area.",
+        "A narrower than normal runway."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-023",
+      "sourceNumber": 23,
+      "question": "From the options below, choose the correct sequence of the various stages of the reasoning process.",
+      "answers": [
+        "Detection, Perception, Decisions taken, Action, Feedback.",
+        "Perception, Action, Feedback, Detection, Decisions taken.",
+        "Detection, Feedback, Decisions taken, Action, Perception.",
+        "Detection, Perception, Decisions taken, Feedback, Action."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-024",
+      "sourceNumber": 24,
+      "question": "If a pilot is used to flying in relatively polluted hazy air and then flies in a very clear sky:",
+      "answers": [
+        "Distant objects may appear closer than they are.",
+        "Distant objects may appear further away than they are.",
+        "Near objects may be mistaken for those further away.",
+        "Near objects may appear further away than they are."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-025",
+      "sourceNumber": 25,
+      "question": "It is generally accepted that the short-term memory can hold how many items long ?",
+      "answers": [
+        "7 items for 10-20 seconds.",
+        "4 items for 15 seconds.",
+        "15 items for 1-5 minutes.",
+        "7 items for 5-10 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-026",
+      "sourceNumber": 26,
+      "question": "Repeating information several times transfer it to long-term memory is called:",
+      "answers": [
+        "Rehearsing.",
+        "Memory induction.",
+        "Prompting.",
+        "Chunking."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-027",
+      "sourceNumber": 27,
+      "question": "Complete the following sentence. If your Eustachian tube is blocked and you cannot clear your ears, you should:",
+      "answers": [
+        "Ground yourself until the condition causing the blocking of the Eustachian tube has cleared up.",
+        "Clear your nose with a nasal inhaler before flying.",
+        "Fly only as a passenger.",
+        "Proceed with your flight but ensure that you swallow hard frequently."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-028",
+      "sourceNumber": 28,
+      "question": "If a pilot is approaching a runway much larger than that at his home airfield, what is his visual perception of the runway likely to be?",
+      "answers": [
+        "The runway will appear closer than it actually is.",
+        "The runway will appear further away than it actually is.",
+        "Distances will be easy to judge.",
+        "A different approach path should be adopted."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-029",
+      "sourceNumber": 29,
+      "question": "While flying, the changes in outside air pressure can cause air trapped in the body cavities to expand and contract. This is known as Otic Barotrauma and it most likely to effect:",
+      "answers": [
+        "All of the above.",
+        "The middle ear.",
+        "The sinuses.",
+        "The teeth."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-030",
+      "sourceNumber": 30,
+      "question": "Which of the following may cause fainting?",
+      "answers": [
+        "A sudden shock.",
+        "A too rapid eye scan.",
+        "Over meticulous flight planning.",
+        "All of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-031",
+      "sourceNumber": 31,
+      "question": "A pilot should not fly for at least how long after a general anesthetic?",
+      "answers": [
+        "48 hours.",
+        "2 hours.",
+        "12 hours.",
+        "24 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-032",
+      "sourceNumber": 32,
+      "question": "If an aircraft accelerates, what do the otoliths indicate to the brain?",
+      "answers": [
+        "That the aircraft is pitching up.",
+        "That the aircraft is pitching down.",
+        "That the aircraft is turning.",
+        "That the aircraft is climbing and turning."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-033",
+      "sourceNumber": 33,
+      "question": "A pilot should not fly for at least how long after a local anesthetic?",
+      "answers": [
+        "12 hours.",
+        "2 hours.",
+        "24 hours.",
+        "48 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-034",
+      "sourceNumber": 34,
+      "question": "The ability of a pilot to withstand even moderate forces can be affected by:",
+      "answers": [
+        "Fatigue in the pilot.",
+        "The maximum load limits of the aircraft.",
+        "Presbycusis.",
+        "All of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-035",
+      "sourceNumber": 35,
+      "question": "If taking a course of drugs, is it advisable to pilot an aircraft?",
+      "answers": [
+        "No, unless cleared by an Aviation Medicine Specialist.",
+        "Yes, provided that they are antibiotics, as these do not have side-effects.",
+        "Yes, provided that the drug is non-prescription.",
+        "No, you should never fly while taking any drugs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-036",
+      "sourceNumber": 36,
+      "question": "To lessen the danger of collision with an aircraft which might be in a pilot's blind spot and closing on a constant relative bearing, the pilot should:",
+      "answers": [
+        "Carry out a systematic look out at all times.",
+        "Change heading by a few degrees every 10 minutes or so.",
+        "Roll the aircraft from right to left by a few degrees every 10 minutes or so.",
+        "Carry out periodic clearing turns."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-037",
+      "sourceNumber": 37,
+      "question": "A false perception characterised by a distortion of real sensory stimuli is known as:",
+      "answers": [
+        "Hallucination.",
+        "Day-dreaming.",
+        "Mirage.",
+        "Boredom response."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-038",
+      "sourceNumber": 38,
+      "question": "Which gas, which is absorbed by the body during normal breathing, plays an important role in decompression sickness?",
+      "answers": [
+        "Nitrogen.",
+        "Oxygen.",
+        "Carbon Dioxide.",
+        "Carbon Monoxide."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-039",
+      "sourceNumber": 39,
+      "question": "Accommodation is the power of the lens to focus rays of light from near objects onto the Fovea. Accommodation is controlled by:",
+      "answers": [
+        "The Ciliary muscles.",
+        "The Iris.",
+        "The Rods and Cones.",
+        "The Retina."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-040",
+      "sourceNumber": 40,
+      "question": "Which of the following gases regulate the rate and depth of breathing, depending on the levels at which the gas is present in the blood?",
+      "answers": [
+        "Carbon Dioxide.",
+        "Oxygen.",
+        "Nitrogen.",
+        "Carbon Monoxide."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-041",
+      "sourceNumber": 41,
+      "question": "Brain cells that have been deprived of oxygen will start to die in:",
+      "answers": [
+        "2 minutes.",
+        "2 seconds.",
+        "1/2 hour.",
+        "2 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-042",
+      "sourceNumber": 42,
+      "question": "The maximum recommended levels of alcohol consumption per week are_____for men and_____for women.",
+      "answers": [
+        "21 units / 14 units.",
+        "14 units / 21 units.",
+        "3 units / 7 units.",
+        "7 units / 3 units."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-043",
+      "sourceNumber": 43,
+      "question": "Which part of the nervous system usually controls breathing?",
+      "answers": [
+        "The Autonomic Nervous System.",
+        "The Central Nervous System.",
+        "The Peripheral Nervous System.",
+        "AII of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-044",
+      "sourceNumber": 44,
+      "question": "The blood carries________around the body and removes_______ from the body with the exchange occurring in the____________.",
+      "answers": [
+        "Oxygen / Carbon Dioxide / Capillaries.",
+        "Carbon / Dioxide / Oxygen Veins.",
+        "Oxygen / Carbon Dioxide / Arteries.",
+        "Carbon Dioxide / Oxygen / Capillaries."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-045",
+      "sourceNumber": 45,
+      "question": "Which body system is responsible for distributing oxygen around the body?",
+      "answers": [
+        "The Circulatory System.",
+        "The Nervous System.",
+        "The Respiratory System.",
+        "The Oxidation System."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-046",
+      "sourceNumber": 46,
+      "question": "Approximately how long does it take a person to dissipate one unit of alcohol from the blood?",
+      "answers": [
+        "1 hour.",
+        "1/2 hour.",
+        "2 hours.",
+        "12 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-047",
+      "sourceNumber": 47,
+      "question": "After donating blood, what is the minimum time a pilot should wait before flying?",
+      "answers": [
+        "24 hours.",
+        "2 hours.",
+        "12 hours.",
+        "48 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-048",
+      "sourceNumber": 48,
+      "question": "Hemoglobin in red blood cells is more readily attracted to_________than__________.",
+      "answers": [
+        "Carbon Monoxide / Oxygen.",
+        "Nitrogen / Oxygen.",
+        "Oxygen / Nitrogen.",
+        "Carbon Dioxide / Nitrogen."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-049",
+      "sourceNumber": 49,
+      "question": "In the International Standard Atmosphere (ISA), as altitude increases in the Stratosphere, temperature:",
+      "answers": [
+        "Remains almost constant at -56 degrees Celsius.",
+        "Also increases.",
+        "Decreases.",
+        "Fluctuates between positive and negative temperatures."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-050",
+      "sourceNumber": 50,
+      "question": "At altitude, the volumetric proportion of oxygen in the atmosphere is:",
+      "answers": [
+        "The same as at mean sea level (MSL).",
+        "Higher than at MSL.",
+        "Lower than at MSL.",
+        "Dependent on the actual altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-051",
+      "sourceNumber": 51,
+      "question": "In the international standard atmosphere (ISA), as altitude increases in the troposphere, pressure:",
+      "answers": [
+        "Decreases.",
+        "Also increases.",
+        "Stays the same.",
+        "Will not be affected as pressure is independent of altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-052",
+      "sourceNumber": 52,
+      "question": "If the atmospheric pressure decreases, the partial pressure of the oxygen in the atmosphere will:",
+      "answers": [
+        "Decrease.",
+        "Increase.",
+        "Stay the same.",
+        "Not be affected as it is independent of atmospheric pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-053",
+      "sourceNumber": 53,
+      "question": "In the International Standard Atmosphere (ISA), as altitude increases in the Troposphere, temperature:",
+      "answers": [
+        "Decreases.",
+        "Also increases.",
+        "Stays the same.",
+        "Will not be affected as it is independent of altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-054",
+      "sourceNumber": 54,
+      "question": "Air in the atmosphere is made up of:",
+      "answers": [
+        "Nitrogen (78 %), Oxygen (21%), Carbon Dioxide (0.03%) and Argon (1%).",
+        "Nitrogen (78%), Oxygen (21%), Carbon Dioxide (0.03%) and Hydrogen (1%).",
+        "Nitrogen (1%), Oxygen (78%), Carbon Dioxide (21%) and Argon (0.03%).",
+        "Nitrogen (21%), Oxygen (0.03%), Carbon Dioxide (78%) and Argon (1%)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-055",
+      "sourceNumber": 55,
+      "question": "The International Standard Atmosphere (ISA) sea-level pressure is equal to:",
+      "answers": [
+        "1013.25 mb.",
+        "1014.00 mb.",
+        "1014.25 Hpa.",
+        "50 inches of mercury."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-056",
+      "sourceNumber": 56,
+      "question": "Blood pressure may be too high due to:",
+      "answers": [
+        "All of the above.",
+        "Age.",
+        "Stress.",
+        "Smoking."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-057",
+      "sourceNumber": 57,
+      "question": "A likely symptom, or likely symptoms, of Hypoxia might be:",
+      "answers": [
+        "All of the above.",
+        "Unconsciousness.",
+        "Impaired judgment.",
+        "Tingling fingers and toes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-058",
+      "sourceNumber": 58,
+      "question": "Mental Overload usually:",
+      "answers": [
+        "Leads to degraded performance.",
+        "Leads to better performance.",
+        "Has no effect on performance.",
+        "Causes changes in the speed and accuracy of performance which vary from individual to individual."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-059",
+      "sourceNumber": 59,
+      "question": "At night it is easier to focus on an object if you:",
+      "answers": [
+        "Look slightly to one side of it.",
+        "Look directly at it.",
+        "Look about 50 degrees either side of it.",
+        "Look directly at it while holding your eyes open as wide as you can."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-060",
+      "sourceNumber": 60,
+      "question": "Empty Field Myopia is a condition where the eyes naturally focus at a distance of approximately:",
+      "answers": [
+        "1 - 2 meters.",
+        "Infinity.",
+        "20 - 500 meters.",
+        "At the horizon."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-061",
+      "sourceNumber": 61,
+      "question": "What is the component of the eye responsible for peripheral vision and sensitive to low light levels?",
+      "answers": [
+        "The Rods.",
+        "The Cones.",
+        "The Fovea.",
+        "The Retina."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-062",
+      "sourceNumber": 62,
+      "question": "Which of the following organs of the body supplies the single most dependable source of sensory information?",
+      "answers": [
+        "The Eye.",
+        "The Ear.",
+        "The Nose.",
+        "The Neo-cortex."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-063",
+      "sourceNumber": 63,
+      "question": "Hypermetropia is caused by a____________eyeball and treated by a_________ whereas Myopia is caused by a_____________eyeball and treated with.",
+      "answers": [
+        "Shortened / convex / lengthened / concave.",
+        "Lengthened / convex / shortened / concave.",
+        "Shortened / concave / lengthened / convex.",
+        "Lengthened / concave / shortened / convex."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-064",
+      "sourceNumber": 64,
+      "question": "Hypermetropia and Myopia are normally caused by:",
+      "answers": [
+        "A misshapened eye ball.",
+        "Eye strain.",
+        "Stress.",
+        "Badly fitting spectacles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-065",
+      "sourceNumber": 65,
+      "question": "When a person is experiencing stress or fear, adrenaline is released into the blood stream causing immediate:",
+      "answers": [
+        "Increase in the pulse-rate.",
+        "Fatigue.",
+        "Loss of consciousness.",
+        "Decrease in the pulse-rate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-066",
+      "sourceNumber": 66,
+      "question": "For the pilot of an aircraft on a head-on collision course with a fast-moving jet, the image of the approaching jet will appear to grow in size in the following manner:",
+      "answers": [
+        "Only slowly at first until just before impact when the image would grow in size very rapidly.",
+        "At a constant rate.",
+        "Very rapidly at first but then continue to grow at a constant rate.",
+        "Rapidly initially, and then remain at a constant size until impact."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-067",
+      "sourceNumber": 67,
+      "question": "Where is the blind spot?",
+      "answers": [
+        "Where the optic nerve enters the Retina.",
+        "On the Iris.",
+        "On the Fovea.",
+        "On the edge of the Lens."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-068",
+      "sourceNumber": 68,
+      "question": "You are taking a friend flying and are cruising at 6,000 ft. Your passenger begins suffering from a tingling sensation, dizziness and visual disorders and then becomes unconscious. Your passenger is probably suffering from:",
+      "answers": [
+        "Hyperventilation.",
+        "Hypoxia.",
+        "Food poisoning.",
+        "Angina."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-069",
+      "sourceNumber": 69,
+      "question": "The effects of Hypoxia can be increased by:",
+      "answers": [
+        "All of the above.",
+        "Increased altitude.",
+        "Increased temperature.",
+        "Alcohol."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-070",
+      "sourceNumber": 70,
+      "question": "Compared to a non-smoker, someone who smokes is likely to experience the effects of hypoxia at:",
+      "answers": [
+        "A lower altitude.",
+        "A higher altitude.",
+        "The same altitude.",
+        "Any altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-071",
+      "sourceNumber": 71,
+      "question": "Above what altitude do pilots need to breath supplementary oxygen?",
+      "answers": [
+        "10,000 ft.",
+        "2,000 ft.",
+        "8,000 ft.",
+        "20,000 ft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-072",
+      "sourceNumber": 72,
+      "question": "A likely symptom, or likely symptoms, of Hypoxia might be:",
+      "answers": [
+        "Increased heart rate.",
+        "Cyanosis.",
+        "Formication.",
+        "All of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-073",
+      "sourceNumber": 73,
+      "question": "The condition whereby the body does not enough oxygen to function correctly is known as:",
+      "answers": [
+        "Hypoxia.",
+        "Hypotension.",
+        "Hyperventilation.",
+        "Hyperglycemia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-074",
+      "sourceNumber": 74,
+      "question": "Which organ controls all other bodily functions?",
+      "answers": [
+        "The brain.",
+        "The heart.",
+        "The lungs.",
+        "The spinal cord."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-075",
+      "sourceNumber": 75,
+      "question": "Color-blindness or, more accurately, color-defective vision, is caused by:",
+      "answers": [
+        "A defect in the structure of the color-sensitive cones in the retina.",
+        "A defect in the lens tissue of the eye.",
+        "Defective functioning of the ciliary muscles.",
+        "A foreshortened eyeball."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-076",
+      "sourceNumber": 76,
+      "question": "A rapid acceleration can create the illusion of being in a.",
+      "answers": [
+        "Nose up attitude.",
+        "Left turn.",
+        "Nose down attitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-077",
+      "sourceNumber": 77,
+      "question": "Hazardous attitudes occur to every pilot to some degree at some time. What are some of these hazardous attitudes?",
+      "answers": [
+        "Antiauthority, impulsivity, macho, resignation, and invulnerability.",
+        "Poor risk management and lack of stress management.",
+        "Poor situational awareness, snap judgments, and lack of a decision making process."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-078",
+      "sourceNumber": 78,
+      "question": "Risk management, as a part of aeronautical decision making (AM process, relies on which features to reduce the risk associated with each flight?",
+      "answers": [
+        "Situational awareness, problem recognition, and good judgment.",
+        "Application of stress management and risk element procedures.",
+        "The mental process of analyzing all information in a particular situation and making a timely.",
+        "Decision on what action to take."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-079",
+      "sourceNumber": 79,
+      "question": "The positive three-step process in the exchange of flight controls between pilots includes these verbal steps: (a) You have the flight controls, (b) I have the flight controls, and (c) _________.",
+      "answers": [
+        "You have the flight controls.",
+        "I have the aircraft.",
+        "I have the flight controls."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-080",
+      "sourceNumber": 80,
+      "question": "To avoid missing important steps, always use the.",
+      "answers": [
+        "Appropriate checklists.",
+        "Placarded airspeeds.",
+        "Airworthiness certificate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-081",
+      "sourceNumber": 81,
+      "question": "Consistent adherence to approved checklists is a sign of.",
+      "answers": [
+        "Disciplined and competent pilot.",
+        "Pilot who lacks the required knowledge.",
+        "Low-tome pilot."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-082",
+      "sourceNumber": 82,
+      "question": "What is one of the neglected items when a pilot relies on short and long term memory for repetitive tasks?",
+      "answers": [
+        "Checklists.",
+        "Situation awareness.",
+        "Flying outside the envelope."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-083",
+      "sourceNumber": 83,
+      "question": "You have planned to take a couple of friends on an air experience flight. On the day, the weather conditions are marginal and there is a strong cross-wind on the runway. As a competent assessor of risk, which of the following decisions should you take?",
+      "answers": [
+        "Reschedule the flight for another time, discounting the immediate disappointment to your friends.",
+        "Get airborne as planned, as it is always wise to stick to your flight plan if you possibly can.",
+        "Proceed with the flight and treat it as an opportunity to practise flying in adverse conditions.",
+        "Ask your friends if they are prepared to fly in the prevailing conditions, before assessing the situation yourself."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-084",
+      "sourceNumber": 84,
+      "question": "Who is responsible for determining whether a pilot is fit to fly for a particular flight, even though he or she holds a current medical certificate?",
+      "answers": [
+        "The pilot.",
+        "The medical examiner.",
+        "The FA-1."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-085",
+      "sourceNumber": 85,
+      "question": "What is the antidote when a pilot has a hazardous attitude, such as \"Antiauthority\"?",
+      "answers": [
+        "Follow the rules.",
+        "Rules do not apply in this situation.",
+        "I know what I am doing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-086",
+      "sourceNumber": 86,
+      "question": "What effect does haze have on the ability to see traffic or terrain features during flight?",
+      "answers": [
+        "All traffic or terrain features appear to be farther away than their actual distance.",
+        "Haze causes the eyes to focus at infinity.",
+        "The eyes tend to overwork in haze and do not detect relative movement easily."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-087",
+      "sourceNumber": 87,
+      "question": "Which technique should a pilot use to scan for traffic to the right and left during.",
+      "answers": [
+        "Straight-and-level flight?",
+        "Systematically focus on different segments of the sky for short intervals.",
+        "Continuous sweeping of the windshield from right to left.",
+        "Concentrate on relative movement detected in the peripheral vision area."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-088",
+      "sourceNumber": 88,
+      "question": "What is the one common factor which affects most preventable accidents?",
+      "answers": [
+        "Human error.",
+        "Mechanical malfunction.",
+        "Structural failure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-089",
+      "sourceNumber": 89,
+      "question": "A person may not act as a crewmember of a civil aircraft if alcoholic beverages have been consumed by that person within the preceding.",
+      "answers": [
+        "8 hours.",
+        "12 hours.",
+        "24 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-090",
+      "sourceNumber": 90,
+      "question": "The amount of light entering the eye is controlled by the:",
+      "answers": [
+        "Iris.",
+        "Cornea.",
+        "Lens.",
+        "Pupil."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-091",
+      "sourceNumber": 91,
+      "question": "In order to see a sharp image of an oncoming aircraft which has been detected by the eye, a pilot should:",
+      "answers": [
+        "Look directly at the oncoming aircraft.",
+        "Look to one side of the oncoming aircraft.",
+        "Commence a systematic scan of the airspace in front of him.",
+        "Blink several times to make the image clearer."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-092",
+      "sourceNumber": 92,
+      "question": "In which part of the eye is visual acuity at its highest?",
+      "answers": [
+        "The Fovea.",
+        "The Retina.",
+        "The Pupil.",
+        "The Cornea."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-093",
+      "sourceNumber": 93,
+      "question": "What causes conductive deafness?",
+      "answers": [
+        "Damage to the ossicles or the eardrum.",
+        "Damage to the outer ear.",
+        "Damage to the pinna.",
+        "Damage to the middle ear."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-094",
+      "sourceNumber": 94,
+      "question": "Presbycusis is an impairment of hearing due to:",
+      "answers": [
+        "Age.",
+        "Damage to the cochlea.",
+        "Damage to the semi-circular canals.",
+        "Smoking."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-095",
+      "sourceNumber": 95,
+      "question": "The outer, middle and inner ear are filled with :",
+      "answers": [
+        "Air, air, and liquid, respectively.",
+        "Air, liquid, and liquid, respectively.",
+        "Liquid, air, and air, respectively.",
+        "Liquid, liquid, and air, respectively."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-096",
+      "sourceNumber": 96,
+      "question": "Which of the following are terms generally used to describe a type or types of memory within the subject of Human Performance and Limitations?",
+      "answers": [
+        "Long-term memory.",
+        "Sensitive memory.",
+        "Felicitous memory.",
+        "All of them."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-097",
+      "sourceNumber": 97,
+      "question": "In the aeronautical decision making (ADM) process, what is the first step in neutralizing a hazardous attitude?",
+      "answers": [
+        "Recognizing hazardous thoughts.",
+        "Making a rational judgment.",
+        "Recognizing the invulnerability of the situation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-098",
+      "sourceNumber": 98,
+      "question": "An illusion, that an aircraft is at a higher altitude than it actually is, is produced by.",
+      "answers": [
+        "Downsloping terrain.",
+        "Upsloping terrain.",
+        "Atmospheric haze."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-099",
+      "sourceNumber": 99,
+      "question": "What is the antidote when a pilot has a hazardous attitude, such as \"Impulsivity\"?",
+      "answers": [
+        "Not so fast, think first.",
+        "It could happen to me.",
+        "Do it quickly to get it over with."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-100",
+      "sourceNumber": 100,
+      "question": "Which statement best defines hypoxia?",
+      "answers": [
+        "A state of oxygen deficiency in the body.",
+        "An abnormal increase in the volume of air breathed.",
+        "A condition of gas bubble formation around the joints or muscles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-101",
+      "sourceNumber": 101,
+      "question": "Which statement is true regarding alcohol in the human system?",
+      "answers": [
+        "Alcohol renders a pilot more susceptible to hypoxia.",
+        "Small amounts of alcohol will not impair flying skills.",
+        "Coffee helps metabolize alcohol and alleviates a hangover."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-102",
+      "sourceNumber": 102,
+      "question": "\"Error\" is a generic term which describes all those occasions when a series of mental or physical activities do not achieve their intended effect. Now, complete the following statement. Errors:",
+      "answers": [
+        "May be isolated or cumulative.",
+        "Are isolated with no further consequence or influence.",
+        "Are cumulative, one error leads to a second, which leads to a third etc.",
+        "Are always part of the error chain."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-103",
+      "sourceNumber": 103,
+      "question": "Being badly overweight increases a pilot's susceptibility to which of the following conditions?",
+      "answers": [
+        "Heart attack.",
+        "Hypoxia at higher altitudes.",
+        "Hypothermia.",
+        "All of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-104",
+      "sourceNumber": 104,
+      "question": "At altitude the pressure of oxygen in the atmosphere is:",
+      "answers": [
+        "Lower than at MSL.",
+        "The same as at mean sea level (MSL).",
+        "Higher than at MSL.",
+        "Unaffected, as partial pressure is independent of altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-105",
+      "sourceNumber": 105,
+      "question": "What is the antidote when a pilot has the hazardous attitude of \"Invulnerability\"?",
+      "answers": [
+        "It could happen to me.",
+        "It can not be that bad.",
+        "It will not happen to me."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-106",
+      "sourceNumber": 106,
+      "question": "If a pilot experiences spatial disorientation during flight in a restricted visibility condition, the best way to overcome the effect is to.",
+      "answers": [
+        "Rely upon the aircraft instrument indications.",
+        "Concentrate on yaw, pitch, and roll sensations.",
+        "Consciously slow the breathing rate until symptoms clear and then resume normal.",
+        "Breathing rate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-107",
+      "sourceNumber": 107,
+      "question": "The danger of spatial disorientation during flight in poor visual conditions may be reduced by.",
+      "answers": [
+        "Having faith in the instruments rather than taking a chance on the sensory organs.",
+        "Shifting the eyes quickly between the exterior visual field and the instrument panel.",
+        "Leaning the body in the opposite direction of the motion of the aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-108",
+      "sourceNumber": 108,
+      "question": "Pilots are more subject to spatial disorientation if.",
+      "answers": [
+        "Body signals are used to interpret flight attitude.",
+        "They ignore the sensations of muscles and inner ear.",
+        "Eyes are moved often in the process of cross-checking the flight instruments."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-109",
+      "sourceNumber": 109,
+      "question": "Which procedure is recommended to prevent or overcome spatial disorientation?",
+      "answers": [
+        "Rely entirely on the indications of the flight instruments.",
+        "Avoid steep turns and rough control movements.",
+        "Reduce head and eye movements to the greatest extend possible."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-110",
+      "sourceNumber": 110,
+      "question": "A state of temporary confusion resulting from misleading information being sent to the brain by various sensory organs is defined as.",
+      "answers": [
+        "Spatial disorientation.",
+        "Hyperventilation.",
+        "Hypoxia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-111",
+      "sourceNumber": 111,
+      "question": "The most effective technique to use for detecting other aircraft at night is to avoid staring directly at the point where another aircraft is suspected to be flying.",
+      "answers": [
+        "Turn the head and sweep the eyes rapidly over the entire visible region.",
+        "Avoid scanning the region below the horizon so as to avoid the effect on ground light on.",
+        "The eyes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-112",
+      "sourceNumber": 112,
+      "question": "The three-needle type altimeter used in many light aircraft",
+      "answers": [
+        "Easy to mis-read. B. Hardly ever mis-read. C. Accurate and reliable. D. Not very accurate or reliable. a. A) and C).",
+        "Only A).",
+        "Only A).",
+        "B) and D)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-113",
+      "sourceNumber": 113,
+      "question": "An analogue display is generally better than a digital display for showing which sort of data?",
+      "answers": [
+        "Qualitative.",
+        "Quantitative.",
+        "Numerical.",
+        "Subjective."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-114",
+      "sourceNumber": 114,
+      "question": "Prior to starting each maneuver, pilots should.",
+      "answers": [
+        "Visually scan the entire area for collision avoidance.",
+        "Check altitude, airspeed, and heading indications.",
+        "Announce their intentions on the nearest ctaf."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-115",
+      "sourceNumber": 115,
+      "question": "In an unpressurised aircraft, at high altitudes the amount of oxygen that diffuses across.",
+      "answers": [
+        "The lung membranes into the blood is.",
+        "Decreased because of the low partial pressure of oxygen.",
+        "Decreased because of the lower temperatures.",
+        "Unchanged to that at sea level."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-116",
+      "sourceNumber": 116,
+      "question": "What suggestion could you make to your pilot fellow who is experiencing motion sickness?",
+      "answers": [
+        "Avoid unnecessary head movement and to keep her/his eyes on a point outside the aircraft.",
+        "Recommend taking medication to prevent motion sickness.",
+        "Lower her/his head, shut her/his eyes, and take deep breaths."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-117",
+      "sourceNumber": 117,
+      "question": "Motion sickness is caused by.",
+      "answers": [
+        "Continued stimulation of the tiny portion of the inner ear which controls sense of balance.",
+        "Instability in the brain cells which affect balance and will generally be overcome with experience.",
+        "The movement of an aircraft causing the stomach to create an acid substance which.",
+        "Causes the stomach lining to contract."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-118",
+      "sourceNumber": 118,
+      "question": "As a pilot, flying for long periods in hot summer temperatures increases the susceptibility.",
+      "answers": [
+        "Of dehydration since the.",
+        "Dry air at altitude tends to increase the rate of water loss from the body.",
+        "Moist air at altitude helps retain the body´s moisture.",
+        "Temperature decreases with altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-119",
+      "sourceNumber": 119,
+      "question": "Which will always affect your ability to fly?",
+      "answers": [
+        "Prescription analgesics and antihistamines.",
+        "Over-the-counter analgesics and antihistamines.",
+        "Antibiotics and anesthetics drugs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-120",
+      "sourceNumber": 120,
+      "question": "If advice is needed concerning possible flight with an illness, a pilot should contact.",
+      "answers": [
+        "An Aviation Medical Examiner.",
+        "Their family doctor.",
+        "The nearest hospital."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-121",
+      "sourceNumber": 121,
+      "question": "Although not required, supplemental oxygen is recommended for use when flying at.",
+      "answers": [
+        "night above.",
+        "1,500 m (5,000 ft).",
+        "3,050 m (10,000 ft).",
+        "3,800 m (12,500 ft)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-122",
+      "sourceNumber": 122,
+      "question": "Which of the following occur when a pilot is sitting too high in a cockpit?",
+      "answers": [
+        "Good downward outside view.",
+        "Poor view of instruments.",
+        "Upwards outside view obstructed. a. a), b) and c). b. only a). c. a) and b) only.",
+        "a) and c) only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-123",
+      "sourceNumber": 123,
+      "question": "Hypoxia is the result of.",
+      "answers": [
+        "Shortage of oxygen in the body.",
+        "Insufficient oxygen in the air.",
+        "Excessive nitrogen in the bloodstream."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-124",
+      "sourceNumber": 124,
+      "question": "What are Stress Factors or Stressors?",
+      "answers": [
+        "Events and circumstances which cause stress.",
+        "Pulse-rate inducers.",
+        "Circumstances or events which provoke any kind of reaction to the demands placed upon the human organism.",
+        "Measures of stress exhibited by a person."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-125",
+      "sourceNumber": 125,
+      "question": "Which of the following are ways to help avoid stress in the cockpit?",
+      "answers": [
+        "Not allowing yourself to be rushed into acting before you are ready.",
+        "Having a cool drink at hand, at all times.",
+        "Modifying your pre-flight plan whenever you feel you are off-track or behind time.",
+        "All of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-126",
+      "sourceNumber": 126,
+      "question": "Which of the following attitudes and/or characteristics have b good communication and especially dangerous when flying?",
+      "answers": [
+        "Arrogance and aggressiveness.",
+        "A highly developed sense of leadership.",
+        "Respect for other peoples' opinions.",
+        "All of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-127",
+      "sourceNumber": 127,
+      "question": "Two pilots, both seated at the controls and qualified on type, have just commenced a flight when they experience an engine failure. Who should take control of the aircraft.",
+      "answers": [
+        "The pilot who, during the pre-flight briefing on emergencies, the captain agreed should take over control in such a situation.",
+        "The pilot in the left-hand seat.",
+        "The captain.",
+        "The more experienced of the two."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-128",
+      "sourceNumber": 128,
+      "question": "Complete the following statement. The most appropriate time for a pilot to give passengers an initial briefing on emergency procedures is:",
+      "answers": [
+        "During a pre-flight safety briefing.",
+        "At the moment any emergency occurs; it is not necessary to worry them before that.",
+        "While waiting at the hold for take-off.",
+        "Just after take-off."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-129",
+      "sourceNumber": 129,
+      "question": "Good briefings are very important. Which of the following could be the result of a bad briefing?",
+      "answers": [
+        "Increased uncertainty.",
+        "Good transfer of knowledge.",
+        "Good understanding of information.",
+        "Decreased uncertainty."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-130",
+      "sourceNumber": 130,
+      "question": "Complete the following statement. If, as an inexperienced pilot, you are flying with someone of much greater experience, and you see him do something you consider to be dangerous, you should:",
+      "answers": [
+        "Immediately question his course of action.",
+        "Wait until the action or manoeuvre is completed, and then questions him.",
+        "Ignore the situation because he obviously knows what he is doing.",
+        "Do nothing for the moment, but check the wisdom and correctness of his action by discussing it with an instructor after you have landed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-131",
+      "sourceNumber": 131,
+      "question": "You are preparing for a training flight with an instructor and cannot find your checklist. You should:",
+      "answers": [
+        "Take time to find the checklist at the risk of missing part of your airborne time.",
+        "Perform the checks from memory.",
+        "Use a checklist for a different aircraft type.",
+        "Rely on the instructor to point out anything that you might have missed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-132",
+      "sourceNumber": 132,
+      "question": "Rapid or extra deep breathing while using oxygen can cause a condition known as.",
+      "answers": [
+        "Hyperventilation.",
+        "Aerosinusitis.",
+        "Aerotitis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-133",
+      "sourceNumber": 133,
+      "question": "The pulse is generated by the contraction of which heart chamber?",
+      "answers": [
+        "Left Ventricle.",
+        "Left Auricle.",
+        "Right Ventricle.",
+        "Right Auricle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-134",
+      "sourceNumber": 134,
+      "question": "What is the most effective way to use the eyes during night flight?",
+      "answers": [
+        "Scan slowly to permit off-center viewing.",
+        "Look only at far away, dim lights.",
+        "Concentrate directly on each object for a few seconds."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-135",
+      "sourceNumber": 135,
+      "question": "One aid in increasing night vision effectiveness would be to.",
+      "answers": [
+        "Force the eyes to view off center.",
+        "Look directly at objects.",
+        "Increase intensity of interior lighting."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-136",
+      "sourceNumber": 136,
+      "question": "What preparation should a pilot make to adapt the eyes for night flying?",
+      "answers": [
+        "Avoid bright white lights at least 30 minutes before the flight.",
+        "Wear sunglasses after sunset until ready for flight.",
+        "Avoid red lights at least 30 minutes before the flight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-137",
+      "sourceNumber": 137,
+      "question": "Dark adaptation is impaired by exposure to.",
+      "answers": [
+        "Cabin pressure altitudes above 5,000 feet.",
+        "Carbon dioxide.",
+        "Vitamin a in the diet."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-138",
+      "sourceNumber": 138,
+      "question": "If an individual has gone scuba diving which has required a controlled ascent and will be flying to cabin pressure altitudes of 8,000 feet or less, the recommended waiting time is at least.",
+      "answers": [
+        "24 hours.",
+        "4 hours.",
+        "12 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-139",
+      "sourceNumber": 139,
+      "question": "If an individual has gone scuba diving which has not required a controlled ascent and will be flying to cabin pressure altitudes of 8,000 feet or less, the recommended waiting time is at least.",
+      "answers": [
+        "4 hours.",
+        "12 hours.",
+        "24 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-140",
+      "sourceNumber": 140,
+      "question": "During a climb to 18,000 ft, the percentage of oxygen in the atmosphere.",
+      "answers": [
+        "Remains the same.",
+        "Increases.",
+        "Decreases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-141",
+      "sourceNumber": 141,
+      "question": "Hyperventilation results from.",
+      "answers": [
+        "A lack of carbon dioxide in the body.",
+        "Flying too high without supplemental oxygen.",
+        "Breathing too rapidly causing a lack of oxygen."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-142",
+      "sourceNumber": 142,
+      "question": "The best method to use when looking for other traffic at night is to.",
+      "answers": [
+        "Look to the side of the object and scan slowly.",
+        "Scan the visual field very rapidly.",
+        "Look to the side of the object and scan rapidly."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-143",
+      "sourceNumber": 143,
+      "question": "Which would most likely result in hyperventilation?",
+      "answers": [
+        "Emotional tension, anxiety, or fear.",
+        "The excessive consumption of alcohol.",
+        "An extremely slow rate of breathing and insufficient oxygen."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-144",
+      "sourceNumber": 144,
+      "question": "What is one effect smoking has on a pilot?",
+      "answers": [
+        "Increases body heat which, in turn, creates a demand for more oxygen.",
+        "Decreases night vision by 50 percent.",
+        "Creates additional carbon dioxide gases in the body which often leads to hyperventilation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-145",
+      "sourceNumber": 145,
+      "question": "Large accumulations of carbon monoxide in the human body result in.",
+      "answers": [
+        "Loss of muscular power.",
+        "Tightness across the forehead.",
+        "An increased sense of well-being."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-146",
+      "sourceNumber": 146,
+      "question": "Carbon monoxide in an aircraft cabin is.",
+      "answers": [
+        "Difficult to recognize because of its odorless and colorless.",
+        "Easily recognizable because of its peculiar odor.",
+        "Easily recognizable because of its peculiar color."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-147",
+      "sourceNumber": 147,
+      "question": "Susceptibility to carbon monoxide poisoning increases as.",
+      "answers": [
+        "Altitude increases.",
+        "Altitude decreases.",
+        "Air pressure increases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-148",
+      "sourceNumber": 148,
+      "question": "Which occurs when climbing above 18,000 feet in an unpressurized aircraft without supplemental oxygen?",
+      "answers": [
+        "The oxygen pressure within the lungs cannot be maintained without an increase in inhaled.",
+        "Oxygen pressure.",
+        "Gases trapped in the body contract and prevent nitrogen from escaping the bloodstream.",
+        "The pressure in the middle ear becomes less than the atmospheric pressure in the cabin."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-149",
+      "sourceNumber": 149,
+      "question": "Which statement concerning hypoxia is true?",
+      "answers": [
+        "Tingling of the skin and a false sense of security may be symptoms of hypoxia.",
+        "Hypoxia is caused by nitrogen bubbles in the joints and bloodstream.",
+        "Forcing oneself to concentrate on the flight instruments will help to overcome the effects.",
+        "Of hypoxia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "HUMAN-PERFORMANCE-150",
+      "sourceNumber": 150,
+      "question": "A pilot should be able to overcome the symptoms or avoid future occurrences of.",
+      "answers": [
+        "Hyperventilation by.",
+        "Slowing the breathing rate, breathing into a bag, or talking aloud.",
+        "Closely monitoring the flight instruments to control the airplane.",
+        "Increasing the breathing rate in order to increase lung ventilation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    }
+  ]
+}

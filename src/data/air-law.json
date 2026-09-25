@@ -1,0 +1,1113 @@
+{
+  "subject": "Air Law",
+  "source": "Air law.pdf",
+  "questions": [
+    {
+      "id": "AIR-LAW-001",
+      "sourceNumber": 1,
+      "question": "What is the basic presumption about VFR flight?",
+      "answers": [
+        "That the flight will be flown in Visual Meteorological Conditions.",
+        "That the pilot holds the correct rating to allow the aeroplane to be flown in VFR.",
+        "That the flight will only take place in class G airspace."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-002",
+      "sourceNumber": 2,
+      "question": "The pilot in command of an aircraft which enters the sovereign airspace of another contracting state for the purpose of landing must:",
+      "answers": [
+        "Hold a licence issued by the authority of the state in which the aircraft is registered.",
+        "Hold a licence issued by any ICAO contracting state.",
+        "Hold a licence issued by any member state of the JAA."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-003",
+      "sourceNumber": 3,
+      "question": "Which body is responsible for ensuring that an aircraft operating in a state's sovereign airspace complies with the rules and regulations which prevail in that airspace?",
+      "answers": [
+        "The state in whose sovereign airspace the aircraft is operating.",
+        "The state which issued the current Certificate of Airworthiness for the aircraft.",
+        "The state in which the aircraft is registered."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-004",
+      "sourceNumber": 4,
+      "question": "The Rules of the Air applicable to an aircraft registered in one state flying over another state shall be:",
+      "answers": [
+        "Those of the state whose airspace is entered and transited.",
+        "Those of the state of the visiting aircraft.",
+        "Those agreed by ICAO contracting states to apply in all contracting states."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-005",
+      "sourceNumber": 5,
+      "question": "While flying at night, as the pilot in command, you see an anti-collision light and a steady red light at the same altitude, at a constant relative bearing of 050 degrees, there a risk of collision? And who has right of way?",
+      "answers": [
+        "Yes. The other aircraft does.",
+        "Yes. You do.",
+        "No. The other aircraft does."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-006",
+      "sourceNumber": 6,
+      "question": "Two aircraft flying according to the Visual Flight Rules, one of which is receiving a Radar Information Service (RIS), are closing at an apparent constant relative bearing. There is, thus, a high risk of collision. The fact that one aircraft is receiving an RIS is immaterial to the situation. The Rules of the Air apply. Therefore, the aircraft which has the other on its left has right of way and should maintain:",
+      "answers": [
+        "Course and speed.",
+        "Height and speed.",
+        "Altitude and course."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-007",
+      "sourceNumber": 7,
+      "question": "When an aircraft is flying, under which flight rules must the flight be conducted?",
+      "answers": [
+        "Either IFR or VFR.",
+        "IFR in IMC and VFR in VMC.",
+        "At the commander's discretion."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-008",
+      "sourceNumber": 8,
+      "question": "When are navigation lights required to be shown?",
+      "answers": [
+        "From sunset to sunrise or when specified by the Authority.",
+        "When moving on the manoeuvring area of an aerodrome.",
+        "Whenever the pilot in command thinks it is sensible to switch them on."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-009",
+      "sourceNumber": 9,
+      "question": "What word is used to describe the vertical position of an aircraft measured above mean sea level, when QNH is set on the altimeter subscale?",
+      "answers": [
+        "Altitude.",
+        "Elevation.",
+        "Height"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-010",
+      "sourceNumber": 10,
+      "question": "What action should a pilot take if he suffers radio communications failure during a VFR flight in VMC?",
+      "answers": [
+        "Continue to fly in VMC, land at the nearest suitable aerodrome and report his arrival to his destination airfield.",
+        "Continue to his destination, transmitting blind and attempting to avoid IMC.",
+        "Fly to the nearest aerodrome, orbit on the dead side of the circuit and await a steady green from the control tower."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-011",
+      "sourceNumber": 11,
+      "question": "Which of the following flight levels would be suitable for an aircraft flying in accordance with the quadrantal rule and maintaining a magnetic track of 146 degrees?",
+      "answers": [
+        "FL75.",
+        "FL50.",
+        "FL85."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-012",
+      "sourceNumber": 12,
+      "question": "A pilot intending to land at a civil aerodrome should initiate his descent to below transition level with the altimeter subscale set to:",
+      "answers": [
+        "QNH.",
+        "QFE.",
+        "QNE."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-013",
+      "sourceNumber": 13,
+      "question": "You are on final approach and you see a steady red light from ATC. This means:",
+      "answers": [
+        "Do not land. Continue circling.",
+        "Continue approach and await a green light",
+        "Do not land. Airfield closed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-014",
+      "sourceNumber": 14,
+      "question": "What color are runway markings?",
+      "answers": [
+        "White.",
+        "Red.",
+        "Green."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-015",
+      "sourceNumber": 15,
+      "question": "What colour are paved taxiway markings?",
+      "answers": [
+        "Yellow.",
+        "Red.",
+        "Green."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-016",
+      "sourceNumber": 16,
+      "question": "What is the meaning of a steady green light from ATC to an aircraft in the air?",
+      "answers": [
+        "Clear to land.",
+        "Return to this airfield and await landing clearance.",
+        "Land immediately."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-017",
+      "sourceNumber": 17,
+      "question": "If an aircraft marshaller holds his right arm down and repeatedly moves his left arm upward and backward it means:",
+      "answers": [
+        "Turn left.",
+        "Turn right.",
+        "Keep moving ahead."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-018",
+      "sourceNumber": 18,
+      "question": "A light aircraft is taking off behind a Heavy or Medium category aircraft. What period of separation is required?",
+      "answers": [
+        "2 minutes.",
+        "4 minutes.",
+        "3 minutes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-019",
+      "sourceNumber": 19,
+      "question": "How often are Aeronautical Information Circulars published?",
+      "answers": [
+        "Monthly",
+        "Weekly",
+        "Yearly."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-020",
+      "sourceNumber": 20,
+      "question": "What is the international Aeronautical VHF Distress Frequency?",
+      "answers": [
+        "121.50 MHz",
+        "123.45 MHz",
+        "243.00 MHz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-021",
+      "sourceNumber": 21,
+      "question": "What SSR squawk should be set in an emergency?",
+      "answers": [
+        "7700",
+        "7600",
+        "7500"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-022",
+      "sourceNumber": 22,
+      "question": "What is the definition of \"transition level\"?",
+      "answers": [
+        "The lowest available Flight Level above the transition altitude.",
+        "The Flight Level below which the vertical position of an aircraft is expressed as \"height\".",
+        "The transition altitude expressed as a Flight Level."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-023",
+      "sourceNumber": 23,
+      "question": "What word is used to describe the vertical position of an aircraft measured above an airfield datum level, when QFE is set on the altimeter subscale?",
+      "answers": [
+        "Height",
+        "Elevation.",
+        "Altitude."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-024",
+      "sourceNumber": 24,
+      "question": "Who is responsible for the issue of a Certificate of Airworthiness?",
+      "answers": [
+        "The authority of the state of registration.",
+        "The EASA.",
+        "ICAO."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-025",
+      "sourceNumber": 25,
+      "question": "Which of the following normally defines 'runway in use' on an uncontrolled airfield?",
+      "answers": [
+        "A runway into wind.",
+        "A part of the maneuvering area defined for take off and landing.",
+        "The most convenient runway to use for the aircraft operating from the aerodrome."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-026",
+      "sourceNumber": 26,
+      "question": "If the holder of a pilot's licence learns that he is to undergo surgery, what are his obligations in terms of informing the aviation medical authority?",
+      "answers": [
+        "He should contact his aviation medical authority without delay and seek their advice on his circumstances.",
+        "There is no requirement to do so provided the pilot does not fly again as pilot in command until after the surgical operation.",
+        "He should advise the medical authority of the circumstances only if he is due to receive a general anesthetic."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-027",
+      "sourceNumber": 27,
+      "question": "The successful completion of the theoretical knowledge examinations will be valid for the issue of a light aircraft pilot licence (LAPL), a private pilot licence (PPL), a sailplane pilot licence (SPL) or a balloon pilot licence (BPL), for a period of",
+      "answers": [
+        "24 months",
+        "12 months",
+        "36 months",
+        "48 months"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-028",
+      "sourceNumber": 28,
+      "question": "Pilots are required to keep their safety belts and shoulder harnesses fastened during",
+      "answers": [
+        "Takeoffs and landings.",
+        "All flight conditions.",
+        "Flight in turbulent air."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-029",
+      "sourceNumber": 29,
+      "question": "Which best describes the flight conditions under which pilots are specifically required to keep their safety harness fastened?",
+      "answers": [
+        "Safety belts during take off and landing and while en route; shoulder harnesses during takeoff and landing.",
+        "Safety belts during take off and landing; shoulder harnesses during takeoff and landing.",
+        "Safety belts during take off and landing; shoulder harnesses during takeoff and landing and while en route."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-030",
+      "sourceNumber": 30,
+      "question": "With respect to passengers, what obligation, if any, does a pilot in command have concerning the use of seat belts?",
+      "answers": [
+        "The pilot in command must brief the passengers with the location and the use of seat belts.",
+        "The pilot in command must instruct the passengers to keep their seat belts fastened for the entire flight.",
+        "The pilot in command has no obligation in regard to passengers' use of seat belts."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-031",
+      "sourceNumber": 31,
+      "question": "The person directly responsible for the briefing of passengers for a flight is",
+      "answers": [
+        "Pilot in command.",
+        "Safety officer.",
+        "Ground crew member."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-032",
+      "sourceNumber": 32,
+      "question": "What should be entered into the \"LEVEL\" block of an ICAO VFR Flight Plan?",
+      "answers": [
+        "Either the word \"VFR\" or the proposed cruising altitude.",
+        "It is left blank for VFR flights.",
+        "The proposed cruising altitudes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-033",
+      "sourceNumber": 33,
+      "question": "What is the meaning of \"WIP\"?",
+      "answers": [
+        "Work in progress.",
+        "With permission.",
+        "With effect from."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-034",
+      "sourceNumber": 34,
+      "question": "Who is responsible for the adequate safe separation between VFR flights in the air?",
+      "answers": [
+        "Pilots themselves exclusively.",
+        "The Air Traffic Control exclusively.",
+        "The Air Traffic Control and the Surveillance Radar."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-035",
+      "sourceNumber": 35,
+      "question": "Which rules of the air apply to an aircraft registered in the Republic of Slovenia while flying outside the native aerospace?",
+      "answers": [
+        "Rules of the air of the state being overflown.",
+        "Rules of the air of the Republic of Serbia.",
+        "Rules of the air of the state producer of the aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-036",
+      "sourceNumber": 36,
+      "question": "What is the lateral dimension of the airspace at the inner side of the state border, where all aircraft need to obtain special permission for flying within it?",
+      "answers": [
+        "5 nm.",
+        "7 nm.",
+        "9 nm."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-037",
+      "sourceNumber": 37,
+      "question": "Which of the cruising flight level listed is appropriate for a VFR flight over 3,000 ft MSL, while maintaining true course 170° and if the local variation value is 20°W?",
+      "answers": [
+        "FL 65.",
+        "FL 55.",
+        "FL 40."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-038",
+      "sourceNumber": 38,
+      "question": "What action should the pilots of an airplane and a glider take if on a head-on collision course?",
+      "answers": [
+        "The airplane pilot should give way.",
+        "The airplane pilot should give way, because his aircraft is more controllable.",
+        "Both pilots should give way to the right."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-039",
+      "sourceNumber": 39,
+      "question": "How often is a glider or an aeroplane state of airworthiness inspected by the authorized person?",
+      "answers": [
+        "Regularly each year and in case if changing ownership or after repairs.",
+        "Regularly every two years and after a hard landing.",
+        "One year after the last regular inspection and in case of changing ownership."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-040",
+      "sourceNumber": 40,
+      "question": "Which minimum life-saving equipment is recommended to be on board of a non-commercial flight of a single-engined landplane when flying en route over water beyond gliding distance from the shore?",
+      "answers": [
+        "Life saving rafts in sufficient numbers to carry all persons on board.",
+        "Life saving rafts in sufficient numbers to carry all persons on board and one life jacket for each person on board.",
+        "One life jacket or equivalent individual floatation device for each person on board."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-041",
+      "sourceNumber": 41,
+      "question": "A night flying inside the territory of Republic Serbia is defined by the state regulations as a flying between",
+      "answers": [
+        "30 minutes after sunset and 30 minutes before sunrise.",
+        "Sunset and sunrise.",
+        "60 minutes before sunset and 60 minutes after sunrise."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-042",
+      "sourceNumber": 42,
+      "question": "Which of the following statements, concerning heavier-than-air aircraft right-of-way during landing, is correct?",
+      "answers": [
+        "Aircraft at higher level shall give way to aircraft at lower level, but the latter shall not take advantage of this rule to cut in front of another which is in the final stage of an approach to land, or to overtake that aircraft.",
+        "Aircraft in final stage of an approach to land or which is first in an airport traffic circuit, has the right-of-way over all other aircraft.",
+        "Aircraft which is the highest has the right-of-way over all other aircraft with the exception of turbojet aircraft, which has the right-of-way over propeller aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-043",
+      "sourceNumber": 43,
+      "question": "When approaching to land at an airport, without an operating control tower, in Class G airspace, the pilot should",
+      "answers": [
+        "Make all turns to the left, unless otherwise indicated.",
+        "Enter and fly a traffic pattern at 800 feet AAL.",
+        "Fly a left-hand traffic pattern at 800 feet AAL."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-044",
+      "sourceNumber": 44,
+      "question": "Visual flying of aircraft in class G airspace at altitudes above 900 m (3,000 ft) MSL or 300 m (1,000 ft) from ground, whichever is higher, up to 3,050 m (10,000 ft), is permitted if the horizontal visibility is at least",
+      "answers": [
+        "1.5 km.",
+        "8 km.",
+        "5 km."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-045",
+      "sourceNumber": 45,
+      "question": "When flying visually in class G airspace at altitudes above 900 m (3,000 ft) MSL or 300 m (1,000 ft) from ground, whichever is higher, the pilot of an aircraft must maintain the vertical separation from clouds at least",
+      "answers": [
+        "300 m.",
+        "100 m.",
+        "150 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-046",
+      "sourceNumber": 46,
+      "question": "When flying a sport aircraft above the territory of the Republic of Slovenia, supplemental oxygen shall be used at the altitude above mean sea level greater than",
+      "answers": [
+        "4,000 m.",
+        "3,600 m.",
+        "3,800 m."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-047",
+      "sourceNumber": 47,
+      "question": "Aircraft A with an ATC clearance is flying in VMC conditions within a control area. Aircraft B with no ATC clearance is approaching at approximately the same altitude and on a converging course. Which has the right of way?",
+      "answers": [
+        "Aircraft B if A is on its left.",
+        "Aircraft A regardless of the direction which B is approaching.",
+        "Aircraft B regardless of the direction A is approaching."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-048",
+      "sourceNumber": 48,
+      "question": "With your aeroplane on an IFR flight in airspace class D, you receive a traffic information from ATC, that an helicopter on VFR flight is going to cross your flight path from right to left. Who has the right-of-way?",
+      "answers": [
+        "ATC decides who has the right of way and issues appropriate instruction.",
+        "I have the right-of-way as I am on an IFR flight.",
+        "The helicopter has the right-of-way."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-049",
+      "sourceNumber": 49,
+      "question": "Which of the statements listed, concerning the right-of-way when two aircraft converge, but not head-on, is correct?",
+      "answers": [
+        "Normal category aircraft should give way to ultralight aircraft.",
+        "Airplanes should give way to helicopters.",
+        "Airplanes in free flight should give way to non-powered aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-050",
+      "sourceNumber": 50,
+      "question": "What should the glider pilot do, if on head-on collision course with the two-engined Cessna?",
+      "answers": [
+        "He should open the air brakes immediately, because a multi-engine airplane has the right- of-way.",
+        "He should deviate to the left thus giving way to the airplane.",
+        "He should deviate to the right."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-051",
+      "sourceNumber": 51,
+      "question": "How long is the period before the expiry date of a single pilot single engine rating, during which a proficiency check for a revalidation may be done?",
+      "answers": [
+        "3 months.",
+        "15 days.",
+        "1 month."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-052",
+      "sourceNumber": 52,
+      "question": "In addition to other preflight actions for a VFR flight away from the vicinity of the departure airport, regulations specifically require the pilot in command to determine",
+      "answers": [
+        "Runway lengths at airports of intended use and the aircraft's takeoff and landing distance data.",
+        "Review traffic control light signal procedures.",
+        "Check the accuracy of the navigational equipment and the emergency locator transmitter (ELT)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-053",
+      "sourceNumber": 53,
+      "question": "In which of the following cases should the aviation medical certificate deem to be suspended?",
+      "answers": [
+        "Any illness involving incapacity to his functions as a member of flight crew throughout a period of 21 days or more, or any significant personal injury involving incapacity to undertake his functions as a member of the flight crew.",
+        "Any surgical operation or invasive procedure and pregnancy.",
+        "Any surgical operation or invasive procedure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-054",
+      "sourceNumber": 54,
+      "question": "How long are single pilot single engine class ratings valid?",
+      "answers": [
+        "2 years.",
+        "6 months.",
+        "1 year."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-055",
+      "sourceNumber": 55,
+      "question": "The validity of a pilot licence is determined by the validity of",
+      "answers": [
+        "The ratings contained therein and the Medical Certificate.",
+        "The Medical Certificate only.",
+        "The licence itself, as endorsed in the licence."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-056",
+      "sourceNumber": 56,
+      "question": "Which preflight action is specifically required of the pilot prior to each flight?",
+      "answers": [
+        "Become familiar with all available information concerning the flight.",
+        "Check the aircraft logbooks for appropriate entries.",
+        "Review wake turbulence avoidance procedures."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-057",
+      "sourceNumber": 57,
+      "question": "Preflight action, as required for all flights away from the vicinity of an airport, shall include",
+      "answers": [
+        "An alternate course of action if the flight cannot be completed as planned.",
+        "The designation of an alternate airport.",
+        "A study of arrival procedures at airports/heliports of intended use."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-058",
+      "sourceNumber": 58,
+      "question": "How many hours of total flying hours, required for the practical skill test for an issue of a Private Pilot Licence, may be completed on a Flight & Navigation Procedures Trainer or Simulator?",
+      "answers": [
+        "5",
+        "7",
+        "10"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-059",
+      "sourceNumber": 59,
+      "question": "At least how long must be the cross-country flight, required for the eligibility for the Private Pilot Licence skill test, and how many full stop landings at different aerodromes shall be made at this flight?",
+      "answers": [
+        "150 NM; 2 landings.",
+        "100 NM; 2 landings.",
+        "200 NM; landings."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-060",
+      "sourceNumber": 60,
+      "question": "At least how many hours of flying experience as a pilot of airplanes must have an applicant for a Private Pilot Licence?",
+      "answers": [
+        "45 hours.",
+        "50 hours.",
+        "40 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-061",
+      "sourceNumber": 61,
+      "question": "What does the term \"solo flight time\" mean?",
+      "answers": [
+        "flight time during which a student pilot is the sole occupant of an aircraft.",
+        "Entire flight time when a pilot is alone in the aircraft.",
+        "Entire flight time, when a pilot is alone in the aircraft, and 50% of the co-pilot flight time."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-062",
+      "sourceNumber": 62,
+      "question": "The pilot or student pilot, when becoming aware of hospital admission of more than 12 hours, surgical operation or invasive procedure, the regular use of medication, the regular use of correcting lenses,",
+      "answers": [
+        "Must not fly until seeks the advice of the competent aviation doctor.",
+        "Must pass the aviation medical exam again.",
+        "Must inform the CAA within the period of 21 days."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-063",
+      "sourceNumber": 63,
+      "question": "An ATC clearance provides",
+      "answers": [
+        "Authorization to proceed under specified traffic conditions in controlled airspace.",
+        "Priority over all other traffic.",
+        "Adequate separation from all traffic."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-064",
+      "sourceNumber": 64,
+      "question": "What action should be taken if a pilot receives a clearance that will cause a deviation from a rule?",
+      "answers": [
+        "Refuse the clearance as stated and request that it be amended.",
+        "Accept the clearance, because the pilot is not responsible for the deviation.",
+        "Accept the clearance and advise Air Traffic Control when deviation occurs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-065",
+      "sourceNumber": 65,
+      "question": "If a pilot has to deviate from an air traffic control clearance due to unforseen circumstances, he has to",
+      "answers": [
+        "Transmit a general call giving all details concerning his deviation from the ATC clearance.",
+        "Inform all ATC stations concerned by transmitting a multiple call.",
+        "Notify the competent ATC unit without delay and obtain an amended ATC clearance."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-066",
+      "sourceNumber": 66,
+      "question": "When intercepted by a military aircraft, the pilot of an VFR aircraft should",
+      "answers": [
+        "Squawk 7700.",
+        "Attempt to establish communications with the intercepting aircraft over 121.5 MHz and comply with the intercepts signals.",
+        "Acknowledge receipt of intercepting aircraft instructions with the appropriate visual signals."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-067",
+      "sourceNumber": 67,
+      "question": "As a substitute for the proficiency check with an examiner, what minimum flight time and what number of takeoffs and landing is required for the revalidation of a single pilot single engine airplane class rating?",
+      "answers": [
+        "12 hours of flight time within 12 months preceding the expiry of the rating, including 6 hours of pilot-in-command time, and 12 takeoffs and 12 landings.",
+        "12 hours of flight time within 12 months preceding the expiry of the rating, including 5 hours of pilot-in-command time, and takeoffs and landings.",
+        "10 hours of flight time within 12 months preceding the expiry of the rating, including 6 hours of pilot-in-command time, and 12 takeoffs and 12 landings."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-068",
+      "sourceNumber": 68,
+      "question": "Flight time during which the flight instructor will only observe the student acting as pilot-in- command and shall not influence or control the flight of the aircraft is",
+      "answers": [
+        "Flight time as student pilot-in-command (SPIC).",
+        "Solo flight time under supervision.",
+        "Flight time as pilot-in-command."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-069",
+      "sourceNumber": 69,
+      "question": "The Flight Time is the total time from the moment",
+      "answers": [
+        "Than an aircraft first moves under its own or external power for the purpose of taking off until the moment it comes to rest at the end of the flight.",
+        "Than an aircraft starts its engine(s) for the purpose of taking off or when a non-powered aircraft first moves, until the moment engine(s) stop(s) operating or when a non-powered",
+        "Aircraft comes to rest at the end of the flight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-070",
+      "sourceNumber": 70,
+      "question": "To act as pilot in command of an airplane carrying passengers, the holder of PPL(A) must have made at least three takeoffs and three landings in an airplane of the same class, and if a type rating is required, of the same type, within the preceding",
+      "answers": [
+        "90 days.",
+        "12 calendar months.",
+        "24 calendar months."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-071",
+      "sourceNumber": 71,
+      "question": "At least how many hours of dual instructions on aeroplane must have an applicant for a PPL (A)?",
+      "answers": [
+        "25 hours.",
+        "10 hours.",
+        "15 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-072",
+      "sourceNumber": 72,
+      "question": "What Medical Certificate is required for a student pilot?",
+      "answers": [
+        "Class 1 or Class 2 Medical Certificate.",
+        "Class 1 Medical Certificate only.",
+        "Class A or Class B Medical Certificate."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-073",
+      "sourceNumber": 73,
+      "question": "What Medical Certificate is required for a holder of a PPL(A),PPL(H),BPL and SPL?",
+      "answers": [
+        "Class 1 or Class 2 Medical Certificate.",
+        "Class 1 Medical Certificate only.",
+        "Class A or Class B Medical Certificate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-074",
+      "sourceNumber": 74,
+      "question": "An applicant for a Private Pilot Licence must be at least",
+      "answers": [
+        "17 years old.",
+        "15 years old.",
+        "16 years old."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-075",
+      "sourceNumber": 75,
+      "question": "How long is an Instrument Rating valid for?",
+      "answers": [
+        "12 months.",
+        "6 months.",
+        "18 months."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-076",
+      "sourceNumber": 76,
+      "question": "Who is responsible for ensuring that all relevant aircraft documentation is carried on an international flight?",
+      "answers": [
+        "The pilot in command.",
+        "The organisation hiring out the aircraft.",
+        "The air traffic organisation to whom the flight plan is submitted."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-077",
+      "sourceNumber": 77,
+      "question": "During a cross-country flight you find yourself in the vicinity of an unknown airport. A military aircraft approaches, turns around your aircraft, rocks the wings and finally lowers the landing gear. What does this mean?",
+      "answers": [
+        "You have been intercepted, land at the airport below you!",
+        "You may proceed!",
+        "Leave the airport zone immediately!"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-078",
+      "sourceNumber": 78,
+      "question": "During a cross-country flight you notice the military aircraft approaching your left wingtip and flying along; after a short time it makes an abrupt break-away maneuver of a climbing turn to the left. What does this mean?",
+      "answers": [
+        "You may proceed!",
+        "You have been intercepted. Follow me!",
+        "Land at the aerodrome in the direction of my flight!"
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIR-LAW-079",
+      "sourceNumber": 79,
+      "question": "Requested national mark of an aircraft registered in the Republic of Serbia is",
+      "answers": [
+        "A fife-placed mark consisting of a certain combination of letters.",
+        "The country flag of the Republic of Serbia and the mark YU.",
+        "The country flag of the Republic of Serbia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    }
+  ]
+}

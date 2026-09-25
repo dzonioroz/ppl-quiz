@@ -1,0 +1,2242 @@
+{
+  "subject": "Aircraft General Knowledge",
+  "source": "Aircraft  general knowledge.pdf",
+  "questions": [
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-001",
+      "sourceNumber": 1,
+      "question": "A 100 Ampere-Hour battery :",
+      "answers": [
+        "Will, in theory, supply 20 Amps for up to 5 hours.",
+        "Must be used in parallel with another similar battery.",
+        "Supplies the bus-bars through a 45 Ampere circuit breaker.",
+        "Takes 100 hours to charge."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-002",
+      "sourceNumber": 2,
+      "question": "Some carburettors are fitted with a diffuser which:",
+      "answers": [
+        "Prevents the mixture becoming too rich as the rpm increases.",
+        "Prevents the mixture becoming too lean as the rpm increases.",
+        "Prevents the mixture becoming too lean as the rpm decreases.",
+        "Prevents the mixture becoming too rich as the rpm decreases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-003",
+      "sourceNumber": 3,
+      "question": "The barometric pressure scale on an aircraft altimeter serves for.",
+      "answers": [
+        "setting of pressure value at the pressure level, from which will the altimeter measure altitudes.",
+        "air pressure reading at flight altitude.",
+        "pressure difference reading between the air pressure at the airport level and the air pressure at the sea level.",
+        "exact setting of the altimeter during the annual inspection in a service facility."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-004",
+      "sourceNumber": 4,
+      "question": "Instruments normally supplied from the electrical system include the:",
+      "answers": [
+        "Fuel quantity gauges and the turn co-ordinator.",
+        "Engine rpm indicator and the fuel quantity gauges.",
+        "Turn co-ordinator and oil pressure gauge.",
+        "Engine rpm indicator and the turn co-ordinator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-005",
+      "sourceNumber": 5,
+      "question": "The basic purpose of adjusting the fuel/air mixture at altitude is to.",
+      "answers": [
+        "Decrease the fuel flow in order to compensate for decreased air density.",
+        "Decrease the amount of fuel in the mixture in order to compensate for increased air density.",
+        "Increase the amount of fuel in the mixture to compensate for the decrease in pressure and.",
+        "Density of the air."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-006",
+      "sourceNumber": 6,
+      "question": "The battery master switch should be turned to OFF after the engine is stopped to avoid the battery discharging through the.",
+      "answers": [
+        "Ignition switch.",
+        "Magnetos.",
+        "Alternator or generator.",
+        "Electrical services connected to it."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-007",
+      "sourceNumber": 7,
+      "question": "The component parts of the wing shown in the diagram are: (See Fig.PPL AKG-2) A / B / C.",
+      "answers": [
+        "Front Spar / Formers / Rear Spar.",
+        "Primary Spar / Formers / Stringer.",
+        "Front Spar / Secondary Spar / Former.",
+        "Stringers / Secondary Spar / Former."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": true
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-008",
+      "sourceNumber": 8,
+      "question": "The compression ratio of a piston engine is the ratio of the:",
+      "answers": [
+        "Cylinder volume when the piston is at BDC to the cylinder volume when the piston is at TDC.",
+        "Total cylinder volume to the volume when the piston is at bottom dead centre (BDC).",
+        "Total cylinder volume to swept volume.",
+        "Swept volume to clearance volume."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-009",
+      "sourceNumber": 9,
+      "question": "The crankshaft in a piston engine:",
+      "answers": [
+        "Converts reciprocating movement into rotary motion.",
+        "Controls the clearance of the valves.",
+        "Converts rotary motion into reciprocating movement.",
+        "Rotates at half the camshaft speed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-010",
+      "sourceNumber": 10,
+      "question": "The cylinder head temperature gauge:",
+      "answers": [
+        "Obtains its temperature information from the hottest engine cylinder, by means of a probe consisting of two dissimilar metals joined together.",
+        "Is primarily a fuel management instrument.",
+        "Requires alternating current to power the instrument needle.",
+        "Obtains its information from a probe which is installed about four inches from the cylinder head on the exhaust system."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 3,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-011",
+      "sourceNumber": 11,
+      "question": "The diagram shows a light aircraft electrical power system, which employs a centre-zero reading ammeter. (See Fig.PPL AKG-3) In flight with the battery fully charged and the battery switch ON, you would expect the ammeter to be:",
+      "answers": [
+        "In the centre-zero position.",
+        "To the right showing a large positive reading.",
+        "To the left showing a negative reading.",
+        "Fluctuating, but mainly showing a negative reading."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-012",
+      "sourceNumber": 12,
+      "question": "The diagram shows a light aircraft electrical power system.(See Fig.PPL AKG-1)¿In flight if the loadmeter reading drops to zero, the most probable cause is that the:",
+      "answers": [
+        "Alternator has failed.",
+        "Battery has been fully charged.",
+        "Battery is flat.",
+        "Bus-bar is overloaded."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-013",
+      "sourceNumber": 13,
+      "question": "The distributor arm rotates at:",
+      "answers": [
+        "A half engine speed.",
+        "One quarter engine speed.",
+        "Engine speed.",
+        "Twice engine speed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-014",
+      "sourceNumber": 14,
+      "question": "The exhaust gas temperature gauge:",
+      "answers": [
+        "Can indicate whether the air-fuel mixture being drawn into the combustion chamber is too lean or too rich.",
+        "Is an engine instrument designed to protect the engine from excessive heat.",
+        "Does the same job as the cylinder head temperature gauge.",
+        "Requires power from the D. C. bus-bar."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-015",
+      "sourceNumber": 15,
+      "question": "The gyro in an artificial horizon is:",
+      "answers": [
+        "An earth gyro rotating in a horizontal plane about a vertical axis.",
+        "An earth gyro rotating in a vertical plane about the aircraft's lateral axis.",
+        "An earth gyro rotating in a vertical plane about the aircraft's longitudinal axis.",
+        "A tied gyro rotating in a horizontal plane about the aircraft's longitudinal axis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-016",
+      "sourceNumber": 16,
+      "question": "The main advantage of an alternator over a generator is that:",
+      "answers": [
+        "An alternator will give almost full power at engine idling speed.",
+        "A generator can only produce alternating current.",
+        "The output of a generator fluctuates too much.",
+        "An alternator produces direct current from its armature."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-017",
+      "sourceNumber": 17,
+      "question": "The maximum speed for flaps extension is.",
+      "answers": [
+        "equal to the maximum speed for flying with flaps extended.",
+        "lower than the maximum speed for flying with flaps extended.",
+        "equal to the maximum cruising speed.",
+        "equal to the maneuvering speed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-018",
+      "sourceNumber": 18,
+      "question": "The Mechanical Tachometer:",
+      "answers": [
+        "Works on the principle of a magnetic field being induced in a drag cup and creating a torque which rotates a shaft attached to the pointer on the dial of a Tachometer.",
+        "Uses the friction generated in a drag cup to rotate a shaft, which is connected to a pointer, against the pressure of a hairspring.",
+        "Is driven directly from the prop shaft. Gears reduce the speed of rotation so that a generator can be used to produce a voltage proportional to shaft speed which is indicated on a gauge calibrated in RPM.",
+        "Is driven directly from the alternator drive."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-019",
+      "sourceNumber": 19,
+      "question": "The most probable cause of the needle of the oil pressure gauge fluctuating when the aircraft is in level flight with the engine running at cruise rpm is:",
+      "answers": [
+        "A low oil supply.",
+        "The presence of air in the oil tank.",
+        "A loose electrical connection.",
+        "The low power setting."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-020",
+      "sourceNumber": 20,
+      "question": "The normal method for shutting down an aircraft engine is:",
+      "answers": [
+        "Closing the throttle and moving the mixture to ICO.",
+        "Switching the starter switch to off.",
+        "Moving the mixture to Idle Cut off (ICO).",
+        "Closing the throttle."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 4,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-021",
+      "sourceNumber": 21,
+      "question": "The oil temperature gauge in the cockpit is connected to a temperature probe that senses the temperature of the oil:",
+      "answers": [
+        "After it passes through the oil cooler but before it reaches the hot sections of the engine.",
+        "Within the hot sections of the engine.",
+        "Before it passes through the oil cooler.",
+        "In the sump of the engine."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-022",
+      "sourceNumber": 22,
+      "question": "The operating principle of float-type carburettors is based on the.",
+      "answers": [
+        "Increase in air velocity in the throat of a venturi causing an increase in air pressure.",
+        "Automatic metering of air at the venturi as the aircraft gains altitude.",
+        "Difference in air pressure at the venturi throat and the air inlet."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-023",
+      "sourceNumber": 23,
+      "question": "The piston rod in a reciprocating engine forms a link between.",
+      "answers": [
+        "The cylinder piston and the crankshaft.",
+        "The cylinder piston and the camshaft.",
+        "The valve rod and the rocker arm.",
+        "The rocker arm and the valve body."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-024",
+      "sourceNumber": 24,
+      "question": "The power of an aviation engine without a supercharger decreases with altitude because of.",
+      "answers": [
+        "Lower air density and therefore insufficient cylinder loading.",
+        "Lower outside temperatures it does not operate at optimum temperature.",
+        "Higher air density it receives too poor fuel/air mixture.",
+        "Lower air density it receives too rich fuel/air mixture."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-025",
+      "sourceNumber": 25,
+      "question": "The power output of a four-stroke piston engine at sea level:",
+      "answers": [
+        "Increases as rpm increases.",
+        "Is proportional to the volume of mixture induced into the cylinder.",
+        "Is constant as rpm increases.",
+        "Increases initially, then remains constant as rpm increases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-026",
+      "sourceNumber": 26,
+      "question": "The correct working cycle of a four stroke engine is:",
+      "answers": [
+        "Induction, compression, power, exhaust.",
+        "Exhaust power induction, compression.",
+        "Induction, power, compression, exhaust.",
+        "Exhaust, induction, power, compression."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-027",
+      "sourceNumber": 27,
+      "question": "A BCF fire extinguisher:",
+      "answers": [
+        "Is quite safe to use in an enclosed cockpit if the cockpit is subsequently ventilated.",
+        "Gives off highly toxic fumes and should never be used in an enclosed cockpit.",
+        "Is quite safe to use in an enclosed cockpit.",
+        "Is only suitable for wood or fabric fires and is, therefore, of no use in a cockpit."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-028",
+      "sourceNumber": 28,
+      "question": "A carburettor is used to supply.",
+      "answers": [
+        "A fuel/air mixture to the engine cylinders.",
+        "Air to the engine cylinders.",
+        "Fuel to the engine cylinders."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-029",
+      "sourceNumber": 29,
+      "question": "A magnetic heading:",
+      "answers": [
+        "Is the sum of the compass heading and compass deviation.",
+        "Is the sum of the compass heading, compass deviation and variation.",
+        "Is not affected by turning errors.",
+        "Is always referenced to True North."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-030",
+      "sourceNumber": 30,
+      "question": "A propeller blade is twisted along its length in order to:",
+      "answers": [
+        "Maintain the optimal Angle of Attack from root to tip.",
+        "Give a progressively increasing blade angle from root to tip.",
+        "Give a progressively increasing pitch from root to tip.",
+        "Compensate for the decreasing linear speed of the blade from root to tip."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 5,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-031",
+      "sourceNumber": 31,
+      "question": "A reciprocating aviation engine develops the highest power.",
+      "answers": [
+        "In level flight at low altitude.",
+        "At high altitudes.",
+        "During takeoff with full RPM.",
+        "During takeoff."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-032",
+      "sourceNumber": 32,
+      "question": "A tied gyro:",
+      "answers": [
+        "Has its axis in the horizontal or yawing plane of the aircraft.",
+        "Does not suffer from apparent wander (drift) because of rotation of the earth about its axis.",
+        "Has its axis in the vertical or pitching plane of the aircraft.",
+        "Cannot be used in a Direction Indicator because of the apparent wander caused by the rotation of the earth about its axis."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-033",
+      "sourceNumber": 33,
+      "question": "After starting a cold engine, if the oil pressure gauge does not indicate within approximately 30 seconds:",
+      "answers": [
+        "The engine must be stopped immediately.",
+        "The engine rpm should be increased and then the oil pressure re-checked.",
+        "This may be ignored, provided that the oil level was checked to be sufficient before start-up.",
+        "This may be ignored if the oil temperature is high, provided that the oil level was checked to be sufficient before start-up."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-034",
+      "sourceNumber": 34,
+      "question": "Aircraft maintenance carried out by a private pilot in accordance with the pilot's legal entitlement:",
+      "answers": [
+        "Is to be entered in the aircraft's log book and certified by the pilot who carried out the maintenance.",
+        "Is to be entered in the aircraft's log book and certified by a licensed engineer.",
+        "Need not be logged or recorded.",
+        "Is to be entered in the aircraft's log book and certified by a CAD approved inspector."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-035",
+      "sourceNumber": 35,
+      "question": "An abnormally high oil temperature indication in case of a four-stroke engine may be caused by.",
+      "answers": [
+        "The oil level being too low.",
+        "Operating with a too high viscosity oil.",
+        "Excessively rich mixture.",
+        "The oil level being too high."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-036",
+      "sourceNumber": 36,
+      "question": "An accelerator pump is used to prevent a \"flat spot\". A \"flat spot\" is:",
+      "answers": [
+        "When the throttle is opened quickly and the demand for fuel cannot be met immediately.",
+        "When the throttle is closed quickly and the engine is starved of fuel.",
+        "When the throttle is opened quickly and the mixture becomes temporarily too rich,.",
+        "d)j When the throttle is closed and the mixture becomes temporarily too rich."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-037",
+      "sourceNumber": 37,
+      "question": "An altimeter:",
+      "answers": [
+        "Contains an aneroid capsule connected to a static pressure source. The capsule contracts during a descent.",
+        "Contains a barometric capsule, connected to a total pressure source, that contracts during a descent.",
+        "Contains a barometric capsule that expands during a descent.",
+        "Contains a partially evacuated capsule that expands during a descent."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-038",
+      "sourceNumber": 38,
+      "question": "An engine that does not have a carburettor but rather metered fuel that is fed under.",
+      "answers": [
+        "pressure into the induction manifold, is said to have.",
+        "Fuel injection.",
+        "Supercharging.",
+        "Metering carburettor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-039",
+      "sourceNumber": 39,
+      "question": "Aquaplaning speed:",
+      "answers": [
+        "Can be calculated, in knots, by multiplying the square root of the tyre pressure by nine.",
+        "Increases as the depth of tread on the tyres reduces.",
+        "Increases as the depth of water on the ground increases.",
+        "Is measured in miles per hour."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-040",
+      "sourceNumber": 40,
+      "question": "As air enters the restriction of a Venturi, velocity_____, static or ambient pressure _____and temperature_____.",
+      "answers": [
+        "Increases Decreases Decreases.",
+        "Increases Increases Increases.",
+        "Decreases Increases Decreases.",
+        "Decreases Decreases Increases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-041",
+      "sourceNumber": 41,
+      "question": "As an aircraft with a variable-pitch, constant-speed propeller accelerates along the runway:",
+      "answers": [
+        "The blade pitch angle increases, maintaining a constant angle of attack and R.P.M.",
+        "The angle of attack will decrease and the engine R.P.M. remain constant.",
+        "The angle of attack will remain constant and the engine R.P.M. will increase.",
+        "The linear velocity of the propeller tip will gradually decrease."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 6,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-042",
+      "sourceNumber": 42,
+      "question": "As the throttle is advanced, what happens to the constant-speed propeller of an aircraft?",
+      "answers": [
+        "Angle of attack will increase.",
+        "Angle of attack will not change.",
+        "RPM will increase.",
+        "Angle of attack will decrease."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-043",
+      "sourceNumber": 43,
+      "question": "As you climb altitude_____and density________and, therefore, the mixture will be___.",
+      "answers": [
+        "Increases / Decreases / Decreases.",
+        "Increases / Decreases / Increases.",
+        "Decreases / Increases / Decreases.",
+        "Increases / Decreases / Decreases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-044",
+      "sourceNumber": 44,
+      "question": "Baffles:",
+      "answers": [
+        "Are directional air guides which direct the airflow fully around the cylinder.",
+        "Are placed within the lubrication system to slow down the passage of oil into the engine.",
+        "Reduce the flow of air around the engine.",
+        "Must be close fitting to reduce the flow of air around the engine."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-045",
+      "sourceNumber": 45,
+      "question": "Besides the altimeter, which instruments are connected to the static pressure line?",
+      "answers": [
+        "Airspeed indicator, vertical speed indicator, and turn-and-skid indicator.",
+        "Airspeed indicator only.",
+        "Airspeed indicator and external temperature indicator.",
+        "Airspeed indicator and vertical speed indicator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-046",
+      "sourceNumber": 46,
+      "question": "A Direction Indicator may be aligned with the magnetic compass:",
+      "answers": [
+        "By using the caging knob to rotate the Dl azimuth card when the wings are level.",
+        "To minimise the effect of magnetic dip.",
+        "Periodically, to offset the affect of acceleration during a turn.",
+        "Because of the effect of liquid swirl."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-047",
+      "sourceNumber": 47,
+      "question": "A Direction Indicator:",
+      "answers": [
+        "Suffers from apparent drift of the gyro from the fixed position in space to which it was aligned, produced by Earth rotation.",
+        "Is badly affected by acceleration in a turn.",
+        "Is not affected by drift produced from mechanical friction in the gyro gimbal bearings.",
+        "Provides a stable reference in azimuth and elevation for maintaining accurate headings and pitch attitudes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-048",
+      "sourceNumber": 48,
+      "question": "A flying control lock:",
+      "answers": [
+        "Is used to lock the controls on the ground to prevent damage in high wind conditions.",
+        "Will constrain the control column to its design limits so as not to overstress the airframe during normal operations.",
+        "Must always be used when flying in gusty conditions.",
+        "Is only necessary on the elevators."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-049",
+      "sourceNumber": 49,
+      "question": "Blade angle_____from the hub to the tip of a propeller blade in order to maintain an optimal______from hub to tip.",
+      "answers": [
+        "Decreases Angle of Attack.",
+        "Increases Angle of Attack.",
+        "Decreases Geometric Pitch.",
+        "Increases Effective Pitch."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-050",
+      "sourceNumber": 50,
+      "question": "Can an engine of a parked modern reciprocating aircraft fire if somebody turns the propeller by hand?",
+      "answers": [
+        "Yes, provided the master switch is on.",
+        "Normally not if the engine is cold with ignition switched off.",
+        "No, under no circumstances.",
+        "Yes, always."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-051",
+      "sourceNumber": 51,
+      "question": "Can the alternator of an aircraft engine operate without the battery?",
+      "answers": [
+        "No, in no case.",
+        "Yes, provided the magnetos operate properly.",
+        "Yes, however at high RPM only.",
+        "Yes, provided the pilot has switched off all electrical services on board."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 7,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-052",
+      "sourceNumber": 52,
+      "question": "Carbon monoxide gas, which is highly toxic, may enter the aeroplane cabin in flight because of an exhaust system defect. Carbon Monoxide:",
+      "answers": [
+        "Is odourless and colourless.",
+        "May be identified by its strong smell.",
+        "May be identified by its grey colour.",
+        "Has a very distinctive taste."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-053",
+      "sourceNumber": 53,
+      "question": "Carburettor ice has formed in the venturi of your carburettor and your aircraft starts losing power. Will the use of carburettor heat result in immediate increase in RPM?",
+      "answers": [
+        "No, in a fixed-pitch propeller aircraft there will first be some rough running and a further.",
+        "Loss of RPM as the melted ice is ingested by the engine. Then RPM will increase.",
+        "Yes, since the carburettor ice will melt immediately.",
+        "No, since carburettor heat simply melts the ice and does not affect RPM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-054",
+      "sourceNumber": 54,
+      "question": "Connecting two 12 volt, 40 ampere-hour, capacity batteries in series will provide a battery of:",
+      "answers": [
+        "24 volts and 40 ampere-hours capacity.",
+        "12 volts and 80 ampere-hours capacity.",
+        "24 volts and 80 ampere-hours capacity.",
+        "12 volts and 40 ampere hour's capacity."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-055",
+      "sourceNumber": 55,
+      "question": "Detonation could result from using:",
+      "answers": [
+        "Too weak a mixture.",
+        "Too low a manifold pressure.",
+        "A higher grade fuel than recommended.",
+        "Too high an RPM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-056",
+      "sourceNumber": 56,
+      "question": "Detonation is:",
+      "answers": [
+        "Harmful to the pistons.",
+        "Also known as 'piston slap'.",
+        "Part of normal engine running.",
+        "Cannot be identified externally."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-057",
+      "sourceNumber": 57,
+      "question": "Detonation is:",
+      "answers": [
+        "Unstable combustion.",
+        "An explosion that occurs before the normal ignition point.",
+        "Usually associated with a rich mixture and high cylinder head temperature.",
+        "Usually associated with a weak mixture and a low cylinder head temperature."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-058",
+      "sourceNumber": 58,
+      "question": "During one complete Otto Cycle, the piston:",
+      "answers": [
+        "Moves towards the cylinder head twice.",
+        "Rotates around the gudgeon pin twice.",
+        "Receives two power strokes.",
+        "Moves towards the cylinder head four times."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-059",
+      "sourceNumber": 59,
+      "question": "Engine compression ratio is the ratio of the.",
+      "answers": [
+        "Total volume to the clearance volume.",
+        "Clearance volume to the swept volume.",
+        "Swept volume to the total volume.",
+        "Swept volume to the clearance volume."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-060",
+      "sourceNumber": 60,
+      "question": "Flying an aircraft with a flat battery, having started the engine using a ground source, is:",
+      "answers": [
+        "Not recommended because the battery may not charge correctly during flight.",
+        "Acceptable because the battery will be fully charged again before take-off.",
+        "Acceptable because the battery is never required in flight.",
+        "Not recommended because the electrical loads will not be energised."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-061",
+      "sourceNumber": 61,
+      "question": "For exciting of the alternator an initial electrical current is needed, provided by the.",
+      "answers": [
+        "Battery.",
+        "Magneto.",
+        "Ignition coil.",
+        "Current distributor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 8,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-062",
+      "sourceNumber": 62,
+      "question": "For internal cooling, a reciprocating aircraft engine especially depends on.",
+      "answers": [
+        "The air flowing over the exhaust manifold.",
+        "The circulation of lubricating oil.",
+        "A properly functioning thermostat."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-063",
+      "sourceNumber": 63,
+      "question": "How soon after starting a cold aircraft engine should the oil pressure gauge give an indication?",
+      "answers": [
+        "Within 30 seconds; otherwise shut down the engine.",
+        "Immediately; otherwise shut down the engine.",
+        "By the time pre-flight checks are complete; otherwise shut down the engine.",
+        "As long as the oil levels were at an adequate level before start-up, and RPM is within limits, it is probable that the oil pressure gauge is faulty and should be reported after the flight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-064",
+      "sourceNumber": 64,
+      "question": "If a blockage occurs in the oil cooler of an aircraft engine while the aircraft is in flight, a by-pass valve allows the oil to by-pass the cooler. The by-pass functions on the principle of:",
+      "answers": [
+        "Pressure dependence.",
+        "Temperature dependence.",
+        "Mechanical selection.",
+        "Hydraulic selection."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-065",
+      "sourceNumber": 65,
+      "question": "If a fire occurs in a wheel and tyre assembly and immediate action is required to extinguish it, the safest extinguishant to use is:",
+      "answers": [
+        "Dry powder.",
+        "Carbon dioxide (CO2).",
+        "Bromotrifluoromethane (BTF).",
+        "Water acid."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-066",
+      "sourceNumber": 66,
+      "question": "If a flight is made from an area of high pressure into an area of low pressure without the altimeter setting being adjusted, the aircraft true altitude.",
+      "answers": [
+        "decreases.",
+        "increases.",
+        "stays unchanged."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-067",
+      "sourceNumber": 67,
+      "question": "If a fuse blows during flight it:",
+      "answers": [
+        "May be replaced in the air once only, by one of the same value.",
+        "Should not be replaced until after landing.",
+        "May be replaced by a fuse of a higher rating to ensure that it will not blow again.",
+        "May be replaced as often as required."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-068",
+      "sourceNumber": 68,
+      "question": "If a pilot changes the altimeter setting to a lower pressure, the altitude indication will.",
+      "answers": [
+        "decrease.",
+        "stay unchanged.",
+        "increase."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-069",
+      "sourceNumber": 69,
+      "question": "If an aircraft is equipped with a fixed-pitch propeller and a float-type carburettor, the first indication of carburettor ice would most likely be.",
+      "answers": [
+        "Loss of RPM.",
+        "Engine roughness.",
+        "A drop in oil temperature and cylinder head temperature."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-070",
+      "sourceNumber": 70,
+      "question": "If an altimeter is set to QFE pressure, the instrument indication after landing will be.",
+      "answers": [
+        "zero.",
+        "the airfield elevation.",
+        "the airfield height above the pressure plain 1013.2 hPa.",
+        "the airfield pressure height above the standard value."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-071",
+      "sourceNumber": 71,
+      "question": "If is best to run the engine with the mixture:",
+      "answers": [
+        "Slightly rich, as the remaining fuel helps cool the engine.",
+        "Chemically correct as this is most efficient.",
+        "Slightly rich, as the remaining air helps cool the engine.",
+        "Slightly weak, as the remaining air helps cool the engine."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 9,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-072",
+      "sourceNumber": 72,
+      "question": "If is possible to get carburettor icing when the relative humidity is greater than 50% within a temperature range of:",
+      "answers": [
+        "-7 to +33°C.",
+        "0°C and below.",
+        "-20to+10°C.",
+        "At any temperature."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-073",
+      "sourceNumber": 73,
+      "question": "If set to QNH, what will be aircraft altimeter reading after landing?",
+      "answers": [
+        "Airfield height above the mean sea level.",
+        "Zero.",
+        "Airfield height above the pressure plane 1013,2 hPa.",
+        "Airfield pressure altitude above the standard value."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-074",
+      "sourceNumber": 74,
+      "question": "If the engine gets too hot, the mixture may ignite before the spark plug fires.",
+      "answers": [
+        "This is called pre-ignition.",
+        "This is called detonation.",
+        "The mixture should be weakened to assist in cooling the engine.",
+        "The throttle should be opened to assist in cooling the engine."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-075",
+      "sourceNumber": 75,
+      "question": "If the gyro of a turn indicator runs at a lower rpm than its design specification, how will the actual rate of turn of the aircraft compare to the rate of turn shown on the turn indicator?",
+      "answers": [
+        "The actual rate of turn of the aircraft will be greater than the rate indicated.",
+        "The actual rate of turn of the aircraft will be same as the rate indicated.",
+        "The actual rate of turn of the aircraft will be less than the rate indicated.",
+        "The turn indicator will not indicate a rate of turn."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-076",
+      "sourceNumber": 76,
+      "question": "If the power supply to the pitot heater failed during flight in icing conditions and the aircraft subsequently descended, the readings on the Altimeter, the VSI and theASI would, if ice had blocked the pitot (Total Pressure) tube:- Altimeter / VSI / AS",
+      "answers": [
+        "Read Correctly / Read Correctly / Under-read.",
+        "Read Correctly / Under-read / Over-read.",
+        "Under-read / Read Correctly / Over-read.",
+        "Read Correctly / Read Correctly / Over-read."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-077",
+      "sourceNumber": 77,
+      "question": "If you suspect carburettor icing when flying an aircraft whose engine is not fitted with a carburettor air-temperature gauge, the correct action would be:",
+      "answers": [
+        "To always select full carburettor heat.",
+        "To select the appropriate amount of carburettor heat depending on the amount of icing suspected.",
+        "To always select full carburettor heat unless the engine starts to run roughly, at which point the carburettor heat should be selected to cold.",
+        "To open the throttle to make up for the lost power."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-078",
+      "sourceNumber": 78,
+      "question": "If, during descent, the static sources to the airspeed indicator and altimeter become blocked by ice:",
+      "answers": [
+        "Both instruments will over-read.",
+        "The airspeed indicator will over-read and the altimeter will under-read.",
+        "The airspeed indicator will under-read and the altimeter will over-read.",
+        "Both instruments will under-read."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-079",
+      "sourceNumber": 79,
+      "question": "If, while an aircraft is descending, the static vent leading to the Vertical Speed Indicator becomes blocked, the indicator will:",
+      "answers": [
+        "Show a zero reading, after a short delay.",
+        "Continue to show the same reading.",
+        "Indicate a climb.",
+        "Indicate a descent."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-080",
+      "sourceNumber": 80,
+      "question": "Ignoring any Instrument or Position Errors, in what conditions will the Air Speed Indicator indicate the True Airspeed of an aircraft?",
+      "answers": [
+        "In ISA, sea-level conditions only.",
+        "At any altitude or temperature.",
+        "At any altitude, provided that the temperature lapse rate is in accordance with ISA.",
+        "At any altitude, but only when ISA conditions prevail."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-081",
+      "sourceNumber": 81,
+      "question": "Immediately after starting an aircraft engine, you must check the starter warning light. If it is still illuminated you should:",
+      "answers": [
+        "Shut down the engine immediately.",
+        "Monitor it for 30 seconds. If it remains illuminated shut down the engine.",
+        "Do nothing. The starter warning light should stay on while the engine is running.",
+        "Shut down the engine, count to 30, and then attempt a re-start."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 10,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-082",
+      "sourceNumber": 82,
+      "question": "In a dive, with the throttle setting constant, the engine R.P.M. of an aircraft fitted with a fixed-pitch propeller will:",
+      "answers": [
+        "Increase if the airspeed is allowed to increase.",
+        "Decrease as the airspeed increases.",
+        "Remain constant whatever the airspeed.",
+        "Decrease as long as the throttle setting is not changed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-083",
+      "sourceNumber": 83,
+      "question": "In icing conditions, if a static vent became blocked during level flight and the aircraft subsequently climbed, the readings on the Altimeter, the VSI and theASI would:- Altimeter / VSI / ASI.",
+      "answers": [
+        "Remain unchanged / Remain unchanged / Under-read.",
+        "Remain unchanged / Under-read / Over-read.",
+        "Under-read / Remain unchanged / Over-read.",
+        "Over-read / Over-read / Under-read."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-084",
+      "sourceNumber": 84,
+      "question": "In the aircraft tanks, fuel is most likely to be contaminated by water from:",
+      "answers": [
+        "Atmospheric air remaining in the tanks.",
+        "Poorly fitting fuel caps.",
+        "Contamination during re-fuelling.",
+        "Leaks in the tanks that have let in rain."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-085",
+      "sourceNumber": 85,
+      "question": "In the event of an alternator or generator failure during flight the:",
+      "answers": [
+        "Electrical loads should be reduced to a minimum and a landing made as soon as safely practicable.",
+        "Flight may be continued normally because the battery supplies all electrical loads.",
+        "Alternator master switch should be turned off and flight continued normally without electrical power."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-086",
+      "sourceNumber": 86,
+      "question": "In what flight condition is a torque effect the greatest in a single-engine airplane?",
+      "answers": [
+        "Low airspeed, high power, high angle of attack.",
+        "High airspeed, high power, high angle of attack.",
+        "Low airspeed, low power, low angle of attack."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-087",
+      "sourceNumber": 87,
+      "question": "Itis important to ensure the priming pump is locked after use because:",
+      "answers": [
+        "It may cause fuel to be sucked from the fuel strainer into the inlet manifold, causing an extremely rich mixture.",
+        "It may cause a fuel leak, resulting in an increased fire risk.",
+        "It may cause fuel to be sucked from the fuel tank into the carburettor, causing an extremely rich mixture.",
+        "If it vibrates closed, it will cause the engine to stop."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-088",
+      "sourceNumber": 88,
+      "question": "Its good practice, when flying over large areas of water, that life jackets:",
+      "answers": [
+        "Are worn, uninflated.",
+        "Should be carried under the pilots' seats.",
+        "Should be inspected periodically for leaks.",
+        "Are worn inflated."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-089",
+      "sourceNumber": 89,
+      "question": "Magnetos are:",
+      "answers": [
+        "Self contained, engine driven, electrical generators which produce high voltage sparks.",
+        "Generators, driven by the cam-shaft, used to supply electrical equipment.",
+        "Used to generate low voltage sparks for the spark-plugs.",
+        "Fitted within the distributor, and fire in the same sequence as the spark-plugs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-090",
+      "sourceNumber": 90,
+      "question": "Most nose wheels on modern light aircraft are:",
+      "answers": [
+        "Oleo pneumatic shock-absorber struts.",
+        "Spring steel struts.",
+        "Spring coil struts.",
+        "Compressed rubber struts."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-091",
+      "sourceNumber": 91,
+      "question": "Oil in a reciprocating engine serves.",
+      "answers": [
+        "For lubricating and cooling of the engine.",
+        "To increase mixture combustion temperature in the cylinders.",
+        "As additive for proper fuel/air which burns in the cylinders.",
+        "For quiet engine operating only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 11,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-092",
+      "sourceNumber": 92,
+      "question": "On a fixed pitch propeller aircraft whose engine is fitted with a carburettor, the of induction system icing are:",
+      "answers": [
+        "A gradual drop in rpm and possible rough running and vibration.",
+        "A sudden drop in rpm and engine temperature.",
+        "A rise in manifold pressure and a reduction in air-speed, in level flight.",
+        "A rise in engine oil temperature and a fall in oil pressure."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-093",
+      "sourceNumber": 93,
+      "question": "On a light aircraft fitted with a mechanically steered nose wheel, steering on the ground is normally effected by:",
+      "answers": [
+        "Control rods/cables operated by the rudder pedals.",
+        "Cables operated from the aileron control wheel.",
+        "Use of the differential braking technique, only.",
+        "Hydraulic jacks which allow self-centring."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-094",
+      "sourceNumber": 94,
+      "question": "On a reciprocating aviation engine, what is controlled by the exhaust temperature gauge (EGT)?",
+      "answers": [
+        "Quality of the fuel/air mixture.",
+        "Carburettor icing.",
+        "Oil pressure.",
+        "Oil consumption."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-095",
+      "sourceNumber": 95,
+      "question": "On your instrument panel, the suction gauge is showing system failure. However, the gyro-driven instruments appear to be functioning normally, and the Low Vacuum Warning Light is off. Where do you think the problem lies?",
+      "answers": [
+        "In the suction gauge.",
+        "In the suction system.",
+        "With the Low Vacuum Warning Light.",
+        "In the gyro driven instruments."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-096",
+      "sourceNumber": 96,
+      "question": "One purpose of the dual ignition system on an aircraft engine is to provide for.",
+      "answers": [
+        "Improved engine performance.",
+        "Balanced cylinder head pressure.",
+        "Uniform heat distribution."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-097",
+      "sourceNumber": 97,
+      "question": "Pre-ignition in a four stroke piston engine is:",
+      "answers": [
+        "The fuel / air mixture burning earlier than it should.",
+        "Caused by a rich mixture in a hot engine.",
+        "The explosive combustion of the fuel-air mixture.",
+        "Characterised by the ringing nature of the explosion it causes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-098",
+      "sourceNumber": 98,
+      "question": "Pre-ignition:",
+      "answers": [
+        "Is usually caused by a hot spot in the combustion chamber.",
+        "Is also known as pinking.",
+        "Occurs after ignition.",
+        "Happens after the spark occurs at the plug."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-099",
+      "sourceNumber": 99,
+      "question": "Proper functioning of an auxiliary fuel pump could be checked by.",
+      "answers": [
+        "The alternator output.",
+        "The fuel pressure.",
+        "The characteristic noise.",
+        "A fuel dropping out of the drain hole."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-100",
+      "sourceNumber": 100,
+      "question": "Semi-monocoque can be defined as:",
+      "answers": [
+        "A stressed skin with supported apertures containing an internal structure framework.",
+        "A framework of light-gauge steel tubes welded together to form a space frame of triangular shape.",
+        "A structure with no apertures at all.",
+        "An apertureless structure with load bearing formers being supported by stringers and longerons over a stressed skin."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-101",
+      "sourceNumber": 101,
+      "question": "Where in the engine is the oil temperature read by the temperature probe which is connected to the engine's oil temperature gauge?",
+      "answers": [
+        "After the oil has passed through the oil cooler but before it reaches the hot sections of the engine.",
+        "Inside the hot sections of the engine.",
+        "As the oil leaves the oil tank.",
+        "Before the oil has passed through the oil cooler."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 12,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-102",
+      "sourceNumber": 102,
+      "question": "Where, in an aircraft-engine fuel system, is the electric fuel-boost pump normally fitted?",
+      "answers": [
+        "At the lowest point of the fuel tank.",
+        "Immediately adjacent to the mechanical fuel pump.",
+        "Between the mechanical fuel pump and the carburettor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-103",
+      "sourceNumber": 103,
+      "question": "Which adverse effect, caused by a gyroscopic effect, will a pilot experience during the takeoff roll while lifting a tail off the ground?",
+      "answers": [
+        "Banking tendency.",
+        "Pitching.",
+        "Yawing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-104",
+      "sourceNumber": 104,
+      "question": "When turning through North in the Northern Hemisphere:",
+      "answers": [
+        "Liquid swirl will increase the magnitude of any turning error.",
+        "Turning errors are greatest closer to the magnetic equator.",
+        "Acceleration errors are always more significant than turning errors.",
+        "The compass will be lively."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-105",
+      "sourceNumber": 105,
+      "question": "The power output of an internal combustion engine can be increased by:",
+      "answers": [
+        "Increasing the engine R.P.M.",
+        "Decreasing the area of the cylinder.",
+        "Decreasing the length of the stroke.",
+        "Increasing the size of the fuel tank."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-106",
+      "sourceNumber": 106,
+      "question": "The prevention of excessive oil pressure in an aircraft engine is assured by:",
+      "answers": [
+        "The engine's oil pressure relief valve.",
+        "Ensuring that the engine does not exceed the red-line rpm value.",
+        "The engine's high capacity pressure pump.",
+        "The engine's filter by-pass valve."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-107",
+      "sourceNumber": 107,
+      "question": "The principal reason why light training aircraft have fixed undercarriages is that:",
+      "answers": [
+        "The reduced performance caused by the additional drag of a fixed undercarriage is offset by its simplicity, low cost and easy maintenance.",
+        "Training aircraft need to manoeuvre on the ground.",
+        "Training aircraft need to ensure that kinetic energy on landing is absorbed.",
+        "Training aircraft need to be supported at a convenient height."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-108",
+      "sourceNumber": 108,
+      "question": "The purpose of fins around the cylinder of a reciprocating air-cooled aircraft engine is a.",
+      "answers": [
+        "Better cylinder cooling.",
+        "Cylinder augmentation.",
+        "Lower engine aerodynamic drag.",
+        "Lower engine mass."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-109",
+      "sourceNumber": 109,
+      "question": "The purpose of the compass deviation card fixed next to an aircraft's magnetic compass is to:",
+      "answers": [
+        "Indicate the discrepancy between the heading shown on the compass and the actual magnetic heading.",
+        "Compensate for the influence of magnetic material carried on the person of the pilot and/or passengers.",
+        "Indicate the discrepancy between the aircraft's track and magnetic north.",
+        "Indicate the discrepancy between the aircraft's track and true north."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-110",
+      "sourceNumber": 110,
+      "question": "The red line on an airspeed indicator of a sport aircraft represents the.",
+      "answers": [
+        "speed which must not be exceeded any time.",
+        "maximum speed for abrupt controls movement.",
+        "speed which could be exceeded in calm air only.",
+        "speed which could be exceeded with the wing flaps raised and the landing gear retracted."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-111",
+      "sourceNumber": 111,
+      "question": "The significance of using the chemically correct mixture of air and fuel is that:",
+      "answers": [
+        "It allows complete combustion to occur.",
+        "It is the one usually used.",
+        "It is 15:1 by volume.",
+        "It gives the best results."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 13,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-112",
+      "sourceNumber": 112,
+      "question": "The temperature of the gases within the cylinder of a four stroke engine during the power stroke will:",
+      "answers": [
+        "Increase.",
+        "Decrease.",
+        "Follow Charles's Law.",
+        "Remain constant."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-113",
+      "sourceNumber": 113,
+      "question": "The type of gas which is stored in the activating cylinder of a life jacket:",
+      "answers": [
+        "Is Carbon Dioxide.",
+        "Is extremely toxic and great care should be taken, when topping up the lifejacket, not to breathe any of it in.",
+        "Is highly inflammable.",
+        "Is Carbon Monoxide."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-114",
+      "sourceNumber": 114,
+      "question": "Theoretically, a 100 amp/hr battery will supply 25 amps for:",
+      "answers": [
+        "4 hours.",
+        "25 minutes.",
+        "100 minutes.",
+        "25 hours."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-115",
+      "sourceNumber": 115,
+      "question": "To assist in reducing the temperature of the engine:",
+      "answers": [
+        "The air/fuel mixture can be richened.",
+        "The airspeed can be reduced.",
+        "The cowl flaps can be closed.",
+        "The air/fuel mixture can be weakened."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-116",
+      "sourceNumber": 116,
+      "question": "What is the function of a shimmy dumper on an aircraft undercarriage?",
+      "answers": [
+        "To prevent nose wheel vibrations.",
+        "To dumpen bouncing.",
+        "To decrease main leg piston travel.",
+        "To decrease shocks on direction pedals."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-117",
+      "sourceNumber": 117,
+      "question": "What is the purpose of an auxiliary fuel boost pump installed in some light aircraft?",
+      "answers": [
+        "Providing fuel to the carburettor during start-up and supplying fuel if the engine driven fuel pump fails.",
+        "Faster emptying of fuel tanks.",
+        "Pre-injection of fuel into engine cylinders.",
+        "Increasing engine efficiency."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-118",
+      "sourceNumber": 118,
+      "question": "What part in a reciprocating four-stroke engine operates the piston valves?",
+      "answers": [
+        "The camshaft.",
+        "The piston rod.",
+        "The piston bolt.",
+        "The diffusor valve."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-119",
+      "sourceNumber": 119,
+      "question": "What part(s) of a reciprocating aircraft engine seal(s) the combustion chamber?",
+      "answers": [
+        "The cylinder rings and valves.",
+        "The cylinder gasket.",
+        "The spark plugs.",
+        "The camshaft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-120",
+      "sourceNumber": 120,
+      "question": "What will be the consequence for the validity of an aircraft's Certificate of Airworthiness (C of if the aircraft is not maintained in accordance with the approved maintenance schedule detailed in the C of A?",
+      "answers": [
+        "The C of A will be rendered invalid until such time as the required maintenance is completed.",
+        "The aircraft owner must apply to the CAA for an exemption from the required maintenance schedule.",
+        "The C of A must be renewed before the aircraft may fly.",
+        "The validity of the C of A will not be affected."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-121",
+      "sourceNumber": 121,
+      "question": "What would be the indication of an aircraft altimeter if the pilot fails to set QNH during descent, and therefore lives the instrument set to the standard pressure?",
+      "answers": [
+        "The airport heigh above the pressure plane 1013.2 hPa.",
+        "Zero.",
+        "The airport elevation.",
+        "The indication is not usable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 14,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-122",
+      "sourceNumber": 122,
+      "question": "What would be the most likely cause of fluctuating oil pressure in an aircraft engine?",
+      "answers": [
+        "Low oil level.",
+        "Worn or loose bearing.",
+        "Loose prop seal.",
+        "Faulty oil pressure indicator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-123",
+      "sourceNumber": 123,
+      "question": "What would be the result of a single magneto failure on an aircraft in cruise flight?",
+      "answers": [
+        "A slight drop in RPM, plus a slight increase in fuel consumption.",
+        "The engine would be difficult to control.",
+        "The engine would backfire excessively.",
+        "Black smoke would be observed from the exhaust."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-124",
+      "sourceNumber": 124,
+      "question": "When a compass swing is being carried out:",
+      "answers": [
+        "The aircraft's heading compass reading is compared with readings from a 'land or datum' compass.",
+        "It can be carried out on any part of the airfield which is dry and flat.",
+        "It will enable the aircraft's variation to be determined."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-125",
+      "sourceNumber": 125,
+      "question": "When an aircraft is in flight, the pressure sensed by the forward facing hole in the pitot tube is:",
+      "answers": [
+        "Dynamic pressure plus static pressure.",
+        "Static pressure only.",
+        "Total pressure plus dynamic pressure.",
+        "Dynamic pressure only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-126",
+      "sourceNumber": 126,
+      "question": "When referring to the magnetic compass, piiots must bear in mind that:",
+      "answers": [
+        "Turning errors are maximum when turning through North and South, and minimum when turning through East and West.",
+        "Turning errors are maximum when turning through East and West, and minimum when turning through North and South.",
+        "Turning errors increase, the nearer the aircraft is to the Magnetic Equator, and diminish as the aircraft approaches the Magnetic Poles.",
+        "Acceleration errors increase the nearer the aircraft is to the Magnetic Poles, and diminish as the aircraft approaches the Magnetic Equator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-127",
+      "sourceNumber": 127,
+      "question": "When set to QFE pressure, an altimeter will indicate the.",
+      "answers": [
+        "height above the airfield.",
+        "altitude above sea level.",
+        "true altitude above ground surface.",
+        "flight level."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-128",
+      "sourceNumber": 128,
+      "question": "When the engine is stopped, the main source of electrical power is the.",
+      "answers": [
+        "Battery.",
+        "Magneto.",
+        "Generator or alternator.",
+        "Circuit breaker."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-129",
+      "sourceNumber": 129,
+      "question": "To which source of electrical power is the starter of an aircraft engine connected to?",
+      "answers": [
+        "Directly to the battery.",
+        "To the external source of electrical power only.",
+        "To the alternator or generator.",
+        "Depends on the type of aircraft."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-130",
+      "sourceNumber": 130,
+      "question": "To work at its highest efficiency, the engine:",
+      "answers": [
+        "Needs to be at the highest temperature consistent with safe operation.",
+        "Oil system must constantly be supplied with hot oil.",
+        "Must be used at high altitude to take advantage of the cooling effect of the atmosphere.",
+        "Needs to be at the lowest temperature consistent with safe operation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-131",
+      "sourceNumber": 131,
+      "question": "Tyre creep may be identified by:",
+      "answers": [
+        "Alignment marks painted on the tyre sidewall and wheel flange.",
+        "Two yellow diametrically opposed arrows painted on the tyre sidewalls.",
+        "A tyre pressure check.",
+        "Two white blocks painted on the wheel flange."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-132",
+      "sourceNumber": 132,
+      "question": "Tyre creep:",
+      "answers": [
+        "Can be recognised by the misalignment of markings painted on the tyre and the wheel.",
+        "Can be prevented by painting lines on the tyre and wheel.",
+        "Refers to the movement of an aircraft against the brakes.",
+        "Can be prevented with glue."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 15,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-133",
+      "sourceNumber": 133,
+      "question": "What causes the true airspeed of an airplane to differ from its indicated airspeed?",
+      "answers": [
+        "The forward wind component.",
+        "Pitot error caused by flow losses in the pitot tube.",
+        "Yaw error caused by the yawing movement in cruise flight.",
+        "Variations in temperature and air density."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-134",
+      "sourceNumber": 134,
+      "question": "What change occurs in the fuel/air mixture when carburettor heat is applied?",
+      "answers": [
+        "The fuel/air mixture becomes richer.",
+        "A decrease in RPM results from the lean mixture.",
+        "The fuel/air mixture becomes leaner."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-135",
+      "sourceNumber": 135,
+      "question": "What does the green color band on the airspeed indicator of an aircraft indicate?",
+      "answers": [
+        "Normal operating speed range.",
+        "Dangerous area.",
+        "The landing gear and flaps operating speed range.",
+        "Maximum allowed speed."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-136",
+      "sourceNumber": 136,
+      "question": "What does the red line on an aviation instrument generally represent?",
+      "answers": [
+        "Maximal or minimal allowed value.",
+        "Dangerous area.",
+        "Landing gear operating speed range.",
+        "Normal operating range."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-137",
+      "sourceNumber": 137,
+      "question": "What height does the altimeter indicate if set to local QNH?",
+      "answers": [
+        "Height above sea level.",
+        "Height above airport.",
+        "Height above terrain.",
+        "Flight level."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-138",
+      "sourceNumber": 138,
+      "question": "Which altitudes indicates an aircraft altimeter if set to standard atmospheric pressure?",
+      "answers": [
+        "Flight levels.",
+        "Absolute altitudes.",
+        "Relative altitudes.",
+        "True altitudes above the ground surface."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-139",
+      "sourceNumber": 139,
+      "question": "Which instrument(s) is (are) connected to the total pressure?",
+      "answers": [
+        "Airspeed indicator only.",
+        "Airspeed indicator, classic rate-of-climb indicator, and altimeter.",
+        "Classic vertical speed indicator and altimeter.",
+        "Classic vertical speed indicator only."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-140",
+      "sourceNumber": 140,
+      "question": "Which instruments are usually powered by a vacuum pump system? (1) Direction Indicator (2) Turn Coordinator (3) Attitude Indicator (4) Altimeter (5) Magnetic Compass.",
+      "answers": [
+        "(1) and (3).",
+        "(1) and (2).",
+        "(1), (3) and (4).",
+        "(1), (3) and (5)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-141",
+      "sourceNumber": 141,
+      "question": "Which is an important airspeed limitation that is not color coded on airspeed indicators on any one aircraft or glider?",
+      "answers": [
+        "Maneuvering speed (VA).",
+        "Maximum structural cruising speed (VMO).",
+        "Never-exceed speed (VNE).",
+        "Maximum speed with wing flaps extended (VFE)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 16,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-142",
+      "sourceNumber": 142,
+      "question": "Which of the following is an appropriate action to take if you have a carburettor fire on start-up?",
+      "answers": [
+        "Select mixture control to Idle Cut off (ICO).",
+        "Deselect carburettor heat.",
+        "Turn the starter switch to \"Off\".",
+        "AII of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-143",
+      "sourceNumber": 143,
+      "question": "Which of the following is not a component of a dry vacuum system?",
+      "answers": [
+        "A system lubrication device.",
+        "A vacuum generator.",
+        "A vacuum controller.",
+        "A filter to clean the air."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-144",
+      "sourceNumber": 144,
+      "question": "Within one \"Otto\" cycle, the valves of a four stroke piston engine will each open:",
+      "answers": [
+        "Once.",
+        "Twice.",
+        "During the power stroke.",
+        "During the induction stroke."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-145",
+      "sourceNumber": 145,
+      "question": "While carrying out the Dead Cut Check, with the right magneto selected, you notice that the engine falters, and you suspect it will stop running. What should you do?",
+      "answers": [
+        "Allow the engine to stop completely.",
+        "Quickly switch to the left magneto.",
+        "Quickly switch to both magnetos.",
+        "Open the throttle to keep the engine running, and then select both magnetos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-146",
+      "sourceNumber": 146,
+      "question": "While cruising at 9,500 feet MSL, the fuel/air mixture is properly adjusted. What will occur if a descent to 4,500 feet MSL is made without readjusting the mixture?",
+      "answers": [
+        "The fuel/air mixture may become excessively lean.",
+        "There will be more fuel in the cylinders than is needed for normal combustion, and the excess fuel will absorb heat and cool the engine.",
+        "The excessively rich mixture will create higher cylinder head temperatures and may cause detonation."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-147",
+      "sourceNumber": 147,
+      "question": "While taxying in an aircraft fitted with a fixed pitch propeller, you suspect that you have carburettor icing. The correct action to take would be to:",
+      "answers": [
+        "Select carburettor heat to fully hot. Then, before take-off, select carburettor heat cold, making sure that the engine develops the correct minimum take-off rpm.",
+        "Select carburettor heat to fully hot and leave this setting selected until you have taken off and are climbing away.",
+        "Select carburettor heat to fully hot: then select cold as the rpm drops.",
+        "Avoid the use of carburettor heat on the ground, and rely on the heat of the engine within the cowlings to melt the ice."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-148",
+      "sourceNumber": 148,
+      "question": "Why do aircraft engine ignition systems incorporate a means of spark augmentation?",
+      "answers": [
+        "Because the speed of rotation of the engine, during starting, is too low for the magneto to produce enough energy to ignite the air-fuel mixture.",
+        "Because, at high engine speeds, a fat spark is needed to extract maximum power from the air-fuel mixture.",
+        "In order to overcome the problem of spark-retard during starting.",
+        "AII of the above."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-149",
+      "sourceNumber": 149,
+      "question": "Why do high compression engines require fuels of a higher grade?",
+      "answers": [
+        "To avoid detonation and resulting destruction of the engine.",
+        "To develop more power.",
+        "To prevent carburettor icing at high speeds.",
+        "To avoid pre-ignition and resulting destruction of the engine."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    },
+    {
+      "id": "AIRCRAFT-GENERAL-KNOWLEDGE-150",
+      "sourceNumber": 150,
+      "question": "Which of the following will increase the angle of attack of a fixed pitch propeller blade?",
+      "answers": [
+        "Decreased TAS and increased RPM.",
+        "Increased TAS and increased RPM.",
+        "Increased TAS and decreased RPM.",
+        "Decreased TAS and decreased RPM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "",
+      "sourcePage": 17,
+      "requiresFigure": false
+    }
+  ]
+}
