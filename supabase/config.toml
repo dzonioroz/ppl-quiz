@@ -1,0 +1,5 @@
+project_id = "ppl-quiz"
+
+[functions.ai-tutor]
+# The handler verifies the JWT with Auth getUser, including publishable-key projects.
+verify_jwt = false

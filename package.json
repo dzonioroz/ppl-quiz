@@ -5,10 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "vite build",
+    "build": "npm run ai:bank:check && vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node --test tests/*.test.js tests/*.integration.mjs && vitest run",
-    "test:security": "node --test tests/security.integration.mjs"
+    "test": "npm run ai:bank:check && node --test tests/*.test.js tests/*.integration.mjs && vitest run",
+    "test:security": "node --test tests/security.integration.mjs",
+    "ai:bank": "node scripts/sync-ai-bank.mjs",
+    "ai:bank:check": "node scripts/sync-ai-bank.mjs --check"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.117.3",
@@ -16,9 +18,11 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8",
     "@testing-library/dom": "^10.4.2",
     "@testing-library/react": "^16.3.3",
     "jsdom": "^29.1.1",
+    "supabase": "^2.120.0",
     "vite": "^7.1.0",
     "vitest": "^5.0.3"
   }

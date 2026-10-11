@@ -49,3 +49,17 @@ Automated tests do not by themselves verify live email delivery, deployed redire
 ## Question data
 
 `scripts/extract.py` reproduces banks from PDFs in `upload/`. Original response order supplies `correctAnswer`; explanations remain existing placeholders. The 61 figure questions retain their missing-figure notes. No answer content or answer keys are changed by the authentication feature.
+
+## Interactive AI Tutor
+
+After submitting an answer, use **Explain with AI** for a cached PPL explanation and
+up to two contextual follow-ups per question encounter. With end-of-quiz feedback,
+the tutor appears in answer review. Existing quiz scoring and progress saving continue
+independently of AI availability.
+
+The backend uses the existing Supabase Auth/Postgres project and the `ai-tutor` Edge
+Function; only that function calls OpenAI. Apply the additive tutor migration and set
+server-only secrets before enabling it in production. See [AI Tutor setup, security,
+testing, exact deployment commands and implementation report](docs/ai-tutor.md).
+After correcting question JSON, run `npm run ai:bank` and deploy the updated Edge
+Function alongside the frontend; tests/build check that its bank is current.
