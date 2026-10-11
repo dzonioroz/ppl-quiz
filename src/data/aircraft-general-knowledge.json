@@ -69,8 +69,7 @@
       "answers": [
         "Decrease the fuel flow in order to compensate for decreased air density.",
         "Decrease the amount of fuel in the mixture in order to compensate for increased air density.",
-        "Increase the amount of fuel in the mixture to compensate for the decrease in pressure and.",
-        "Density of the air."
+        "Increase the amount of fuel in the mixture to compensate for the decrease in pressure and density of the air."
       ],
       "correctAnswer": 0,
       "explanation": "",
@@ -513,7 +512,7 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-035",
       "sourceNumber": 35,
-      "question": "An abnormally high oil temperature indication in case of a four-stroke engine may be caused by.",
+      "question": "An abnormally high oil temperature indication in case of a four-stroke engine may be caused by:",
       "answers": [
         "The oil level being too low.",
         "Operating with a too high viscosity oil.",
@@ -533,7 +532,7 @@
         "When the throttle is opened quickly and the demand for fuel cannot be met immediately.",
         "When the throttle is closed quickly and the engine is starved of fuel.",
         "When the throttle is opened quickly and the mixture becomes temporarily too rich,.",
-        "d)j When the throttle is closed and the mixture becomes temporarily too rich."
+        "When the throttle is closed and the mixture becomes temporarily too rich."
       ],
       "correctAnswer": 0,
       "explanation": "",
@@ -785,8 +784,7 @@
       "sourceNumber": 53,
       "question": "Carburettor ice has formed in the venturi of your carburettor and your aircraft starts losing power. Will the use of carburettor heat result in immediate increase in RPM?",
       "answers": [
-        "No, in a fixed-pitch propeller aircraft there will first be some rough running and a further.",
-        "Loss of RPM as the melted ice is ingested by the engine. Then RPM will increase.",
+        "No, in a fixed-pitch propeller aircraft there will first be some rough running and a further loss of RPM as the melted ice is ingested by the engine. Then RPM will increase.",
         "Yes, since the carburettor ice will melt immediately.",
         "No, since carburettor heat simply melts the ice and does not affect RPM."
       ],
@@ -873,7 +871,7 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-059",
       "sourceNumber": 59,
-      "question": "Engine compression ratio is the ratio of the.",
+      "question": "Engine compression ratio is the ratio of the:",
       "answers": [
         "Total volume to the clearance volume.",
         "Clearance volume to the swept volume.",
@@ -1049,7 +1047,7 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-071",
       "sourceNumber": 71,
-      "question": "If is best to run the engine with the mixture:",
+      "question": "It is best to run the engine with the mixture:",
       "answers": [
         "Slightly rich, as the remaining fuel helps cool the engine.",
         "Chemically correct as this is most efficient.",
@@ -1064,7 +1062,7 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-072",
       "sourceNumber": 72,
-      "question": "If is possible to get carburettor icing when the relative humidity is greater than 50% within a temperature range of:",
+      "question": "It is possible to get carburettor icing when the relative humidity is greater than 50% within a temperature range of:",
       "answers": [
         "-7 to +33°C.",
         "0°C and below.",
@@ -1124,7 +1122,7 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-076",
       "sourceNumber": 76,
-      "question": "If the power supply to the pitot heater failed during flight in icing conditions and the aircraft subsequently descended, the readings on the Altimeter, the VSI and theASI would, if ice had blocked the pitot (Total Pressure) tube:- Altimeter / VSI / AS",
+      "question": "If the power supply to the pitot heater failed during flight in icing conditions and the aircraft subsequently descended, the readings on the Altimeter, the VSI and the ASI would, if ice had blocked the pitot (Total Pressure) tube:- Altimeter / VSI / AS",
       "answers": [
         "Read Correctly / Read Correctly / Under-read.",
         "Read Correctly / Under-read / Over-read.",
@@ -1287,7 +1285,7 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-087",
       "sourceNumber": 87,
-      "question": "Itis important to ensure the priming pump is locked after use because:",
+      "question": "It is important to ensure the priming pump is locked after use because:",
       "answers": [
         "It may cause fuel to be sucked from the fuel strainer into the inlet manifold, causing an extremely rich mixture.",
         "It may cause a fuel leak, resulting in an increased fire risk.",
@@ -1868,7 +1866,7 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-126",
       "sourceNumber": 126,
-      "question": "When referring to the magnetic compass, piiots must bear in mind that:",
+      "question": "When referring to the magnetic compass, pilots must bear in mind that:",
       "answers": [
         "Turning errors are maximum when turning through North and South, and minimum when turning through East and West.",
         "Turning errors are maximum when turning through East and West, and minimum when turning through North and South.",
