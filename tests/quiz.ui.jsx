@@ -31,3 +31,15 @@ it('My Progress renders an empty state without fabricated accuracy',()=>{
  expect(screen.getByText('Overall accuracy').closest('.stat').querySelector('strong').textContent).toBe('—');
  expect(screen.getByText(/No saved quizzes yet/)).toBeTruthy();
 });
+
+it('AI explanation appears only after submission, and delayed feedback exposes it in review',()=>{
+ start();expect(screen.queryByText('Explain with AI')).toBeNull();answer();
+ expect(screen.getByText('Explain with AI')).toBeTruthy();
+ cleanup();start(1,true);answer();expect(screen.queryByText('Explain with AI')).toBeNull();
+ fireEvent.click(screen.getByRole('button',{name:/See results/}));expect(screen.getByText('Explain with AI')).toBeTruthy();
+});
+it('AI failure does not prevent quiz completion and progress saving',async()=>{
+ start();answer();fireEvent.click(screen.getByText('Explain with AI'));
+ fireEvent.click(screen.getByRole('button',{name:/See results/}));
+ expect(screen.getByText('Quiz results')).toBeTruthy();expect(cloud.save).toHaveBeenCalledTimes(1);
+});

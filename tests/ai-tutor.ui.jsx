@@ -1,0 +1,44 @@
+import React from 'react';
+import {it,expect,vi,afterEach} from 'vitest';
+import {render,screen,fireEvent,cleanup,waitFor} from '@testing-library/react';
+import AiTutor from '../src/AiTutor';
+afterEach(cleanup);
+const question={subjectId:'air-law',id:'AIR-LAW-001'};
+const explanation={status:'ok',whyCorrect:'The stored answer explanation.',whyOthersWrong:[{answer:'Other answer',reason:'Different concept.'}],examTip:'Remember the distinction.',suggestedFollowUps:['Explain more simply'],warning:null};
+it('loads on demand, suggestions count as follow-ups and disables at zero',async()=>{
+ const request=vi.fn().mockResolvedValueOnce({explanation,remaining:2,messages:[]}).mockResolvedValueOnce({remaining:1,inScope:true,messages:[{question:'Explain more simply',answer:'Simple explanation.'}]}).mockResolvedValueOnce({remaining:0,inScope:true,messages:[{question:'Explain more simply',answer:'Simple explanation.'},{question:'Why?',answer:'Because.'}]});
+ render(<AiTutor sessionId="session" question={question} request={request}/>);
+ expect(request).not.toHaveBeenCalled();
+ fireEvent.click(screen.getByText('Explain with AI'));
+ await screen.findByText('The stored answer explanation.');
+ fireEvent.click(screen.getByText('Explain more simply'));
+ await screen.findByText('1 follow-up question remaining');
+ expect(request.mock.calls[1][0].action).toBe('follow-up');
+ expect(request.mock.calls[1][0].message).toBe('Explain more simply');
+ fireEvent.change(screen.getByRole('textbox'),{target:{value:'Why?'}});
+ fireEvent.click(screen.getByText('Ask AI'));
+ await screen.findByText("You've used your 2 follow-up questions for this question.");
+ expect(screen.getByRole('textbox').disabled).toBe(true);
+ expect(screen.getByText('Ask AI').disabled).toBe(true);
+ expect(screen.getByRole('button',{name:'Explain more simply'}).disabled).toBe(true);
+});
+it('shows verification warnings without changing the question',async()=>{
+ const original=JSON.stringify(question);
+ const request=vi.fn().mockResolvedValue({explanation:{...explanation,status:'possible_question_bank_error',warning:'The stored answer may be ambiguous.'},remaining:2,messages:[]});
+ render(<AiTutor sessionId="session" question={question} request={request}/>);
+ fireEvent.click(screen.getByText('Explain with AI'));
+ await screen.findByText('The stored answer may be ambiguous.');
+ expect(JSON.stringify(question)).toBe(original);
+});
+it('displays failures, permits retry and prevents double-click requests',async()=>{
+ let reject;
+ const request=vi.fn().mockImplementationOnce(()=>new Promise((_,r)=>{reject=r;})).mockResolvedValue({explanation,remaining:2,messages:[]});
+ render(<AiTutor sessionId="session" question={question} request={request}/>);
+ fireEvent.click(screen.getByText('Explain with AI'));fireEvent.click(screen.getByText('Explain with AI'));
+ expect(request).toHaveBeenCalledTimes(1);
+ reject(Error('Temporarily unavailable'));
+ await screen.findByRole('alert');
+ await waitFor(()=>expect(screen.getByText('Explain with AI').disabled).toBe(false));
+ fireEvent.click(screen.getByText('Explain with AI'));
+ await screen.findByText('The stored answer explanation.');
+});
