@@ -52,6 +52,8 @@ test('AI tutor: real PostgreSQL migration, cache, limits, security and request l
   output=()=>({inScope:true,answer:'A concise clarification.'});
   const first=await send(body(initial.sessionId,'follow-up','Explain more simply'));
   assert.equal(first.data.remaining,1);
+  assert.equal(calls.at(-1).input.serverVerifiedSuggestion,true);
+  assert.deepEqual(calls.at(-1).schema.required,['answer']);
   assert.deepEqual(calls.at(-1).input.explanation,explanation);
   assert.equal(calls.at(-1).input.storedCorrectAnswer,question.answers[0]);
   const second=await send(body(initial.sessionId,'follow-up','Why is the other wrong?'));
@@ -72,11 +74,24 @@ test('AI tutor: real PostgreSQL migration, cache, limits, security and request l
   assert.equal(result.data.remaining,2);assert.equal(result.data.messages.length,0);
   assert.match(result.data.answer,/limited to the current PPL question/);
  });
+ await t.test('server-stored suggestions are accepted without a second scope classification',async()=>{
+  output=()=>explanation;const session=body();await send(session);
+  output=()=>({answer:'A simpler explanation of this question.'});
+  const result=await send(body(session.sessionId,'follow-up','Explain more simply'));
+  assert.equal(result.status,200);assert.equal(result.data.inScope,true);assert.equal(result.data.remaining,1);
+  assert.equal(result.data.messages[0].answer,'A simpler explanation of this question.');
+  assert.equal(calls.at(-1).input.serverVerifiedSuggestion,true);
+  output=()=>({inScope:false,answer:'No'});
+  const refused=await send(body(session.sessionId,'follow-up','Write about Rome'));
+  assert.equal(refused.data.inScope,false);assert.equal(refused.data.remaining,1);
+  assert.equal(calls.at(-1).input.serverVerifiedSuggestion,false);
+  assert.deepEqual(calls.at(-1).schema.required,['inScope','answer']);
+ });
  await t.test('answer corrections and prompt version invalidate cache',async()=>{
   output=()=>explanation;const old=await questionHash(question,'1');question.correctAnswer=1;
   assert.notEqual(await questionHash(question,'1'),old);
   let before=calls.length;assert.equal((await send(body())).data.cached,false);assert.equal(calls.length,before+1);
-  before=calls.length;assert.equal((await send(body(),'a',makeHandler({version:'2'}))).data.cached,false);assert.equal(calls.length,before+1);
+  before=calls.length;assert.equal((await send(body(),'a',makeHandler({version:'next-version'}))).data.cached,false);assert.equal(calls.length,before+1);
   question.correctAnswer=0;
  });
  await t.test('missing figures produce warning without generation',async()=>{

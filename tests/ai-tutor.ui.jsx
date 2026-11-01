@@ -42,3 +42,22 @@ it('displays failures, permits retry and prevents double-click requests',async()
  fireEvent.click(screen.getByText('Explain with AI'));
  await screen.findByText('The stored answer explanation.');
 });
+
+it('shows a suggested follow-up refusal prominently without consuming allowance and clears it on retry',async()=>{
+ const refusal='This tutor session is limited to the current PPL question and the aviation concepts needed to understand it.';
+ const request=vi.fn().mockResolvedValueOnce({explanation,remaining:2,messages:[]})
+  .mockResolvedValueOnce({answer:refusal,inScope:false,messages:[],remaining:2})
+  .mockResolvedValueOnce({inScope:true,remaining:1,messages:[{question:'Explain more simply',answer:'A simpler explanation.'}]});
+ render(<AiTutor sessionId="session" question={question} request={request}/>);
+ fireEvent.click(screen.getByText('Explain with AI'));
+ await screen.findByText('The stored answer explanation.');
+ fireEvent.click(screen.getByRole('button',{name:'Explain more simply'}));
+ const alert=await screen.findByRole('alert');
+ expect(alert.textContent).toContain(refusal);
+ expect(alert.textContent).toContain('did not use a follow-up');
+ expect(screen.getByLabelText('2 of 2 follow-ups available')).toBeTruthy();
+ expect(screen.getByRole('button',{name:'Explain more simply'}).disabled).toBe(false);
+ fireEvent.click(screen.getByRole('button',{name:'Explain more simply'}));
+ await screen.findByText('A simpler explanation.');
+ expect(screen.queryByRole('alert')).toBeNull();
+});
