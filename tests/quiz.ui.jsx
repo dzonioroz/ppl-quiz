@@ -43,3 +43,42 @@ it('AI failure does not prevent quiz completion and progress saving',async()=>{
  fireEvent.click(screen.getByRole('button',{name:/See results/}));
  expect(screen.getByText('Quiz results')).toBeTruthy();expect(cloud.save).toHaveBeenCalledTimes(1);
 });
+
+it('learning mode reveals without submitting, resets each question, and saves selected answers',()=>{
+ render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);
+ fireEvent.click(screen.getByLabelText('Enable learning mode'));
+ fireEvent.click(screen.getByLabelText('At the end'));
+ fireEvent.change(screen.getByRole('spinbutton'),{target:{value:'2'}});
+ fireEvent.click(screen.getByRole('button',{name:/Start quiz →/}));
+ expect(document.querySelector('.answer.right')).toBeNull();
+ fireEvent.click(screen.getByRole('button',{name:'Show answer'}));
+ const correct=document.querySelector('.answer.right');
+ expect(correct.textContent).toContain('Correct answer');
+ expect(correct.disabled).toBe(false);
+ expect(screen.getByRole('button',{name:'Submit'}).disabled).toBe(true);
+ expect(screen.getByRole('button',{name:/Next →/}).disabled).toBe(true);
+ expect(cloud.save).not.toHaveBeenCalled();
+ fireEvent.click(document.querySelector('.answer:not(.right)'));
+ expect(correct.classList.contains('right')).toBe(true);
+ fireEvent.click(screen.getByRole('button',{name:'Submit'}));
+ fireEvent.click(screen.getByRole('button',{name:/Next →/}));
+ expect(document.querySelector('.answer.right')).toBeNull();
+ expect(screen.getByRole('button',{name:'Show answer'}).disabled).toBe(false);
+ fireEvent.click(screen.getByRole('button',{name:'Show answer'}));
+ fireEvent.click(document.querySelector('.answer.right'));
+ fireEvent.click(screen.getByRole('button',{name:'Submit'}));
+ fireEvent.click(screen.getByRole('button',{name:/See results/}));
+ expect(cloud.save).toHaveBeenCalledTimes(1);
+ const payload=cloud.save.mock.calls[0][0];
+ expect(payload.total_questions).toBe(2);
+ expect(payload.correct_answers).toBe(1);
+ expect(payload.attempts.map(a=>a.is_correct)).toEqual([false,true]);
+});
+
+it('learning mode is opt-in and its preference persists for the account',()=>{
+ start();expect(screen.queryByRole('button',{name:'Show answer'})).toBeNull();cleanup();
+ render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);
+ fireEvent.click(screen.getByLabelText('Enable learning mode'));cleanup();
+ render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);
+ expect(screen.getByLabelText('Enable learning mode').checked).toBe(true);
+});
