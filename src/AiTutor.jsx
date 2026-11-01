@@ -29,7 +29,7 @@ export default function AiTutor({sessionId,question,request=requestTutor}) {
    if(!active.current)return;
    if(data.explanation)setExplanation(data.explanation);
    setRemaining(data.remaining);setMessages(data.messages || []);
-   if(action==='follow-up'){if(data.inScope===false)setRefusal(data.answer);else setMessage('');}
+   if(action==='follow-up'){if(data.inScope===false)setRefusal(data.answer || 'AI Tutor could not answer this follow-up. Try rephrasing it about the current question.');else setMessage('');}
   } catch(e){if(active.current){setError(e.message);if(e.remaining===0)setRemaining(0);}}
   finally{busy.current=false;if(active.current)setLoading('');}
  }
@@ -46,6 +46,7 @@ export default function AiTutor({sessionId,question,request=requestTutor}) {
   </div>}
   {loading&&<p className="tutor-loading" role="status"><span className="tutor-spinner" aria-hidden="true"/>{loading==='explanation'?'Generating explanation…':'Asking AI…'}</p>}
   {error&&<p className="tutor-error" role="alert">{error}</p>}
+  {refusal&&<div className="tutor-error" role="alert"><strong>Follow-up not answered</strong><p>{refusal}</p><p>This request did not use a follow-up. Try rephrasing it about this question.</p></div>}
   {explanation&&<>
    <div className="tutor-explanation">
     {explanation.warning&&<div className="tutor-warning" role="status"><strong>AI verification warning</strong><p>{explanation.warning}</p></div>}
@@ -56,7 +57,6 @@ export default function AiTutor({sessionId,question,request=requestTutor}) {
    <div className="tutor-follow-ups">
     <div className="tutor-follow-up-heading"><h3>Explore this question</h3><span className="tutor-count" aria-label={`${remaining} of 2 follow-ups available`}>{remaining} / 2 left</span></div>
     {!!messages.length&&<div className="tutor-conversation">{messages.map((x,i)=><div className="tutor-exchange" key={i}><div className="tutor-message tutor-message-user"><strong>You</strong><p>{x.question}</p></div><div className="tutor-message tutor-message-ai"><strong>AI Tutor</strong><p>{x.answer}</p></div></div>)}</div>}
-    {refusal&&<p className="tutor-refusal" role="status">{refusal}</p>}
     <div className="tutor-suggestions">{(explanation.suggestedFollowUps?.length?explanation.suggestedFollowUps:['Explain more simply','Why are the others wrong?','Give me a memory trick']).slice(0,3).map(prompt=><button key={prompt} disabled={disabled} onClick={()=>void send('follow-up',prompt)}>{prompt}</button>)}</div>
     <form className="tutor-compose" onSubmit={e=>{e.preventDefault();void send('follow-up',message);}}>
      <label htmlFor={`tutor-question-${question.subjectId}-${question.id}`}>Ask AI about this question</label>

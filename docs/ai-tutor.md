@@ -129,6 +129,31 @@ Supabase Auth and the function must use the same local project. Local Auth testi
 redirects can be configured in `supabase/config.toml` if testing email recovery flows.
 No production secrets belong in either frontend env files or GitHub Pages settings.
 
+## Updating an already deployed function
+
+For the suggested-follow-up fix, deploy the updated function from this checkout:
+
+```sh
+npx supabase login
+npx supabase projects list
+npx supabase functions deploy ai-tutor --project-ref YOUR_EXISTING_PROJECT_REF
+```
+
+Use the reference ID of the existing project used by the frontend. No database
+migration is needed for this fix, and existing secrets remain configured.
+If `PPL_EXPLANATION_PROMPT_VERSION` is explicitly set in Edge Function secrets,
+update it to `2` so existing explanations are regenerated with the revised prompt:
+
+```sh
+npx supabase secrets set PPL_EXPLANATION_PROMPT_VERSION=2 --project-ref YOUR_EXISTING_PROJECT_REF
+```
+
+Without that override, the function already defaults to prompt version `2`.
+Merge the frontend change into `main` to trigger the GitHub Pages deployment;
+that workflow does not deploy Supabase functions. Start a fresh quiz and check
+that a suggested follow-up produces an answer and reduces the allowance by one.
+A rejected typed question should display an alert without using an allowance.
+
 ## Production deployment to the existing Supabase project
 
 1. In the existing project's SQL editor run **only** the new migration
