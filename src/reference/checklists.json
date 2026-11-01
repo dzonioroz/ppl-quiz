@@ -1,0 +1,852 @@
+{
+  "normal": [
+    {
+      "id": "1",
+      "title": "Ramp out",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "BATTERY MASTER SWITCH",
+          "action": "ON"
+        },
+        {
+          "item": "RADIO COM/NAV",
+          "action": "ON"
+        },
+        {
+          "item": "ATIS, START UP CLEARANCE",
+          "action": "RECEIVED"
+        },
+        {
+          "item": "RADIO COM/NAV",
+          "action": "OFF"
+        },
+        {
+          "item": "BATTERY MASTER SWITCH",
+          "action": "OFF"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Before starting engine",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "PREFLIGHT INSPECTION",
+          "action": "COMPLETED"
+        },
+        {
+          "item": "PASSENGER BRIEFING",
+          "action": "COMPLETED"
+        },
+        {
+          "item": "SEATS AND SEAT BELTS",
+          "action": "ADJUSTED and CHECKED"
+        },
+        {
+          "item": "PARKING BRAKE",
+          "action": "SET"
+        },
+        {
+          "item": "CIRCUIT BREAKERS",
+          "action": "CHECK IN"
+        },
+        {
+          "item": "RADIOS & ELECTRICAL EQUIPMENT",
+          "action": "OFF"
+        },
+        {
+          "item": "FUEL SELECTOR VALVE",
+          "action": "BOTH"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Starting engine",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "MIXTURE CONTROL",
+          "action": "RICH"
+        },
+        {
+          "item": "THROTTLE CONTROL",
+          "action": "OPEN 1/8 INCH"
+        },
+        {
+          "item": "CARBURETOR HEAT",
+          "action": "COLD"
+        },
+        {
+          "item": "PRIMER",
+          "action": "AS REQUIRED"
+        },
+        {
+          "item": "MASTER SWITCH (ALT and BAT)",
+          "action": "ON"
+        },
+        {
+          "item": "BEACON LIGHT",
+          "action": "ON"
+        },
+        {
+          "item": "PROPELLER AREA",
+          "action": "CLEAR"
+        },
+        {
+          "item": "IGNITION SWITCH",
+          "action": "START"
+        },
+        {
+          "note": "WHEN ENGINE STARTS AND ACCELERATES 500 RPM"
+        },
+        {
+          "item": "IGNITION SWITCH",
+          "action": "RELEASE BOTH"
+        },
+        {
+          "item": "THROTTLE 1000 RPM",
+          "action": "SET"
+        },
+        {
+          "item": "OIL PRESSURE",
+          "action": "CHECK"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "After engine start",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "ENGINE 1000\u20131200 RPM",
+          "action": "SET"
+        },
+        {
+          "item": "NAVIGATION LIGHT",
+          "action": "ON"
+        },
+        {
+          "item": "FLAPS",
+          "action": "UP"
+        },
+        {
+          "item": "ALL INSTRUMENTS",
+          "action": "NORMAL"
+        },
+        {
+          "item": "AVIONICS MASTER SWITCH",
+          "action": "ON"
+        },
+        {
+          "item": "RADIO COM/NAV",
+          "action": "ON"
+        },
+        {
+          "item": "ATC CLEARANCE",
+          "action": "RECEIVED"
+        },
+        {
+          "item": "ALL RADIOS & NAVIGATION",
+          "action": "SET"
+        },
+        {
+          "item": "TRANSPONDER",
+          "action": "SET"
+        },
+        {
+          "item": "TAKE OFF BRIEFING",
+          "action": "COMPLETED"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Before taxi",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "GYRO COMPASS",
+          "action": "SET"
+        },
+        {
+          "item": "ALTIMETER QNH",
+          "action": "SET"
+        },
+        {
+          "item": "FLIGHT CONTROLS FREE & CORRECT",
+          "action": "CHECK"
+        },
+        {
+          "item": "TAXI CLEARANCE",
+          "action": "RECEIVED"
+        },
+        {
+          "note": "WHEN CLEARED FOR TAXI"
+        },
+        {
+          "item": "TAXI AREA",
+          "action": "CLEAR"
+        },
+        {
+          "item": "WIND DIRECTION",
+          "action": "OBSERVE"
+        },
+        {
+          "item": "PARKING BRAKE",
+          "action": "RELEASE"
+        },
+        {
+          "item": "TAXI LIGHT",
+          "action": "ON"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Taxi",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "STEERING",
+          "action": "CHECK"
+        },
+        {
+          "item": "TURN COORDINATOR",
+          "action": "CHECK"
+        },
+        {
+          "item": "GYRO COMPASS",
+          "action": "CHECK"
+        },
+        {
+          "item": "BRAKES",
+          "action": "CHECK"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Run-up",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "PARKING BRAKE",
+          "action": "SET"
+        },
+        {
+          "item": "ALL ENGINE INSTRUMENTS IN GREEN",
+          "action": "CHECK"
+        },
+        {
+          "item": "THROTTLE CONTROL 1700 RPM",
+          "action": "SET"
+        },
+        {
+          "item": "MAGNETOS",
+          "action": "CHECK"
+        },
+        {
+          "note": "Up to 125 rpm drop on either magneto; up to 50 rpm difference between magnetos"
+        },
+        {
+          "item": "CARBURETOR HEAT",
+          "action": "CHECK"
+        },
+        {
+          "item": "ENGINE INSTRUMENTS AND AMMETER",
+          "action": "CHECK"
+        },
+        {
+          "item": "SUCTION GAUGE",
+          "action": "CHECK"
+        },
+        {
+          "item": "THROTTLE CONTROL 1000 RPM",
+          "action": "SET"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Before takeoff",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "CABIN DOORS & WINDOWS",
+          "action": "CLOSED AND LOCKED"
+        },
+        {
+          "item": "SEAT BELTS & HARNESSES FASTENED",
+          "action": "CHECK"
+        },
+        {
+          "item": "FLIGHT CONTROLS",
+          "action": "FREE AND CORRECT"
+        },
+        {
+          "item": "FLIGHT INSTRUMENTS SET",
+          "action": "CHECK"
+        },
+        {
+          "item": "ENGINE INSTRUMENTS NORMAL GAUGE",
+          "action": "CHECK"
+        },
+        {
+          "item": "PRIMER LOCKED",
+          "action": "CHECK"
+        },
+        {
+          "item": "CARBURETOR HEAT COLD",
+          "action": "CHECK"
+        },
+        {
+          "item": "THROTTLE FRICTION LOCK",
+          "action": "CHECK"
+        },
+        {
+          "item": "MIXTURE CONTROL",
+          "action": "FULL RICH"
+        },
+        {
+          "item": "FLAPS",
+          "action": "AS REQUIRED"
+        },
+        {
+          "item": "ELEVATOR TRIM CONTROL",
+          "action": "SET FOR TAKE OFF"
+        },
+        {
+          "item": "FUEL SELECTOR VALVE",
+          "action": "BOTH"
+        },
+        {
+          "item": "TAKE OFF CLEARANCE",
+          "action": "RECEIVED"
+        },
+        {
+          "note": "WHEN CLEARED FOR TAKE OFF"
+        },
+        {
+          "item": "TRANSPONDER",
+          "action": "AS REQUIRED"
+        },
+        {
+          "item": "STROBE LIGHTS",
+          "action": "ON"
+        },
+        {
+          "item": "TAXI AND LANDING LIGHTS",
+          "action": "ON"
+        },
+        {
+          "item": "PARKING BRAKE",
+          "action": "RELEASE"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "After takeoff",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "FLAPS",
+          "action": "UP"
+        },
+        {
+          "item": "MIXTURE FULL RICH",
+          "action": "CHECK"
+        },
+        {
+          "item": "CLIMB POWER",
+          "action": "SET"
+        },
+        {
+          "item": "TAXI AND LANDING LIGHTS",
+          "action": "OFF"
+        },
+        {
+          "item": "ALL INSTRUMENTS AND INDICATIONS",
+          "action": "CHECK"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Cruise",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "CRUISE POWER",
+          "action": "SET"
+        },
+        {
+          "item": "MIXTURE",
+          "action": "AS REQUIRED"
+        },
+        {
+          "item": "ALL INSTRUMENTS AND INDICATIONS",
+          "action": "CHECK"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Descent",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "APPROACH BRIEFING",
+          "action": "COMPLETED"
+        },
+        {
+          "item": "MIXTURE",
+          "action": "RICH"
+        },
+        {
+          "item": "CARBURETOR HEAT",
+          "action": "ON"
+        },
+        {
+          "item": "POWER",
+          "action": "AS DESIRED"
+        },
+        {
+          "item": "FLAPS",
+          "action": "10\u00b0"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Before landing",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "SEAT BELTS & HARNESSES FASTENED",
+          "action": "CHECK"
+        },
+        {
+          "item": "MIXTURE CONTROL",
+          "action": "RICH"
+        },
+        {
+          "item": "FLAPS",
+          "action": "20\u00b0"
+        },
+        {
+          "item": "FUEL SELECTOR",
+          "action": "BOTH"
+        },
+        {
+          "item": "LANDING CLEARANCE",
+          "action": "RECEIVED"
+        },
+        {
+          "item": "TAXI & LANDING LIGHTS",
+          "action": "ON"
+        },
+        {
+          "item": "CARBURETOR HEAT",
+          "action": "OFF"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "After landing",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "CARBURETOR HEAT",
+          "action": "OFF"
+        },
+        {
+          "item": "FLAPS",
+          "action": "UP"
+        },
+        {
+          "item": "TRANSPONDER",
+          "action": "OFF"
+        },
+        {
+          "item": "LANDING & STROBE LIGHTS",
+          "action": "OFF"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Shutdown",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "PARKING BRAKE",
+          "action": "SET"
+        },
+        {
+          "item": "TAXI AND NAV LIGHT",
+          "action": "OFF"
+        },
+        {
+          "item": "RADIOS & ELECTRICAL EQUIPMENT",
+          "action": "OFF"
+        },
+        {
+          "item": "MIXTURE CONTROL",
+          "action": "IDLE CUT OFF"
+        },
+        {
+          "note": "WHEN ENGINE COMPLETELY STOPS"
+        },
+        {
+          "item": "IGNITION SWITCH",
+          "action": "OFF"
+        },
+        {
+          "item": "IGNITION SWITCH KEY",
+          "action": "PULL OUT"
+        },
+        {
+          "item": "MASTER SWITCH (ALT and BAT)",
+          "action": "OFF"
+        },
+        {
+          "item": "FUEL SELECTOR VALVE",
+          "action": "LEFT, RIGHT OR CLOSED"
+        },
+        {
+          "item": "CONTROL LOCK",
+          "action": "AS REQUIRED"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Secure",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "FLIGHT DATA",
+          "action": "LOG IN"
+        },
+        {
+          "item": "TIE DOWN",
+          "action": "AS REQUIRED"
+        },
+        {
+          "item": "CHOCKS",
+          "action": "MAIN WHEELS"
+        },
+        {
+          "item": "PARKING BRAKE",
+          "action": "RELEASE"
+        },
+        {
+          "item": "TRASH",
+          "action": "REMOVE"
+        },
+        {
+          "item": "POST FLIGHT INSPECTION",
+          "action": "COMPLETED"
+        }
+      ]
+    }
+  ],
+  "emergency": [
+    {
+      "id": "1",
+      "title": "Fire during start on ground",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "STARTER",
+          "action": "CONTINUE CRANKING"
+        },
+        {
+          "note": "IF ENGINE STARTS:"
+        },
+        {
+          "item": "POWER",
+          "action": "1700 RPM 4 MINS"
+        },
+        {
+          "item": "ENGINE",
+          "action": "SHUT DOWN"
+        },
+        {
+          "note": "IF ENGINE FAILS TO START:"
+        },
+        {
+          "item": "THROTTLE",
+          "action": "FULL OPEN"
+        },
+        {
+          "item": "MIXTURE",
+          "action": "CUTOFF"
+        },
+        {
+          "item": "CRANKING",
+          "action": "CONTINUE"
+        },
+        {
+          "note": "AFTER 3 MIN"
+        },
+        {
+          "item": "ENGINE",
+          "action": "SECURE"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Engine failure after T.O.",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "AIRSPEED",
+          "action": "65 KIAS"
+        },
+        {
+          "item": "MIXTURE",
+          "action": "CUT OFF"
+        },
+        {
+          "item": "FUEL SELECTOR",
+          "action": "OFF"
+        },
+        {
+          "item": "IGNITION",
+          "action": "OFF"
+        },
+        {
+          "item": "FLAPS",
+          "action": "AS REQUIRED"
+        },
+        {
+          "item": "MASTER",
+          "action": "OFF"
+        },
+        {
+          "item": "CABIN DOOR",
+          "action": "UNLATCHED"
+        },
+        {
+          "item": "LAND",
+          "action": "30\u00b0 LEFT OR RIGHT"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Engine failure during flight",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "AIRSPEED",
+          "action": "65 KIAS"
+        },
+        {
+          "item": "CARB HEAT",
+          "action": "ON"
+        },
+        {
+          "item": "FUEL SELECTOR",
+          "action": "BOTH"
+        },
+        {
+          "item": "MIXTURE",
+          "action": "FULL RICH"
+        },
+        {
+          "item": "IGNITION SWITCH",
+          "action": "BOTH"
+        },
+        {
+          "item": "PRIMER",
+          "action": "IN AND LOCKED"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Emergency landing without engine power",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "AIRSPEED",
+          "action": "65 KIAS"
+        },
+        {
+          "item": "MIXTURE",
+          "action": "CUTOFF"
+        },
+        {
+          "item": "FUEL SELECTOR",
+          "action": "OFF"
+        },
+        {
+          "item": "IGNITION",
+          "action": "OFF"
+        },
+        {
+          "item": "FLAPS",
+          "action": "AS REQUIRED (40\u00b0 recommended)"
+        },
+        {
+          "item": "MASTER",
+          "action": "OFF"
+        },
+        {
+          "item": "DOORS",
+          "action": "UNLATCH"
+        },
+        {
+          "item": "TOUCHDOWN SLIGHTLY",
+          "action": "TAIL LOW"
+        },
+        {
+          "item": "BRAKES",
+          "action": "APPLY HEAVILY"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Engine fire in flight",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "MIXTURE",
+          "action": "CUTOFF"
+        },
+        {
+          "item": "FUEL SELECTOR",
+          "action": "OFF"
+        },
+        {
+          "item": "MASTER",
+          "action": "OFF"
+        },
+        {
+          "item": "CABIN HEAT AND AIR",
+          "action": "OFF"
+        },
+        {
+          "item": "AIRSPEED",
+          "action": "105 KIAS+"
+        },
+        {
+          "item": "FORCED LANDING",
+          "action": "EXECUTE"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Precautionary landing with engine power",
+      "sourcePage": 1,
+      "steps": [
+        {
+          "item": "WING FLAPS",
+          "action": "20 DEGREES"
+        },
+        {
+          "item": "AIRSPEED",
+          "action": "60 KIAS"
+        },
+        {
+          "note": "Fly over the field at safe altitude to see any unforseen obstacles"
+        },
+        {
+          "item": "RADIO AND ELECTRICAL",
+          "action": "OFF"
+        },
+        {
+          "item": "WING FLAPS",
+          "action": "40 DEGREES"
+        },
+        {
+          "item": "AIRSPEED",
+          "action": "60 KIAS"
+        },
+        {
+          "item": "MASTER",
+          "action": "OFF"
+        },
+        {
+          "item": "DOORS",
+          "action": "UNLATCH"
+        },
+        {
+          "item": "IGNITION SWITCH",
+          "action": "OFF"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Electrical fire in flight",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "MASTER SWITCH",
+          "action": "OFF"
+        },
+        {
+          "item": "ALL OTHER SWITCHES",
+          "action": "OFF"
+        },
+        {
+          "item": "VENTS",
+          "action": "CLOSE"
+        },
+        {
+          "item": "FIRE EXTINGUISHER",
+          "action": "ACTIVATE"
+        },
+        {
+          "note": "If fire appears out and electrical power is necessary for continuance of flight:"
+        },
+        {
+          "item": "MASTER SWITCH",
+          "action": "ON"
+        },
+        {
+          "item": "CIRCUIT BREAKER",
+          "action": "CHECK"
+        },
+        {
+          "item": "RADIO/ELECTRICAL SWITCHES",
+          "action": "ON"
+        },
+        {
+          "item": "VENTS",
+          "action": "OPEN"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Wing fire",
+      "sourcePage": 2,
+      "steps": [
+        {
+          "item": "NAVIGATION LIGHT",
+          "action": "OFF"
+        },
+        {
+          "item": "PITOT HEAT",
+          "action": "OFF"
+        },
+        {
+          "note": "Preforme sideslip to keep the flames away from the fuel tank and land as soon as possible"
+        }
+      ]
+    }
+  ]
+}
