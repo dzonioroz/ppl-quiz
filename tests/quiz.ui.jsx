@@ -82,3 +82,14 @@ it('learning mode is opt-in and its preference persists for the account',()=>{
  render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);
  expect(screen.getByLabelText('Enable learning mode').checked).toBe(true);
 });
+
+it('Notes navigation returns to quiz setup with account settings intact',()=>{
+ render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);
+ fireEvent.change(screen.getByRole('spinbutton'),{target:{value:'7'}});
+ fireEvent.click(screen.getByRole('button',{name:'Notes',exact:true}));
+ expect(screen.getByRole('heading',{name:'Notes',exact:true})).toBeTruthy();
+ fireEvent.click(screen.getByRole('button',{name:'Lesson Notes',exact:true}));
+ expect(screen.getByText('No lesson notes yet.')).toBeTruthy();
+ fireEvent.click(screen.getByRole('button',{name:'Start Quiz',exact:true}));
+ expect(screen.getByRole('spinbutton').value).toBe('7');
+});

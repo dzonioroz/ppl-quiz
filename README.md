@@ -63,3 +63,10 @@ server-only secrets before enabling it in production. See [AI Tutor setup, secur
 testing, exact deployment commands and implementation report](docs/ai-tutor.md).
 After correcting question JSON, run `npm run ai:bank` and deploy the updated Edge
 Function alongside the frontend; tests/build check that its bank is current.
+
+## Notes library
+
+The **Notes** navigation entry contains aircraft documents, readable normal and
+emergency checklists, LYNS/LYZR charts, and a Lesson Notes empty state. PDFs use a
+lazy-loaded viewer and a best-effort device cache. See [Notes library details,
+source editions, privacy boundaries, and content updates](docs/notes.md).
