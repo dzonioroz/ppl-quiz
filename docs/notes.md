@@ -1,8 +1,17 @@
 # Notes library
 
-The authenticated app has a Notes navigation entry with Documents, Airfields, and
+The authenticated app has a Notes navigation entry with Documents, Question Papers, Airfields, and
 Lesson Notes. Lesson Notes is an empty state for a later scan/transcription workflow;
 this change does not enable personal uploads or persist private notes.
+
+## Original question papers
+
+Question Papers contains all nine supplied source PDFs from `~/Downloads/PPL`,
+unchanged, with corrected subject names for display. They live in
+`src/assets/documents/question-papers/` and use the same PDF viewer, downloads,
+and device cache as other references. Together they add approximately 1.85 MB;
+each file loads only when opened. These are shared static assets, like the
+existing references.
 
 ## Included references
 

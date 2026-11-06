@@ -550,7 +550,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 6,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-038",
@@ -760,7 +760,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 7,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-052",
@@ -983,7 +983,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 9,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-067",
@@ -1043,7 +1043,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 9,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-071",
@@ -1439,7 +1439,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 12,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-098",
@@ -1627,7 +1627,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 13,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-111",
@@ -1642,7 +1642,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-112",
@@ -1657,7 +1657,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-113",
@@ -1672,7 +1672,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-114",
@@ -1687,7 +1687,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-115",
@@ -1702,7 +1702,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-116",
@@ -1717,7 +1717,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-117",
@@ -1732,7 +1732,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-118",
@@ -1747,7 +1747,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-119",
@@ -1762,7 +1762,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-120",
@@ -1777,7 +1777,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 15,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-121",
@@ -1792,7 +1792,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 15,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-122",
@@ -1807,7 +1807,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 15,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-123",
@@ -1822,7 +1822,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 15,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-124",
@@ -1837,7 +1837,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 15,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-125",
@@ -1882,7 +1882,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 15,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-128",
@@ -1897,7 +1897,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-129",
@@ -1912,7 +1912,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-130",
@@ -1927,7 +1927,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-131",
@@ -1942,7 +1942,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-132",
@@ -1972,7 +1972,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-134",
@@ -1987,7 +1987,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-135",
@@ -2002,7 +2002,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-136",
@@ -2017,7 +2017,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-137",
@@ -2032,7 +2032,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-138",
@@ -2062,7 +2062,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-140",
@@ -2077,7 +2077,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-141",
@@ -2092,7 +2092,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-142",
@@ -2107,7 +2107,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-143",
@@ -2122,7 +2122,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "FLIGHT-PERFORMANCE-AND-PLANNING-144",
@@ -2197,7 +2197,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 18,
-      "requiresFigure": false
+      "requiresFigure": true
     }
   ]
 }

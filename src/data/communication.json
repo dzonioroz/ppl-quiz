@@ -1309,7 +1309,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 11,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "COMMUNICATION-089",
@@ -1324,7 +1324,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 11,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "COMMUNICATION-090",
@@ -1339,7 +1339,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 11,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "COMMUNICATION-091",
@@ -1637,7 +1637,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 13,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "COMMUNICATION-111",
@@ -2011,7 +2011,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "COMMUNICATION-136",
@@ -2041,7 +2041,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 16,
-      "requiresFigure": false
+      "requiresFigure": true
     }
   ]
 }

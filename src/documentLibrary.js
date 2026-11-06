@@ -18,3 +18,25 @@ export const airfields=[
   {id:'lyzr-ad',title:'Aerodrome chart',url:lyzrAd,pages:1,size:'26 KB',date:'30 October 2025',amendment:'AIRAC AMDT 5/25'},
   {id:'lyzr-visual',title:'Visual operation chart',url:lyzrVisual,pages:1,size:'174 KB',date:'30 October 2025',amendment:'AIRAC AMDT 5/25'}]}
 ];
+
+import questionPaper0 from './assets/documents/question-papers/air-law.pdf?url';
+import questionPaper1 from './assets/documents/question-papers/aircraft-general-knowledge.pdf?url';
+import questionPaper2 from './assets/documents/question-papers/communications.pdf?url';
+import questionPaper3 from './assets/documents/question-papers/flight-performance-and-planning.pdf?url';
+import questionPaper4 from './assets/documents/question-papers/human-performance.pdf?url';
+import questionPaper5 from './assets/documents/question-papers/meteorology.pdf?url';
+import questionPaper6 from './assets/documents/question-papers/navigation.pdf?url';
+import questionPaper7 from './assets/documents/question-papers/operational-procedures.pdf?url';
+import questionPaper8 from './assets/documents/question-papers/principles-of-flight.pdf?url';
+
+export const questionPapers=[
+ {id:'questions-air-law',title:'Air Law',url:questionPaper0,pages:10,size:'175 KB'},
+ {id:'questions-aircraft-general-knowledge',title:'Aircraft General Knowledge',url:questionPaper1,pages:17,size:'208 KB'},
+ {id:'questions-communications',title:'Communications',url:questionPaper2,pages:16,size:'198 KB'},
+ {id:'questions-flight-performance-and-planning',title:'Flight Performance and Planning',url:questionPaper3,pages:18,size:'207 KB'},
+ {id:'questions-human-performance',title:'Human Performance',url:questionPaper4,pages:17,size:'204 KB'},
+ {id:'questions-meteorology',title:'Meteorology',url:questionPaper5,pages:18,size:'209 KB'},
+ {id:'questions-navigation',title:'Navigation',url:questionPaper6,pages:16,size:'196 KB'},
+ {id:'questions-operational-procedures',title:'Operational Procedures',url:questionPaper7,pages:17,size:'208 KB'},
+ {id:'questions-principles-of-flight',title:'Principles of Flight',url:questionPaper8,pages:17,size:'203 KB'}
+];

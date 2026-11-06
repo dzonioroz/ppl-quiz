@@ -1,0 +1,435 @@
+{
+  "ppl-kom-1": {
+    "title": "PPL Kom-1",
+    "subjectId": "communication",
+    "questionIds": [
+      "COMMUNICATION-088",
+      "COMMUNICATION-089",
+      "COMMUNICATION-090",
+      "COMMUNICATION-110",
+      "COMMUNICATION-135",
+      "COMMUNICATION-137"
+    ],
+    "sourceUrl": "https://www.cad.gov.rs/upload/letacko/knjige/ppl/komunikacije.pdf",
+    "sourceLabel": "Serbian CAA · Communications appendix · page 23",
+    "alt": "Aerodrome circuit with lettered callouts A to G. Open the full-size figure to inspect the labels.",
+    "context": "Original PPL Kom-1 circuit diagram from the Serbian CAA Communications appendix, page 23. A points to the apron with parked aircraft. B points to the taxiway holding point before the runway. C points to the line-up position at the start of the runway. D points to the crosswind side of the circuit. E points to the downwind side, parallel to the runway and opposite the landing direction. F points to the base leg, perpendicular to the runway before the turn onto final. G points to final approach aligned with the runway before its threshold. The aircraft on the downwind side travels from right to left; final and runway travel is left to right.",
+    "asset": "ppl-kom-1.png"
+  },
+  "ppl-nav-1": {
+    "title": "PPL Nav-1",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-047",
+      "NAVIGATION-048",
+      "NAVIGATION-049"
+    ],
+    "asset": "ppl-nav-1.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 24",
+    "alt": "PPL Nav-1: original examination figure with its source labels.",
+    "note": "Historical examination chart. Source resolution is limited; open full size to read the details."
+  },
+  "ppl-nav-2": {
+    "title": "PPL Nav-2",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-004"
+    ],
+    "asset": "ppl-nav-2.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 25",
+    "alt": "PPL Nav-2: original examination figure with its source labels.",
+    "note": "Historical examination chart. Source resolution is limited; open full size to read the details."
+  },
+  "ppl-nav-3": {
+    "title": "PPL Nav-3",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-006",
+      "NAVIGATION-091",
+      "NAVIGATION-112"
+    ],
+    "asset": "ppl-nav-3.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 26",
+    "alt": "PPL Nav-3: original examination figure with its source labels.",
+    "note": "Historical examination chart. Source resolution is limited; open full size to read the details."
+  },
+  "ppl-nav-4": {
+    "title": "PPL Nav-4",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-051",
+      "NAVIGATION-054",
+      "NAVIGATION-062"
+    ],
+    "asset": "ppl-nav-4.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 27",
+    "alt": "PPL Nav-4: original examination figure with its source labels.",
+    "note": "Historical examination chart. Source resolution is limited; open full size to read the details."
+  },
+  "ppl-nav-10": {
+    "title": "PPL Nav-10",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-081",
+      "NAVIGATION-082",
+      "NAVIGATION-083",
+      "NAVIGATION-084",
+      "NAVIGATION-085",
+      "NAVIGATION-109",
+      "NAVIGATION-126",
+      "NAVIGATION-127"
+    ],
+    "asset": "ppl-nav-10.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 28",
+    "alt": "PPL Nav-10: original examination figure with its source labels."
+  },
+  "ppl-nav-11": {
+    "title": "PPL Nav-11",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-071",
+      "NAVIGATION-075",
+      "NAVIGATION-076",
+      "NAVIGATION-077",
+      "NAVIGATION-079",
+      "NAVIGATION-087",
+      "NAVIGATION-104",
+      "NAVIGATION-107",
+      "NAVIGATION-132"
+    ],
+    "asset": "ppl-nav-11.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 28",
+    "alt": "PPL Nav-11: original examination figure with its source labels."
+  },
+  "ppl-nav-12": {
+    "title": "PPL Nav-12",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-088",
+      "NAVIGATION-096",
+      "NAVIGATION-098",
+      "NAVIGATION-099",
+      "NAVIGATION-100"
+    ],
+    "asset": "ppl-nav-12.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 29",
+    "alt": "PPL Nav-12: original examination figure with its source labels."
+  },
+  "ppl-nav-13": {
+    "title": "PPL Nav-13",
+    "subjectId": "navigation",
+    "questionIds": [
+      "NAVIGATION-106",
+      "NAVIGATION-111",
+      "NAVIGATION-114",
+      "NAVIGATION-116",
+      "NAVIGATION-118",
+      "NAVIGATION-119",
+      "NAVIGATION-120",
+      "NAVIGATION-121",
+      "NAVIGATION-124"
+    ],
+    "asset": "ppl-nav-13.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/Navigacija.pdf",
+    "sourceLabel": "Serbian CAA · Navigation appendix · page 30",
+    "alt": "PPL Nav-13: original examination figure with its source labels."
+  },
+  "ppl-akg-2": {
+    "title": "PPL AKG-2",
+    "subjectId": "aircraft-general-knowledge",
+    "questionIds": [
+      "AIRCRAFT-GENERAL-KNOWLEDGE-007"
+    ],
+    "asset": "ppl-akg-2.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/poznavanje%20vazduhoplova.pdf",
+    "sourceLabel": "Serbian CAA · Aircraft General Knowledge appendix · page 24",
+    "alt": "PPL AKG-2: original examination figure with its source labels.",
+    "context": "Original PPL AKG-2 cutaway wing: A points to the front spar, B to the transverse wing ribs (called formers in this question), C to the rear spar and D to longitudinal stringers."
+  },
+  "ppl-fpp-2": {
+    "title": "PPL FPP-2",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-066",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-070"
+    ],
+    "asset": "ppl-fpp-2.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 26",
+    "alt": "PPL FPP-2: original examination figure with its source labels."
+  },
+  "ppl-fpp-7": {
+    "title": "PPL FPP-7",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-097"
+    ],
+    "asset": "ppl-fpp-7.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 26",
+    "alt": "PPL FPP-7: original examination figure with its source labels."
+  },
+  "ppl-fpp-8": {
+    "title": "PPL FPP-8",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-127"
+    ],
+    "asset": "ppl-fpp-8.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 27",
+    "alt": "PPL FPP-8: original examination figure with its source labels.",
+    "note": "Recovered Serbian-language counterpart of the referenced figure. Original labels and units are retained."
+  },
+  "ppl-fpp-9": {
+    "title": "PPL FPP-9",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-131"
+    ],
+    "asset": "ppl-fpp-9.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 27",
+    "alt": "PPL FPP-9: original examination figure with its source labels.",
+    "note": "Recovered Serbian-language counterpart of the referenced figure. Original labels and units are retained."
+  },
+  "ppl-fpp-10": {
+    "title": "PPL FPP-10",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-037",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-051"
+    ],
+    "asset": "ppl-fpp-10.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 28",
+    "alt": "PPL FPP-10: original examination figure with its source labels.",
+    "note": "Recovered Serbian-language counterpart of the referenced figure. Original labels and units are retained."
+  },
+  "ppl-fpp-13": {
+    "title": "PPL FPP-13",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-110",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-111",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-112",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-113",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-114",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-115",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-116",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-133",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-136",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-137"
+    ],
+    "asset": "ppl-fpp-13.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 28",
+    "alt": "PPL FPP-13: original examination figure with its source labels.",
+    "note": "Recovered Serbian-language counterpart of the referenced figure. Original labels and units are retained."
+  },
+  "ppl-fpp-14": {
+    "title": "PPL FPP-14",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-117",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-118",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-119",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-120",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-135"
+    ],
+    "asset": "ppl-fpp-14.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 29",
+    "alt": "PPL FPP-14: original examination figure with its source labels.",
+    "note": "Recovered Serbian-language counterpart of the referenced figure. Original labels and units are retained."
+  },
+  "ppl-pof-1": {
+    "title": "PPL PoF-1",
+    "subjectId": "principles-of-flight",
+    "questionIds": [
+      "PRINCIPLES-OF-FLIGHT-097",
+      "PRINCIPLES-OF-FLIGHT-098",
+      "PRINCIPLES-OF-FLIGHT-099",
+      "PRINCIPLES-OF-FLIGHT-100",
+      "PRINCIPLES-OF-FLIGHT-101"
+    ],
+    "asset": "ppl-pof-1.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/principi%20leta.pdf",
+    "sourceLabel": "Serbian CAA · Principles of Flight appendix · page 24",
+    "alt": "PPL PoF-1: original examination figure with its source labels.",
+    "context": "PPL PoF-1 plots bank angle in degrees on the horizontal axis (Nagib vazduhoplova) and load factor on the vertical axis (Koeficijent opterecenja). For a coordinated level turn the curve follows n=1/cos(bank): 20 degrees approximately 1.064, 50 degrees approximately 1.556, 60 degrees 2, 66 degrees approximately 2.46, 75 degrees approximately 3.86. Readings are approximate; do not describe 75 degrees as an exact permissible bank for a 3.8 limit."
+  },
+  "ppl-pof-2": {
+    "title": "PPL PoF-2",
+    "subjectId": "principles-of-flight",
+    "questionIds": [
+      "PRINCIPLES-OF-FLIGHT-096",
+      "PRINCIPLES-OF-FLIGHT-107",
+      "PRINCIPLES-OF-FLIGHT-108"
+    ],
+    "asset": "ppl-pof-2.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/principi%20leta.pdf",
+    "sourceLabel": "Serbian CAA · Principles of Flight appendix · page 24",
+    "alt": "PPL PoF-2: original examination figure with its source labels.",
+    "context": "PPL PoF-2 is a wing polar with lift coefficient Cy vertically and drag coefficient Cx horizontally. Point 3 is the leftmost portion of the polar, minimum drag. Point 4 is the tangent from the origin, best lift/drag ratio. Point 6 is the maximum lift coefficient, critical angle of attack. Other points 1, 2, 5 and 7 are retained."
+  },
+  "ppl-op-1": {
+    "title": "PPL OP-1",
+    "subjectId": "operational-procedures",
+    "questionIds": [
+      "OPERATIONAL-PROCEDURES-115",
+      "OPERATIONAL-PROCEDURES-116",
+      "OPERATIONAL-PROCEDURES-117",
+      "OPERATIONAL-PROCEDURES-119"
+    ],
+    "asset": "ppl-op-1.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/operativne%20procedure.pdf",
+    "sourceLabel": "Serbian CAA · Operational Procedures appendix · page 23",
+    "alt": "PPL OP-1: original examination figure with its source labels.",
+    "context": "PPL OP-1 airport diagram: A marks the displaced-threshold runway portion before B, usable for taxi and takeoff but not landing touchdown. B marks the landing threshold. C marks a closed runway with crosses. E is the chevron-marked overrun beyond runway end D. Do not confuse B with E: question OPERATIONAL-PROCEDURES-115 asks about A and B but its stored answer describes A and E, so flag this wording discrepancy.",
+    "questionNotes": {
+      "OPERATIONAL-PROCEDURES-115": "Source wording discrepancy: the question asks about A and B, but its stored correct answer describes A and E. The original diagram is shown unchanged."
+    }
+  },
+  "ppl-op-2": {
+    "title": "PPL OP-2",
+    "subjectId": "operational-procedures",
+    "questionIds": [
+      "OPERATIONAL-PROCEDURES-114",
+      "OPERATIONAL-PROCEDURES-118"
+    ],
+    "asset": "ppl-op-2.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/operativne%20procedure.pdf",
+    "sourceLabel": "Serbian CAA · Operational Procedures appendix · page 24",
+    "alt": "PPL OP-2: original examination figure with its source labels.",
+    "context": "PPL OP-2 depicts runways 04/22 and 18/36. Runway numbers give approximate magnetic directions in tens of degrees. Arrows before the threshold of runway 18 mark a displaced threshold, usable for taxiing and takeoff, not landing touchdown."
+  },
+  "ppl-op-3": {
+    "title": "PPL OP-3",
+    "subjectId": "operational-procedures",
+    "questionIds": [
+      "OPERATIONAL-PROCEDURES-113",
+      "OPERATIONAL-PROCEDURES-141",
+      "OPERATIONAL-PROCEDURES-142"
+    ],
+    "asset": "ppl-op-3.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/operativne%20procedure.pdf",
+    "sourceLabel": "Serbian CAA · Operational Procedures appendix · page 24",
+    "alt": "PPL OP-3: original examination figure with its source labels.",
+    "context": "PPL OP-3 has three paired-light VASI illustrations: A has red over red, below glide slope; B red over white, on glide slope; C white over white, above glide slope. These are VASI illustrations, not a four-light PAPI bar."
+  },
+  "ppl-op-4": {
+    "title": "PPL OP-4",
+    "subjectId": "operational-procedures",
+    "questionIds": [
+      "OPERATIONAL-PROCEDURES-140",
+      "OPERATIONAL-PROCEDURES-143",
+      "OPERATIONAL-PROCEDURES-144",
+      "OPERATIONAL-PROCEDURES-145",
+      "OPERATIONAL-PROCEDURES-146",
+      "OPERATIONAL-PROCEDURES-147",
+      "OPERATIONAL-PROCEDURES-148",
+      "OPERATIONAL-PROCEDURES-149",
+      "OPERATIONAL-PROCEDURES-150"
+    ],
+    "asset": "ppl-op-4.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/operativne%20procedure.pdf",
+    "sourceLabel": "Serbian CAA · Operational Procedures appendix · page 25",
+    "alt": "PPL OP-4: original examination figure with its source labels.",
+    "context": "PPL OP-4 is reproduced in monochrome in the source. A is a square with diagonal cross (the red panel/yellow cross described in the question prohibits landing). B is a square with one diagonal (special care on approach and landing). C is the reporting office C sign. D is a plain dumbbell (land, take off and taxi on runways/taxiways). E is a dumbbell with black bars through its circular ends (land and take off on runways; other ground movement need not be confined to runways/taxiways). F is a landing T, toward its crossbar. G is an unserviceability cross. H is a double cross indicating gliding activity. I is a right-angled arrow indicating right-hand circuits.",
+    "note": "The original appendix reproduces these signals in monochrome; use the colours stated in the question."
+  },
+  "ppl-meteo-1": {
+    "title": "PPL Meteo-1",
+    "subjectId": "meteorology",
+    "questionIds": [
+      "METEOROLOGY-143"
+    ],
+    "asset": "ppl-meteo-1.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf",
+    "sourceLabel": "Serbian CAA · Meteorology appendix · page 27",
+    "alt": "PPL Meteo-1: original examination figure with its source labels.",
+    "note": "Recovered historical chart; some station labels are clipped in the source."
+  },
+  "ppl-meteo-2": {
+    "title": "PPL Meteo-2",
+    "subjectId": "meteorology",
+    "questionIds": [
+      "METEOROLOGY-144"
+    ],
+    "asset": "ppl-meteo-2.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf",
+    "sourceLabel": "Serbian CAA · Meteorology appendix · page 27",
+    "alt": "PPL Meteo-2: original examination figure with its source labels.",
+    "note": "Recovered historical chart; some station labels are clipped in the source.",
+    "questionNotes": {
+      "METEOROLOGY-144": "The older appendix chart does not clearly substantiate the stored 250°/15 kt answer at the stated position. Treat this as an unresolved chart/answer discrepancy."
+    }
+  },
+  "ppl-meteo-4": {
+    "title": "PPL Meteo-4",
+    "subjectId": "meteorology",
+    "questionIds": [
+      "METEOROLOGY-150"
+    ],
+    "asset": "ppl-meteo-4.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf",
+    "sourceLabel": "Serbian CAA · Meteorology appendix · page 28",
+    "alt": "PPL Meteo-4: original examination figure with its source labels.",
+    "context": "PPL Meteo-4 is the thunderstorm forecast-chart symbol, a stylized lightning arrow."
+  },
+  "ppl-meteo-6": {
+    "title": "PPL Meteo-6",
+    "subjectId": "meteorology",
+    "questionIds": [
+      "METEOROLOGY-116"
+    ],
+    "asset": "ppl-meteo-6.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf",
+    "sourceLabel": "Serbian CAA · Meteorology appendix · page 28",
+    "alt": "PPL Meteo-6: original examination figure with its source labels.",
+    "context": "PPL Meteo-6 is the severe-icing forecast-chart symbol: a curved cap with three vertical strokes."
+  },
+  "ppl-meteo-10": {
+    "title": "PPL Meteo-10",
+    "subjectId": "meteorology",
+    "questionIds": [
+      "METEOROLOGY-140"
+    ],
+    "asset": "ppl-meteo-10.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf",
+    "sourceLabel": "Serbian CAA · Meteorology appendix · page 28",
+    "alt": "PPL Meteo-10: original examination figure with its source labels."
+  },
+  "ppl-meteo-15": {
+    "title": "PPL Meteo-15",
+    "subjectId": "meteorology",
+    "questionIds": [
+      "METEOROLOGY-079"
+    ],
+    "asset": "ppl-meteo-15.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf",
+    "sourceLabel": "Serbian CAA · Meteorology appendix · page 28",
+    "alt": "PPL Meteo-15: original examination figure with its source labels.",
+    "context": "PPL Meteo-15 is a wind barb with its staff extending west from the station circle, one 50-knot pennant and one 10-knot full barb: wind from the west at 60 knots."
+  },
+  "ppl-meteo-5": {
+    "title": "PPL Meteo-5",
+    "subjectId": "meteorology",
+    "questionIds": [
+      "METEOROLOGY-146"
+    ],
+    "asset": "ppl-meteo-5.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf",
+    "sourceLabel": "Serbian CAA · Meteorology appendix · page 29",
+    "alt": "PPL Meteo-5: original examination figure with its source labels.",
+    "note": "Original chart is sideways in the source appendix."
+  }
+}
