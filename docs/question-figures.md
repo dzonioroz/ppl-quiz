@@ -52,7 +52,7 @@ source chart is embedded as fifteen separate image strips.
 | --- | ---: | ---: |
 | Aircraft General Knowledge | 1 | 0 |
 | Communication | 6 | 0 |
-| Flight Performance and Planning | 22 | 14 |
+| Flight Performance and Planning | 36 | 0 |
 | Meteorology | 7 | 1 |
 | Navigation | 41 | 0 |
 | Operational Procedures | 18 | 0 |
@@ -60,7 +60,7 @@ source chart is embedded as fifteen separate image strips.
 | Air Law | 0 | 0 |
 | Human Performance | 0 | 0 |
 
-There are 30 figures serving 103 questions. Air Law and Human Performance have no
+There are 33 figures serving 117 questions. Air Law and Human Performance have no
 explicit figure dependencies in the current bank and no older appendix was found.
 `question-figure-audit.json` lists exact coverage and unresolved question IDs.
 
@@ -69,7 +69,7 @@ explicit figure dependencies in the current bank and no older appendix was found
 All paths below are relative to `https://cad.gov.rs/upload/letacko/knjige/ppl/`:
 
 - Aircraft General Knowledge: `poznavanje%20vazduhoplova.pdf`, page 24 (AKG-2).
-- Flight Performance: `performanse%20leta%20i%20planiranje.pdf`, pages 26–29.
+- Flight Performance: `performanse%20leta%20i%20planiranje.pdf`, pages 26–32.
 - Meteorology: `meteorologija.pdf`, pages 27–29.
 - Navigation: `Navigacija.pdf`, pages 24–30.
 - Operational Procedures: `operativne%20procedure.pdf`, pages 23–25.
@@ -79,13 +79,13 @@ All paths below are relative to `https://cad.gov.rs/upload/letacko/knjige/ppl/`:
 
 ### Unresolved variants and source issues
 
-- FPP-15e (takeoff) and FPP-16e (landing): the older Serbian counterparts have
-  different table data or incomplete weight coverage. They have deliberately
-  not been attached to the eleven takeoff/landing questions; they would not
-  reliably support the supplied numerical answers.
-- FPP-17F/G/H: the appendix provides a generic loading graph/envelope, but none
-  of these three scenario variants or their required input data. The extracted
-  question text also lacks those data. They remain unresolved.
+- FPP-15e (takeoff) and FPP-16e (landing): the original Serbian FPP-15/16
+  tables are now attached to all eleven questions. Original source resolution,
+  labels, table values and notes are retained. Inclusion does not independently
+  verify each numerical answer or establish equivalence of all English variants.
+- FPP-17F/G/H: the original FPP-17 loading graph and envelope are now attached
+  to all three questions. The F/G/H scenario inputs remain unidentified, and
+  a visible note explains that the generic chart alone may be insufficient.
 - Meteo-14: not present in the older appendix. METEOROLOGY-148 remains unresolved.
 - Meteo-2: the historical chart is attached, but does not clearly substantiate
   METEOROLOGY-144's answer at the stated position. A per-question notice flags it.
@@ -101,3 +101,7 @@ it cannot independently verify the answer from the displayed image. A recovered
 image alone does not bypass this safeguard. Verified text contexts are currently
 provided for Kom-1, AKG-2, PoF-1/2, OP-1/2/3/4 and Meteo-4/6/15. Source context
 and availability both participate in the AI cache hash.
+
+The original Meteorology book is available at:
+https://cad.gov.rs/upload/letacko/knjige/ppl/meteorologija.pdf
+Its appendix still does not contain a figure labelled Meteo-14.
