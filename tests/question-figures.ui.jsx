@@ -30,6 +30,16 @@ it('selects the correct asset across subjects and shows source discrepancies',()
  expect(screen.getByRole('img').getAttribute('src')).toContain('ppl-op-1.png');
  expect(screen.getByText(/Source wording discrepancy/)).toBeTruthy();
  rerender(<QuestionFigure question={{subjectId:'flight-performance-and-planning',id:'FLIGHT-PERFORMANCE-AND-PLANNING-121',requiresFigure:true}}/>);
- expect(screen.queryByRole('img')).toBeNull();
- expect(screen.getByText(/not included in this library yet/)).toBeTruthy();
+ expect(screen.getByRole('img').getAttribute('src')).toContain('ppl-fpp-16.png');
+ expect(screen.queryByText(/not included in this library yet/)).toBeNull();
+});
+
+it('shows the takeoff chart and the loading chart with its scenario limitation',()=>{
+ const {rerender}=render(<QuestionFigure question={{subjectId:'flight-performance-and-planning',id:'FLIGHT-PERFORMANCE-AND-PLANNING-134',requiresFigure:true}}/>);
+ expect(screen.getByRole('img').getAttribute('src')).toContain('ppl-fpp-15.png');
+ for(const id of ['128','129','130']){
+  rerender(<QuestionFigure question={{subjectId:'flight-performance-and-planning',id:`FLIGHT-PERFORMANCE-AND-PLANNING-${id}`,requiresFigure:true}}/>);
+  expect(screen.getByRole('img').getAttribute('src')).toContain('ppl-fpp-17.png');
+  expect(screen.getByText(/scenario inputs.*have not been identified/)).toBeTruthy();
+ }
 });

@@ -17,8 +17,8 @@ test('every recovered figure has an image, source, and exact subject/question ma
    const question=bank.questions.find(q=>q.id===id);
    assert.ok(question,`Missing question: ${key}`);assert.equal(question.requiresFigure,true);
    const reference=figure.title.replace('PPL ','').split('-');
-   assert.match(question.question,new RegExp(`PPL\\s+${reference[0]}\\s*-\\s*${reference[1]}(?:e)?\\b`,'i'));
+   assert.match(question.question,new RegExp(`PPL\\s+${reference[0]}\\s*-\\s*${reference[1]}(?:e|[FGH])?\\b`,'i'));
   }
  }
- assert.equal(seen.size,103);
+ assert.equal(seen.size,117);
 });

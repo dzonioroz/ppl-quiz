@@ -431,5 +431,52 @@
     "sourceLabel": "Serbian CAA · Meteorology appendix · page 29",
     "alt": "PPL Meteo-5: original examination figure with its source labels.",
     "note": "Original chart is sideways in the source appendix."
+  },
+  "ppl-fpp-15": {
+    "title": "PPL FPP-15",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-134",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-142",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-143",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-148"
+    ],
+    "asset": "ppl-fpp-15.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 30",
+    "alt": "PPL FPP-15: original short-field takeoff performance table and correction notes.",
+    "note": "Original Serbian-language appendix chart. Open full size to inspect the table and notes."
+  },
+  "ppl-fpp-16": {
+    "title": "PPL FPP-16",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-121",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-122",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-123",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-124",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-139",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-140",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-141"
+    ],
+    "asset": "ppl-fpp-16.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 31",
+    "alt": "PPL FPP-16: original short-field landing performance table and correction notes.",
+    "note": "Original Serbian-language appendix chart. Open full size to inspect the table and notes."
+  },
+  "ppl-fpp-17": {
+    "title": "PPL FPP-17",
+    "subjectId": "flight-performance-and-planning",
+    "questionIds": [
+      "FLIGHT-PERFORMANCE-AND-PLANNING-128",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-129",
+      "FLIGHT-PERFORMANCE-AND-PLANNING-130"
+    ],
+    "asset": "ppl-fpp-17.png",
+    "sourceUrl": "https://cad.gov.rs/upload/letacko/knjige/ppl/performanse%20leta%20i%20planiranje.pdf",
+    "sourceLabel": "Serbian CAA · Flight Performance and Planning appendix · page 32",
+    "alt": "PPL FPP-17: original loading graph and centre-of-gravity moment envelope.",
+    "note": "Original loading graph and CG envelope. The F/G/H scenario inputs referenced by these questions have not been identified; the chart alone may not provide all required data."
   }
 }
