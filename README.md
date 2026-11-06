@@ -70,3 +70,21 @@ The **Notes** navigation entry contains aircraft documents, readable normal and
 emergency checklists, LYNS/LYZR charts, and a Lesson Notes empty state. PDFs use a
 lazy-loaded viewer and a best-effort device cache. See [Notes library details,
 source editions, privacy boundaries, and content updates](docs/notes.md).
+
+### Question navigation and review marks
+
+Submitted answers are locked within the active quiz. Use Previous / Next or expand
+Questions to jump to a number; drafts and answer order are preserved. All questions
+must be submitted before results can be saved. Leaving or reloading an unfinished
+quiz still discards its answers.
+
+Use **Mark for review** during a quiz or in its results, then choose **Practice
+marked questions** to create a new quiz from those questions. Marks stay in place
+until explicitly removed, regardless of answer correctness. Subject and count
+filters apply as usual. Marked practice currently appears as Regular in quiz history.
+
+Apply `supabase/migrations/202611060001_review_marks.sql` before deploying this
+version. It adds account-isolated review marks without changing existing results.
+Marks sync across devices on sign-in or **Refresh / retry sync**. Offline mark and
+unmark changes are stored per account in the browser and retried on reconnect;
+sync failures remain visible with a retry action.

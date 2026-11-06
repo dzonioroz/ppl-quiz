@@ -1,0 +1,41 @@
+import {it,expect,vi,beforeEach,afterEach} from 'vitest';
+import {renderHook,act,waitFor,cleanup} from '@testing-library/react';
+const mocks=vi.hoisted(()=>({upsert:vi.fn(),getSession:vi.fn(),range:vi.fn()}));
+vi.mock('../src/supabase',()=>({supabase:{auth:{getSession:mocks.getSession},from:()=>({upsert:mocks.upsert,select:()=>({eq:()=>({order:()=>({order:()=>({range:mocks.range})})})})})}}));
+import {useReviewMarks} from '../src/useReviewMarks';
+const key=JSON.stringify(['air-law','AIR-LAW-001']);
+beforeEach(()=>{localStorage.clear();vi.resetAllMocks();mocks.getSession.mockResolvedValue({data:{session:{user:{id:'A'}}}});mocks.upsert.mockResolvedValue({error:null});mocks.range.mockResolvedValue({data:[],error:null});});
+afterEach(cleanup);
+it('failed marks remain visible and persisted, then retry on reconnect',async()=>{
+ const {result}=renderHook(()=>useReviewMarks({id:'A'}));await waitFor(()=>expect(result.current.loading).toBe(false));
+ mocks.upsert.mockResolvedValue({error:{message:'offline'}});
+ act(()=>result.current.toggle('air-law','AIR-LAW-001'));
+ await waitFor(()=>expect(result.current.error).toContain('offline'));
+ expect(result.current.marked.has(key)).toBe(true);expect(result.current.pending).toBe(1);
+ expect(JSON.parse(localStorage.getItem('ppl-review-pending:A'))[key].marked).toBe(true);
+ mocks.upsert.mockResolvedValue({error:null});mocks.range.mockResolvedValue({data:[{subject_id:'air-law',question_id:'AIR-LAW-001',marked:true}],error:null});
+ act(()=>window.dispatchEvent(new Event('online')));
+ await waitFor(()=>expect(result.current.pending).toBe(0));expect(result.current.marked.has(key)).toBe(true);
+});
+it('an unmark during an in-flight save is retained and synchronized last',async()=>{
+ const {result}=renderHook(()=>useReviewMarks({id:'A'}));await waitFor(()=>expect(result.current.loading).toBe(false));
+ let resolve;mocks.upsert.mockImplementationOnce(()=>new Promise(r=>{resolve=r;}));
+ act(()=>result.current.toggle('air-law','AIR-LAW-001'));
+ await waitFor(()=>expect(resolve).toBeTruthy());
+ act(()=>result.current.toggle('air-law','AIR-LAW-001'));
+ expect(result.current.marked.has(key)).toBe(false);
+ await act(async()=>resolve({error:null}));
+ await waitFor(()=>expect(result.current.pending).toBe(0));
+ expect(mocks.upsert.mock.calls.map(([row])=>row.marked)).toEqual([true,false]);
+ expect(result.current.marked.has(key)).toBe(false);
+});
+it('restores pending marks and never uploads them under a different account',async()=>{
+ localStorage.setItem('ppl-review-pending:A',JSON.stringify({[key]:{subject_id:'air-law',question_id:'AIR-LAW-001',marked:true,version:'one'}}));
+ mocks.getSession.mockResolvedValue({data:{session:{user:{id:'B'}}}});
+ const {result}=renderHook(()=>useReviewMarks({id:'A'}));
+ await waitFor(()=>expect(result.current.error).toContain('original account'));
+ expect(mocks.upsert).not.toHaveBeenCalled();expect(result.current.marked.has(key)).toBe(true);
+ cleanup();const other=renderHook(()=>useReviewMarks({id:'B'}));
+ await waitFor(()=>expect(other.result.current.loading).toBe(false));
+ expect(other.result.current.marked.size).toBe(0);expect(mocks.upsert).not.toHaveBeenCalled();
+});
