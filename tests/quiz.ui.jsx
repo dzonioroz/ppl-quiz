@@ -2,10 +2,12 @@ import React from 'react';
 import {it,expect,vi,beforeEach,afterEach} from 'vitest';
 import {render,screen,fireEvent,cleanup} from '@testing-library/react';
 const cloud=vi.hoisted(()=>({sessions:[],attempts:[],pending:0,error:'',loading:false,save:vi.fn(),refresh:vi.fn(),sync:vi.fn()}));
+const marks=vi.hoisted(()=>({marked:new Set(),toggle:vi.fn(),pending:0,error:'',loading:false,sync:vi.fn()}));
+vi.mock('../src/useReviewMarks',()=>({useReviewMarks:()=>marks}));
 vi.mock('../src/useCloudProgress',()=>({useCloudProgress:()=>cloud}));
 vi.mock('../src/AuthGate',()=>({default:()=>null}));
 import {App} from '../src/main';
-beforeEach(()=>{localStorage.clear();vi.clearAllMocks();cloud.sessions=[];cloud.attempts=[];});
+beforeEach(()=>{localStorage.clear();vi.clearAllMocks();cloud.sessions=[];cloud.attempts=[];marks.marked=new Set();});
 afterEach(cleanup);
 function start(count=1,end=false){render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);fireEvent.change(screen.getByRole('spinbutton'),{target:{value:String(count)}});if(end)fireEvent.click(screen.getByLabelText('At the end'));fireEvent.click(screen.getByRole('button',{name:/Start quiz →/}));}
 function answer(){const choices=screen.getAllByRole('button').filter(b=>b.classList.contains('answer'));fireEvent.click(choices[0]);fireEvent.click(screen.getByRole('button',{name:'Submit'}));}
@@ -92,4 +94,45 @@ it('Notes navigation returns to quiz setup with account settings intact',()=>{
  expect(screen.getByText('No lesson notes yet.')).toBeTruthy();
  fireEvent.click(screen.getByRole('button',{name:'Start Quiz',exact:true}));
  expect(screen.getByRole('spinbutton').value).toBe('7');
+});
+
+it('previous questions remain locked and revisiting does not duplicate attempts',()=>{
+ start(2,true);answer();
+ const original=document.querySelector('.answer.picked').textContent;
+ fireEvent.click(screen.getByRole('button',{name:/Next →/}));
+ fireEvent.click(screen.getByRole('button',{name:/Previous/}));
+ expect(document.querySelector('.answer.picked').textContent).toBe(original);
+ expect(screen.getByRole('button',{name:'Submit'}).disabled).toBe(true);
+ expect(screen.getAllByRole('button').filter(b=>b.classList.contains('answer')).every(b=>b.disabled)).toBe(true);
+ expect(document.querySelector('.answer.right')).toBeNull();
+ fireEvent.click(screen.getByRole('button',{name:/Next →/}));answer();
+ fireEvent.click(screen.getByRole('button',{name:/Previous/}));
+ fireEvent.click(screen.getByRole('button',{name:/See results/}));
+ expect(cloud.save).toHaveBeenCalledTimes(1);
+ expect(cloud.save.mock.calls[0][0].attempts).toHaveLength(2);
+ expect(new Set(cloud.save.mock.calls[0][0].attempts.map(a=>a.subject_id+a.question_id)).size).toBe(2);
+});
+it('jumping out of order preserves drafts and requires all questions before finishing',()=>{
+ start(3);fireEvent.click(document.querySelectorAll('.answer')[1]);
+ fireEvent.click(screen.getByRole('button',{name:'Question 3, unanswered'}));answer();
+ expect(screen.queryByRole('button',{name:/See results/})).toBeNull();
+ fireEvent.click(screen.getByRole('button',{name:/Next unanswered/}));
+ expect(document.querySelectorAll('.answer')[1].getAttribute('aria-pressed')).toBe('true');
+ fireEvent.click(screen.getByRole('button',{name:'Submit'}));
+ fireEvent.click(screen.getByRole('button',{name:'Question 2, unanswered'}));answer();
+ fireEvent.click(screen.getByRole('button',{name:/See results/}));
+ expect(cloud.save.mock.calls[0][0].attempts).toHaveLength(3);
+});
+it('marked practice filters by saved question identity and allows marking from quiz and results',()=>{
+ marks.marked=new Set([JSON.stringify(['air-law','AIR-LAW-001'])]);
+ render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);
+ fireEvent.click(screen.getByRole('button',{name:'Practice marked questions'}));
+ expect(screen.getByText('1 available · quiz will use all available questions')).toBeTruthy();
+ fireEvent.click(screen.getByRole('button',{name:/Start quiz →/}));
+ expect(document.querySelector('.quiz-top').textContent).toContain('AIR-LAW-001');
+ fireEvent.click(screen.getByRole('button',{name:'★ Marked for review'}));
+ expect(marks.toggle).toHaveBeenCalledWith('air-law','AIR-LAW-001');
+ answer();fireEvent.click(screen.getByRole('button',{name:/See results/}));
+ fireEvent.click(screen.getByRole('button',{name:'★ Marked for review'}));
+ expect(marks.toggle).toHaveBeenCalledTimes(2);
 });
