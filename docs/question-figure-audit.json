@@ -1,0 +1,132 @@
+{
+  "retrieved": "2026-11-06",
+  "figureCount": 30,
+  "coveredQuestions": 103,
+  "subjects": [
+    {
+      "subjectId": "air-law",
+      "subject": "Air Law",
+      "figureQuestions": 0,
+      "covered": 0,
+      "unresolved": []
+    },
+    {
+      "subjectId": "aircraft-general-knowledge",
+      "subject": "Aircraft General Knowledge",
+      "figureQuestions": 1,
+      "covered": 1,
+      "unresolved": []
+    },
+    {
+      "subjectId": "communication",
+      "subject": "Communication",
+      "figureQuestions": 6,
+      "covered": 6,
+      "unresolved": []
+    },
+    {
+      "subjectId": "flight-performance-and-planning",
+      "subject": "Flight Performance and Planning",
+      "figureQuestions": 36,
+      "covered": 22,
+      "unresolved": [
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-121",
+          "question": "Determine the total distance required to land. (See fig. PPL FPP-16e) pressure altitude - 1,000 ft temperature - 30\u00b0C mass - 2300 lb wind - head 9 kt surface - tarmac."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-122",
+          "question": "Determine the ground roll distance after landing. (See fig. PPL FPP-16e) pressure altitude - 3,000 ft temperature - 20\u00b0C mass - 2200 lb wind - calm surface - grass, dry."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-123",
+          "question": "Determine the ground roll distance after landing. (See fig. PPL FPP-16e) pressure altitude - 0 ft temperature - 15\u00b0C mass - 2300 lb wind - calm surface - tarmac."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-124",
+          "question": "Determine the total distance over a 50-foot obstacle required to land. (See fig. PPL FPP-16e) pressure altitude - 0 ft temperature - 0\u00b0C mass - 2300 lb wind - head 18 kt surface - grass, dry."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-128",
+          "question": "What is the maximum amount of baggage that may be loaded aboard the normal category airplane for CG to remain inside proper limits? (See fig. PPL FPP-17H)"
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-129",
+          "question": "Determine the moment with the following data: (See fig. PPL FPP-17G)"
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-130",
+          "question": "What is the maximum amount of fuel that may be aboard the airplane on takeoff if loaded as follows? (See fig. PPL FPP-17F)"
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-134",
+          "question": "Determine the takeoff distance over a 50-foot obstacle under the following conditions: (See fig. PPL FPP-15e) pressure altitude - 0 ft temperature - standard mass - 1900 lb wind - calm surface - grass, dry."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-139",
+          "question": "Determine the ground roll distance after landing. (See fig. PPL FPP-16e) pressure altitude - 0 ft temperature - 10\u00b0C mass - 2300 lb wind - head 10 kt surface - grass, dry."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-140",
+          "question": "Determine the total distance over a 50-foot obstacle required to land. (See fig. PPL FPP-16e) pressure altitude - 1,500 ft temperature - 30\u00b0C mass - 2300 lb wind - calm surface - tarmac."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-141",
+          "question": "Determine the total distance over a 50-foot obstacle required to land. (See fig. PPL FPP-16e) pressure altitude - 1,000 ft temperature - 10\u00b0C mass - 2300 lb wind - tail 10 kt surface -tarmac."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-142",
+          "question": "Determine the ground roll distance required for takeoff! (See fig. PPL FPP-15e) pressure altitude - 2,000 ft temperature - 40\u00b0C mass - 2100 lb wind - tail 4 kt surface - tarmac."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-143",
+          "question": "Determine the takeoff distance over a 50-foot obstacle under the following conditions: (See fig. PPL FPP-15e) pressure altitude - 2,000 ft temperature - 30\u00b0C mass - 2100 lb wind - head 18 kt surface - grass, dry."
+        },
+        {
+          "id": "FLIGHT-PERFORMANCE-AND-PLANNING-148",
+          "question": "Determine the takeoff distance over a 50-foot obstacle under the following conditions: (See fig. PPL FPP-15e) pressure altitude - 4,000 ft temperature - 15\u00b0C mass - 2300 lb wind - calm surface - asphalt."
+        }
+      ]
+    },
+    {
+      "subjectId": "human-performance",
+      "subject": "Human Performance",
+      "figureQuestions": 0,
+      "covered": 0,
+      "unresolved": []
+    },
+    {
+      "subjectId": "meteorology",
+      "subject": "Meteorology",
+      "figureQuestions": 8,
+      "covered": 7,
+      "unresolved": [
+        {
+          "id": "METEOROLOGY-148",
+          "question": "Referring to the low-level significant weather chart in the diagram, we see a pressure system at 50 degrees North, 1 degree East, indicated by an \"L\", accompanied by an arrow and the figures \"20\" and \"\"988\". What does this denote? (See Fig. PPL Meteo-14)."
+        }
+      ]
+    },
+    {
+      "subjectId": "navigation",
+      "subject": "Navigation",
+      "figureQuestions": 41,
+      "covered": 41,
+      "unresolved": []
+    },
+    {
+      "subjectId": "operational-procedures",
+      "subject": "Operational Procedures",
+      "figureQuestions": 18,
+      "covered": 18,
+      "unresolved": []
+    },
+    {
+      "subjectId": "principles-of-flight",
+      "subject": "Principles of Flight",
+      "figureQuestions": 8,
+      "covered": 8,
+      "unresolved": []
+    }
+  ]
+}

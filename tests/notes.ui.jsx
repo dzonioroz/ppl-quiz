@@ -2,6 +2,7 @@ import React from 'react';
 import {it,expect,vi,afterEach} from 'vitest';
 import {render,screen,fireEvent,cleanup,within} from '@testing-library/react';
 import Notes from '../src/Notes';
+import {questionPapers} from '../src/documentLibrary';
 vi.mock('../src/PdfViewer',()=>({default:({document,initialPage})=><div role="region" aria-label="PDF preview">{document.title} · page {initialPage}</div>}));
 afterEach(cleanup);
 it('opens normal procedures and the matching original source page',async()=>{
@@ -40,4 +41,19 @@ it('shows each airfield chart edition and an honest lesson notes empty state',as
  fireEvent.click(screen.getByRole('button',{name:'Lesson Notes'}));
  expect(screen.getByText('No lesson notes yet.')).toBeTruthy();
  expect(screen.queryByRole('region',{name:'PDF preview'})).toBeNull();
+});
+
+it('opens every original question paper and returns to the subject list',async()=>{
+ render(<Notes/>);
+ fireEvent.click(screen.getByRole('button',{name:'Question Papers'}));
+ expect(screen.getAllByRole('article')).toHaveLength(9);
+ for(const paper of questionPapers){
+  const card=screen.getAllByRole('article').find(card=>within(card).queryByRole('heading',{name:paper.title}));
+  expect(card.textContent).toContain(`${paper.pages} pages`);
+  fireEvent.click(within(card).getByRole('button',{name:/Read document/}));
+  expect((await screen.findByRole('region',{name:'PDF preview'})).textContent).toBe(`${paper.title} · page 1`);
+  fireEvent.click(screen.getByRole('button',{name:'← Back to question papers'}));
+ }
+ fireEvent.click(screen.getByRole('button',{name:'Documents'}));
+ expect(screen.getByRole('heading',{name:'Pilot’s Operating Handbook'})).toBeTruthy();
 });

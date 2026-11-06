@@ -136,3 +136,18 @@ it('marked practice filters by saved question identity and allows marking from q
  fireEvent.click(screen.getByRole('button',{name:'★ Marked for review'}));
  expect(marks.toggle).toHaveBeenCalledTimes(2);
 });
+
+it('shows the original circuit figure during a question and answer review',()=>{
+ marks.marked=new Set([JSON.stringify(['communication','COMMUNICATION-089'])]);
+ render(<App user={{id:'A',email:'a@example.test'}} onSignOut={vi.fn()}/>);
+ fireEvent.click(screen.getByRole('button',{name:'Practice marked questions'}));
+ fireEvent.click(screen.getByRole('button',{name:/Start quiz →/}));
+ const image=screen.getByRole('img',{name:/Aerodrome circuit/});
+ expect(image.getAttribute('src')).toContain('ppl-kom-1.png');
+ expect(screen.getByRole('link',{name:'Open PPL Kom-1 at full size'})).toBeTruthy();
+ expect(screen.queryByText(/not included in this library yet/)).toBeNull();
+ expect(document.querySelector('.answer.right')).toBeNull();
+ answer();fireEvent.click(screen.getByRole('button',{name:/See results/}));
+ expect(screen.getByRole('img',{name:/Aerodrome circuit/})).toBeTruthy();
+ expect(screen.queryByText(/Figure referenced but unavailable/)).toBeNull();
+});

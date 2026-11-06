@@ -98,6 +98,28 @@ test('AI tutor: real PostgreSQL migration, cache, limits, security and request l
   question.requiresFigure=true;const before=calls.length;
   const result=await send(body());assert.equal(result.data.explanation.status,'missing_figure');assert.match(result.data.explanation.warning,/cannot be independently verified/);assert.equal(calls.length,before);question.requiresFigure=false;
  });
+ await t.test('displayed charts without verified text remain unavailable to AI interpretation',async()=>{
+  question.requiresFigure=true;question.figureAvailable=true;
+  const before=calls.length;
+  try{
+   const result=await send(body());
+   assert.equal(result.data.explanation.status,'missing_figure');
+   assert.match(result.data.explanation.warning,/displayed in the quiz/);
+   assert.equal(calls.length,before);
+  }finally{delete question.figureAvailable;question.requiresFigure=false;}
+ });
+ await t.test('recovered figure context reaches the tutor and invalidates missing-figure cache',async()=>{
+  question.requiresFigure=true;
+  const missingHash=await questionHash(question,'1');
+  question.figureContext='Verified circuit diagram: F marks base leg, G marks final approach.';
+  assert.notEqual(await questionHash(question,'1'),missingHash);
+  const before=calls.length;
+  try{
+   const result=await send(body());
+   assert.equal(result.data.explanation.status,'ok');assert.equal(calls.length,before+1);
+   assert.equal(calls.at(-1).input.figureContext,question.figureContext);
+  }finally{delete question.figureContext;question.requiresFigure=false;}
+ });
  await t.test('question-bank disagreements are cached without modifying bank',async()=>{
   const original=JSON.stringify(question);output=()=>({...explanation,status:'possible_question_bank_error',warning:'The stored answer may be questionable.'});
   const result=await send(body(),'a',makeHandler({version:'warning'}));

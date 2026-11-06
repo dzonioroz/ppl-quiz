@@ -1,5 +1,6 @@
 import {readFile,writeFile} from 'node:fs/promises';
 const subjects=['air-law','aircraft-general-knowledge','communication','flight-performance-and-planning','human-performance','meteorology','navigation','operational-procedures','principles-of-flight'];
+const figures=JSON.parse(await readFile(new URL('../src/reference/question-figures.json',import.meta.url),'utf8'));
 const questions={};
 for(const subjectId of subjects){
  const bank=JSON.parse(await readFile(new URL(`../src/data/${subjectId}.json`,import.meta.url),'utf8'));
@@ -7,7 +8,8 @@ for(const subjectId of subjects){
   const key=JSON.stringify([subjectId,q.id]);
   if(questions[key])throw Error(`Duplicate question ${key}`);
   if(!Number.isInteger(q.correctAnswer)||!q.answers[q.correctAnswer])throw Error(`Invalid answer ${key}`);
-  questions[key]={subjectId,subject:bank.subject,id:q.id,question:q.question,answers:q.answers,correctAnswer:q.correctAnswer,requiresFigure:!!q.requiresFigure};
+  const figure=Object.values(figures).find(f=>f.subjectId===subjectId&&f.questionIds.includes(q.id));
+  questions[key]={subjectId,subject:bank.subject,id:q.id,question:q.question,answers:q.answers,correctAnswer:q.correctAnswer,requiresFigure:!!q.requiresFigure,...(figure?{figureAvailable:true,...(figure.context?{figureContext:figure.context}:{})}:{})};
  }
 }
 const output=JSON.stringify(questions)+'\n';

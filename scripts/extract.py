@@ -3,7 +3,7 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 FILES={'Air law.pdf':'Air Law','Aircraft  general knowledge.pdf':'Aircraft General Knowledge','Comunication.pdf':'Communication','Flight performance and planning.pdf':'Flight Performance and Planning','Human performance.pdf':'Human Performance','Metheorology.pdf':'Meteorology','Navigation.pdf':'Navigation','Operational procedures.pdf':'Operational Procedures','Principles of flight.pdf':'Principles of Flight'}
 num=re.compile(r'^(\d+)\.\s+(.*)')
 opt=re.compile(r'^([a-d])\.\s*(.*)')
-figure=re.compile(r'\b(?:see|shown in|according to|attached|refer to|using|from|in)\s+(?:the\s+)?(?:figure|diagram|chart|map|graph|table|picture)\b|\bfigure\s+PPL\b',re.I)
+figure=re.compile(r'\b(?:see|shown in|according to|attached|refer to|using|from|in)\s+(?:the\s+)?(?:fig\.?|figure|diagram|chart|map|graph|table|picture)\b|\bfigure\s+PPL\b',re.I)
 report=[]
 for filename,subject in FILES.items():
  doc=fitz.open(ROOT/'upload'/filename); rows=[]; cur=None; part=None

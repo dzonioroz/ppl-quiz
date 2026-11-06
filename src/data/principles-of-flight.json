@@ -1440,7 +1440,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 12,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-097",
@@ -1455,7 +1455,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 12,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-098",
@@ -1470,7 +1470,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 12,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-099",
@@ -1485,7 +1485,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 12,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-100",
@@ -1500,7 +1500,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 12,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-101",
@@ -1515,7 +1515,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 12,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-102",
@@ -1605,7 +1605,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 13,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-108",
@@ -1620,7 +1620,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 13,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "PRINCIPLES-OF-FLIGHT-109",

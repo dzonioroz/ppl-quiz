@@ -1185,7 +1185,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 10,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "METEOROLOGY-080",
@@ -1729,7 +1729,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 14,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "METEOROLOGY-117",
@@ -2089,7 +2089,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "METEOROLOGY-141",
@@ -2134,7 +2134,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "METEOROLOGY-144",
@@ -2149,7 +2149,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "METEOROLOGY-145",
@@ -2179,7 +2179,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 17,
-      "requiresFigure": false
+      "requiresFigure": true
     },
     {
       "id": "METEOROLOGY-147",
@@ -2239,7 +2239,7 @@
       "correctAnswer": 0,
       "explanation": "",
       "sourcePage": 18,
-      "requiresFigure": false
+      "requiresFigure": true
     }
   ]
 }
