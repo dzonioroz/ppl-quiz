@@ -1158,12 +1158,11 @@
     {
       "id": "HUMAN-PERFORMANCE-078",
       "sourceNumber": 78,
-      "question": "Risk management, as a part of aeronautical decision making (AM process, relies on which features to reduce the risk associated with each flight?",
+      "question": "Risk management, as a part of the aeronautical decision-making (ADM) process, relies on which features to reduce the risk associated with each flight?",
       "answers": [
         "Situational awareness, problem recognition, and good judgment.",
         "Application of stress management and risk element procedures.",
-        "The mental process of analyzing all information in a particular situation and making a timely.",
-        "Decision on what action to take."
+        "The mental process of analyzing all information in a particular situation and making a timely decision on what action to take."
       ],
       "correctAnswer": 0,
       "explanation": "",
@@ -1286,9 +1285,8 @@
     {
       "id": "HUMAN-PERFORMANCE-087",
       "sourceNumber": 87,
-      "question": "Which technique should a pilot use to scan for traffic to the right and left during.",
+      "question": "Which technique should a pilot use to scan for traffic to the right and left during straight-and-level flight?",
       "answers": [
-        "Straight-and-level flight?",
         "Systematically focus on different segments of the sky for short intervals.",
         "Continuous sweeping of the windshield from right to left.",
         "Concentrate on relative movement detected in the peripheral vision area."
@@ -1567,8 +1565,7 @@
       "answers": [
         "Rely upon the aircraft instrument indications.",
         "Concentrate on yaw, pitch, and roll sensations.",
-        "Consciously slow the breathing rate until symptoms clear and then resume normal.",
-        "Breathing rate."
+        "Consciously slow the breathing rate until symptoms clear and then resume normal breathing rate."
       ],
       "correctAnswer": 0,
       "explanation": "",
@@ -1634,11 +1631,11 @@
     {
       "id": "HUMAN-PERFORMANCE-111",
       "sourceNumber": 111,
-      "question": "The most effective technique to use for detecting other aircraft at night is to avoid staring directly at the point where another aircraft is suspected to be flying.",
+      "question": "What is the most effective technique to use for detecting other aircraft at night?",
       "answers": [
+        "Avoid staring directly at the point where another aircraft is suspected to be flying.",
         "Turn the head and sweep the eyes rapidly over the entire visible region.",
-        "Avoid scanning the region below the horizon so as to avoid the effect on ground light on.",
-        "The eyes."
+        "Avoid scanning the region below the horizon so as to avoid the effect of ground light on the eyes."
       ],
       "correctAnswer": 0,
       "explanation": "",
@@ -1648,11 +1645,11 @@
     {
       "id": "HUMAN-PERFORMANCE-112",
       "sourceNumber": 112,
-      "question": "The three-needle type altimeter used in many light aircraft",
+      "question": "Which statements about the three-needle type altimeter used in many light aircraft are correct?\nA) Easy to misread.\nB) Hardly ever misread.\nC) Accurate and reliable.\nD) Not very accurate or reliable.",
       "answers": [
-        "Easy to mis-read. B. Hardly ever mis-read. C. Accurate and reliable. D. Not very accurate or reliable. a. A) and C).",
+        "A) and C).",
         "Only A).",
-        "Only A).",
+        "Only B).",
         "B) and D)."
       ],
       "correctAnswer": 0,
@@ -1692,9 +1689,8 @@
     {
       "id": "HUMAN-PERFORMANCE-115",
       "sourceNumber": 115,
-      "question": "In an unpressurised aircraft, at high altitudes the amount of oxygen that diffuses across.",
+      "question": "In an unpressurised aircraft, at high altitudes the amount of oxygen that diffuses across the lung membranes into the blood is:",
       "answers": [
-        "The lung membranes into the blood is.",
         "Decreased because of the low partial pressure of oxygen.",
         "Decreased because of the lower temperatures.",
         "Unchanged to that at sea level."
@@ -1725,8 +1721,7 @@
       "answers": [
         "Continued stimulation of the tiny portion of the inner ear which controls sense of balance.",
         "Instability in the brain cells which affect balance and will generally be overcome with experience.",
-        "The movement of an aircraft causing the stomach to create an acid substance which.",
-        "Causes the stomach lining to contract."
+        "The movement of an aircraft causing the stomach to create an acid substance which causes the stomach lining to contract."
       ],
       "correctAnswer": 0,
       "explanation": "",
@@ -1736,11 +1731,10 @@
     {
       "id": "HUMAN-PERFORMANCE-118",
       "sourceNumber": 118,
-      "question": "As a pilot, flying for long periods in hot summer temperatures increases the susceptibility.",
+      "question": "As a pilot, flying for long periods in hot summer temperatures increases susceptibility to dehydration because:",
       "answers": [
-        "Of dehydration since the.",
         "Dry air at altitude tends to increase the rate of water loss from the body.",
-        "Moist air at altitude helps retain the body´s moisture.",
+        "Moist air at altitude helps retain the body's moisture.",
         "Temperature decreases with altitude."
       ],
       "correctAnswer": 0,
@@ -1779,9 +1773,8 @@
     {
       "id": "HUMAN-PERFORMANCE-121",
       "sourceNumber": 121,
-      "question": "Although not required, supplemental oxygen is recommended for use when flying at.",
+      "question": "Although not required, supplemental oxygen is recommended for use when flying at night above:",
       "answers": [
-        "night above.",
         "1,500 m (5,000 ft).",
         "3,050 m (10,000 ft).",
         "3,800 m (12,500 ft)."
@@ -1794,11 +1787,11 @@
     {
       "id": "HUMAN-PERFORMANCE-122",
       "sourceNumber": 122,
-      "question": "Which of the following occur when a pilot is sitting too high in a cockpit?",
+      "question": "Which of the following occur when a pilot is sitting too high in a cockpit?\na) Good downward outside view.\nb) Poor view of instruments.\nc) Upwards outside view obstructed.",
       "answers": [
-        "Good downward outside view.",
-        "Poor view of instruments.",
-        "Upwards outside view obstructed. a. a), b) and c). b. only a). c. a) and b) only.",
+        "a), b) and c).",
+        "Only a).",
+        "a) and b) only.",
         "a) and c) only."
       ],
       "correctAnswer": 0,
@@ -1853,7 +1846,7 @@
     {
       "id": "HUMAN-PERFORMANCE-126",
       "sourceNumber": 126,
-      "question": "Which of the following attitudes and/or characteristics have b good communication and especially dangerous when flying?",
+      "question": "Which of the following attitudes or characteristics hinder good communication and are especially dangerous when flying?",
       "answers": [
         "Arrogance and aggressiveness.",
         "A highly developed sense of leadership.",
@@ -2170,8 +2163,7 @@
       "sourceNumber": 148,
       "question": "Which occurs when climbing above 18,000 feet in an unpressurized aircraft without supplemental oxygen?",
       "answers": [
-        "The oxygen pressure within the lungs cannot be maintained without an increase in inhaled.",
-        "Oxygen pressure.",
+        "The oxygen pressure within the lungs cannot be maintained without an increase in inhaled oxygen pressure.",
         "Gases trapped in the body contract and prevent nitrogen from escaping the bloodstream.",
         "The pressure in the middle ear becomes less than the atmospheric pressure in the cabin."
       ],
@@ -2187,8 +2179,7 @@
       "answers": [
         "Tingling of the skin and a false sense of security may be symptoms of hypoxia.",
         "Hypoxia is caused by nitrogen bubbles in the joints and bloodstream.",
-        "Forcing oneself to concentrate on the flight instruments will help to overcome the effects.",
-        "Of hypoxia."
+        "Forcing oneself to concentrate on the flight instruments will help to overcome the effects of hypoxia."
       ],
       "correctAnswer": 0,
       "explanation": "",
@@ -2198,9 +2189,8 @@
     {
       "id": "HUMAN-PERFORMANCE-150",
       "sourceNumber": 150,
-      "question": "A pilot should be able to overcome the symptoms or avoid future occurrences of.",
+      "question": "A pilot should be able to overcome the symptoms or avoid future occurrences of hyperventilation by:",
       "answers": [
-        "Hyperventilation by.",
         "Slowing the breathing rate, breathing into a bag, or talking aloud.",
         "Closely monitoring the flight instruments to control the airplane.",
         "Increasing the breathing rate in order to increase lung ventilation."
