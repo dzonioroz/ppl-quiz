@@ -557,9 +557,8 @@
     {
       "id": "AIRCRAFT-GENERAL-KNOWLEDGE-038",
       "sourceNumber": 38,
-      "question": "An engine that does not have a carburettor but rather metered fuel that is fed under.",
+      "question": "An engine that does not have a carburettor but instead has metered fuel fed under pressure into the induction manifold is said to have:",
       "answers": [
-        "pressure into the induction manifold, is said to have.",
         "Fuel injection.",
         "Supercharging.",
         "Metering carburettor."
