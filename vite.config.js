@@ -1,4 +1,5 @@
 import {defineConfig} from 'vite';
+import {pwaBuild} from './scripts/pwa-build.js';
 import {readFileSync,readdirSync} from 'node:fs';
 import {createRequire} from 'node:module';
 import {dirname,join} from 'node:path';
@@ -31,5 +32,5 @@ function pdfjsResources(){
 export default defineConfig({
  base:'/ppl-quiz/',
  define:{__PDFJS_RESOURCE_PATH__:JSON.stringify(pdfjsPath)},
- plugins:[pdfjsResources()],
+ plugins:[pdfjsResources(),pwaBuild()],
 });

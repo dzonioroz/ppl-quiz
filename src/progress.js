@@ -9,7 +9,7 @@ export function summarize(sessions, attempts, subjects, available) {
     subjects:subjects.map(id=>({id,...stats(attempts.filter(a=>a.subject_id===id)),quizzes:sessions.filter(s=>s.subject_id===id || attempts.some(a=>a.session_id===s.id && a.subject_id===id)).length, incorrect:[...incorrect].filter(key=>JSON.parse(key)[0]===id).length})) };
 }
 export function completedPayload({id,userId,startedAt,subject,mode,results}) {
-  return {id,user_id:userId,subject_id:subject,mode,started_at:startedAt,completed_at:new Date().toISOString(),total_questions:results.length,correct_answers:results.filter(r=>r.correct).length,
+  return {id,user_id:userId,subject_id:subject,mode,started_at:startedAt,completed_at:new Date(Math.max(Date.now(),Date.parse(startedAt),...results.map(r=>Date.parse(r.answeredAt)||0))).toISOString(),total_questions:results.length,correct_answers:results.filter(r=>r.correct).length,
     attempts:results.map(r=>({subject_id:r.subjectId,question_id:r.id,selected_answer:r.answer,is_correct:r.correct,answered_at:r.answeredAt}))};
 }
 export function shuffled(items, random=Math.random) {

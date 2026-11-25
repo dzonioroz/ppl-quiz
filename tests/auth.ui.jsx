@@ -7,7 +7,7 @@ import AuthGate from '../src/AuthGate';
 const user={id:'a',email:'a@example.test'};
 function mount(){return render(<AuthGate>{(u,logout)=><div>{u.email}<button onClick={logout}>Logout</button></div>}</AuthGate>);}
 async function fill(){fireEvent.change(screen.getByLabelText('Email'),{target:{value:user.email}});fireEvent.change(screen.getByLabelText('Password'),{target:{value:'password123'}});}
-beforeEach(()=>{vi.resetAllMocks();mocks.auth.getSession.mockResolvedValue({data:{session:null},error:null});mocks.auth.onAuthStateChange.mockImplementation(callback=>{mocks.callback=callback;return {data:{subscription:{unsubscribe:vi.fn()}}};});for(const fn of ['signUp','signInWithPassword','resetPasswordForEmail','updateUser','signOut'])mocks.auth[fn].mockResolvedValue({data:{session:null},error:null});});
+beforeEach(()=>{localStorage.clear();vi.resetAllMocks();mocks.auth.getSession.mockResolvedValue({data:{session:null},error:null});mocks.auth.onAuthStateChange.mockImplementation(callback=>{mocks.callback=callback;return {data:{subscription:{unsubscribe:vi.fn()}}};});for(const fn of ['signUp','signInWithPassword','resetPasswordForEmail','updateUser','signOut'])mocks.auth[fn].mockResolvedValue({data:{session:null},error:null});});
 afterEach(cleanup);
 describe('authentication',()=>{
  it('restores an authenticated session',async()=>{mocks.auth.getSession.mockResolvedValue({data:{session:{user}},error:null});mount();expect(await screen.findByText(user.email)).toBeTruthy();});
@@ -18,4 +18,14 @@ describe('authentication',()=>{
  it('requests password reset with static root redirect',async()=>{mount();fireEvent.click(await screen.findByText('Forgot password?'));fireEvent.change(screen.getByLabelText('Email'),{target:{value:user.email}});fireEvent.click(screen.getByText('Send reset email'));await waitFor(()=>expect(mocks.auth.resetPasswordForEmail).toHaveBeenCalledWith(user.email,{redirectTo:'http://localhost:5173/ppl-quiz/'}));});
  it('recovery event requires updating password before entering quizzes',async()=>{mount();await screen.findByLabelText('Email');mocks.callback('PASSWORD_RECOVERY',{user});expect(await screen.findByText('Choose a new password')).toBeTruthy();fireEvent.change(screen.getByLabelText('Password'),{target:{value:'newpassword123'}});fireEvent.click(screen.getByText('Update password'));await waitFor(()=>expect(mocks.auth.updateUser).toHaveBeenCalledWith({password:'newpassword123'}));expect(await screen.findByText(user.email)).toBeTruthy();});
  it('shows restoration errors and permits retry through login',async()=>{mocks.auth.getSession.mockResolvedValue({data:{session:null},error:{message:'Session unavailable'}});mount();expect(await screen.findByRole('alert')).toHaveProperty('textContent','Session unavailable');expect(screen.getByLabelText('Email')).toBeTruthy();});
+});
+
+it('recognizes a previously signed-in account offline after its session expires',async()=>{
+ localStorage.setItem('ppl-recognized-account',JSON.stringify(user));
+ const online=vi.spyOn(window.navigator,'onLine','get').mockReturnValue(false);
+ try{
+  mocks.auth.getSession.mockResolvedValue({data:{session:null},error:{message:'Network unavailable'}});
+  mount();
+  expect(await screen.findByText(user.email)).toBeTruthy();
+ }finally{online.mockRestore();}
 });
