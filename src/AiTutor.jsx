@@ -1,4 +1,6 @@
 import React,{useEffect,useRef,useState} from 'react';
+import {useConnectivity} from './OfflineSettings';
+import {localValue,storeValue} from './offlineStore';
 import {supabase} from './supabase';
 
 export async function requestTutor(body) {
@@ -15,19 +17,37 @@ export async function requestTutor(body) {
  if(data?.error)throw Error(data.error);
  return data;
 }
-export default function AiTutor({sessionId,question,request=requestTutor}) {
+export default function AiTutor({sessionId,question,owner,request=requestTutor}) {
  const [explanation,setExplanation]=useState(null),[messages,setMessages]=useState([]),[remaining,setRemaining]=useState(2);
  const [message,setMessage]=useState(''),[loading,setLoading]=useState(''),[error,setError]=useState(''),[refusal,setRefusal]=useState('');
+ const online=useConnectivity();
+ const cacheKey=JSON.stringify([question.subjectId,question.id,question.question,question.answers,question.correctAnswer,question.figure,'v1']);
+ const [cached,setCached]=useState(null);
+ useEffect(()=>{
+  if(!owner)return;
+  let current=true;
+  setCached(null);
+  localValue(owner,'explanation',cacheKey).then(value=>{if(current)setCached(value);}).catch(()=>{});
+  return ()=>{current=false;};
+ },[owner,cacheKey]);
+ const shown=explanation||(!online?cached:null);
  const busy=useRef(false),active=useRef(true);
  // An unmounted question must never receive another question's late response.
  useEffect(()=>{active.current=true;return()=>{active.current=false;};},[]);
  async function send(action,prompt) {
-  if(busy.current || (action==='follow-up' && (!prompt?.trim() || remaining===0)))return;
+  if(!navigator.onLine || busy.current || (action==='follow-up' && (!prompt?.trim() || remaining===0)))return;
   busy.current=true;setLoading(action);setError('');setRefusal('');
   try {
    const data=await request({action,sessionId,subjectId:question.subjectId,questionId:question.id,requestId:crypto.randomUUID(),...(action==='follow-up'?{message:prompt.trim()}:{})});
    if(!active.current)return;
-   if(data.explanation)setExplanation(data.explanation);
+   if(data.explanation){
+    setExplanation(data.explanation);
+    if(owner){
+     try{await storeValue(owner,'explanation',data.explanation,cacheKey);setCached(data.explanation);}
+     catch{if(active.current)setError('This explanation could not be saved for offline reading.');}
+    }
+   }
+   if(!active.current)return;
    setRemaining(data.remaining);setMessages(data.messages || []);
    if(action==='follow-up'){if(data.inScope===false)setRefusal(data.answer || 'AI Tutor could not answer this follow-up. Try rephrasing it about the current question.');else setMessage('');}
   } catch(e){if(active.current){setError(e.message);if(e.remaining===0)setRemaining(0);}}
@@ -40,21 +60,22 @@ export default function AiTutor({sessionId,question,request=requestTutor}) {
    <div><h2>PPL AI Tutor</h2><p>Understand the answer. Remember the concept.</p></div>
    <span className="tutor-tag">Study companion</span>
   </div>
-  {!explanation&&<div className="tutor-intro">
+  {online&&!explanation&&<div className="tutor-intro">
    <p>Get a focused explanation of this question, then explore it with two follow-ups.</p>
    <button className="tutor-explain" disabled={!!loading} onClick={()=>void send('explanation')}>Explain with AI</button>
   </div>}
   {loading&&<p className="tutor-loading" role="status"><span className="tutor-spinner" aria-hidden="true"/>{loading==='explanation'?'Generating explanation…':'Asking AI…'}</p>}
   {error&&<p className="tutor-error" role="alert">{error}</p>}
   {refusal&&<div className="tutor-error" role="alert"><strong>Follow-up not answered</strong><p>{refusal}</p><p>This request did not use a follow-up. Try rephrasing it about this question.</p></div>}
-  {explanation&&<>
+  {!online&&<p role="status">{shown?'Saved explanation · ':''}Connect to use AI explanations and follow-ups.</p>}
+  {shown&&<>
    <div className="tutor-explanation">
-    {explanation.warning&&<div className="tutor-warning" role="status"><strong>AI verification warning</strong><p>{explanation.warning}</p></div>}
-    {explanation.whyCorrect&&<div className="tutor-section"><h3>Why this is correct</h3><p>{explanation.whyCorrect}</p></div>}
-    {!!explanation.whyOthersWrong?.length&&<div className="tutor-section"><h3>Why the other answers are wrong</h3><ul className="tutor-alternatives">{explanation.whyOthersWrong.map((x,i)=><li key={i}><strong>{x.answer}</strong><p>{x.reason}</p></li>)}</ul></div>}
-    {explanation.examTip&&<div className="tutor-tip"><h3><span aria-hidden="true">✧ </span>Exam tip</h3><p>{explanation.examTip}</p></div>}
+    {shown.warning&&<div className="tutor-warning" role="status"><strong>AI verification warning</strong><p>{shown.warning}</p></div>}
+    {shown.whyCorrect&&<div className="tutor-section"><h3>Why this is correct</h3><p>{shown.whyCorrect}</p></div>}
+    {!!shown.whyOthersWrong?.length&&<div className="tutor-section"><h3>Why the other answers are wrong</h3><ul className="tutor-alternatives">{shown.whyOthersWrong.map((x,i)=><li key={i}><strong>{x.answer}</strong><p>{x.reason}</p></li>)}</ul></div>}
+    {shown.examTip&&<div className="tutor-tip"><h3><span aria-hidden="true">✧ </span>Exam tip</h3><p>{shown.examTip}</p></div>}
    </div>
-   <div className="tutor-follow-ups">
+   {online&&explanation&&<div className="tutor-follow-ups">
     <div className="tutor-follow-up-heading"><h3>Explore this question</h3><span className="tutor-count" aria-label={`${remaining} of 2 follow-ups available`}>{remaining} / 2 left</span></div>
     {!!messages.length&&<div className="tutor-conversation">{messages.map((x,i)=><div className="tutor-exchange" key={i}><div className="tutor-message tutor-message-user"><strong>You</strong><p>{x.question}</p></div><div className="tutor-message tutor-message-ai"><strong>AI Tutor</strong><p>{x.answer}</p></div></div>)}</div>}
     <div className="tutor-suggestions">{(explanation.suggestedFollowUps?.length?explanation.suggestedFollowUps:['Explain more simply','Why are the others wrong?','Give me a memory trick']).slice(0,3).map(prompt=><button key={prompt} disabled={disabled} onClick={()=>void send('follow-up',prompt)}>{prompt}</button>)}</div>
@@ -65,6 +86,7 @@ export default function AiTutor({sessionId,question,request=requestTutor}) {
     </form>
     <p className="tutor-remaining" aria-live="polite">{remaining===0?"You've used your 2 follow-up questions for this question.":`${remaining} follow-up question${remaining===1?'':'s'} remaining`}</p>
    </div>
+   }
    <p className="tutor-disclaimer">AI can make mistakes. Verify uncertain information with your training materials.</p>
   </>}
  </section>;
